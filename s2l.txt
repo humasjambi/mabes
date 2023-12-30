@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="amphtml" href="https://slot1131.xyz/san/gacor/">
-    <link rel="canonical" href="https://polpp.sangihekab.go.id/gacor#/">
+    <link rel="canonical" href="https://polpp.sangihekab.go.id/gacor$/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>Slot Gacor Maxwin? Link Slot Terpercaya Mudah Menang Maxwin Malam Ini!</title>
     <meta name="description" content="Situs slot gacor hari ini provider berlisensi resmi SLOT1131. Main sebentar auto maxwin, segera bergabung untuk memainkan game slot online gacor terlengkap malam ini. Peluang menang di tahun 2024 sangatlah besar bersama agen SLOT1131 paling gacor.">
     <meta property="og:site_name" content="Slot Gacor Maxwin">
-    <meta property="og:url" content="https://polpp.sangihekab.go.id/gacor#/">
+    <meta property="og:url" content="https://polpp.sangihekab.go.id/gacor$/">
     <meta property="og:title" content="Slot Gacor Maxwin? Link Slot Terpercaya Mudah Menang Maxwin Malam Ini!">
     <meta property="og:type" content="p roduct">
     <meta property="og:description" content="Situs slot gacor hari ini provider berlisensi resmi SLOT1131. Main sebentar auto maxwin, segera bergabung untuk memainkan game slot online gacor terlengkap malam ini. Peluang menang di tahun 2024 sangatlah besar bersama agen SLOT1131 paling gacor.">
@@ -30,7 +30,7 @@
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
     <meta name="robots" content="index,follow">
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/61846585500/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://polpp.sangihekab.go.id/gacor#/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://polpp.sangihekab.go.id/gacor$/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=3aea3c-3.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"de1d40c09b5cabc09db944b5f4fff7e6","betas":["rich-media-storefront-analytics"],"domain":"slot-1131.org","predictiveSearch":true,"shopId":61846585500,"smart_payment_buttons_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
