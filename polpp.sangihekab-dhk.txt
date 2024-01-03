@@ -1,37 +1,35 @@
-
 <!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8">
+<html class="js shopify-features__smart-payment-buttons--enabled" lang="en" style="--header-height: 76px;"><head>
+    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="amphtml" href="https://slot1131.xyz/una/demo/">
-    <link rel="canonical" href="http://lper.feb.unand.ac.id/stats/demo2/">
+    <link rel="amphtml" href="https://slot1131.xyz/san/hk/">
+    <link rel="canonical" href="https://polpp.sangihekab.go.id/wp-content/angka5d/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-    <title>Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!</title>
-    <meta name="description" content="Slot demo PG & slot demo pragmatic gratis main sepuasnya gampang x500, mainkan akun demo slot rupiah sekarang juga hanya di provider SLOT1131 terpopuler 2024.">
-    <meta property="og:site_name" content="SLOT DEMO AMEL">
-    <meta property="og:url" content="http://lper.feb.unand.ac.id/stats/demo2/">
-    <meta property="og:title" content="Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!">
+    <title>Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D</title>
+    <meta name="description" content="Live draw hk merupakan hasil pengocokan judi togel dengan dimediasi menggunakan tabel data HK terlengkap hari ini. Provider kami menyediakan keluaran togel tercepat khusus pasaran togel hongkong pools dari 2D, 3D, 4D dan 5D.">
+    <meta property="og:site_name" content="Togel Amel Cantik">
+    <meta property="og:url" content="https://polpp.sangihekab.go.id/wp-content/angka5d/">
+    <meta property="og:title" content="Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D">
     <meta property="og:type" content="p roduct">
-    <meta property="og:description" content="Slot demo PG & slot demo pragmatic gratis main sepuasnya gampang x500, mainkan akun demo slot rupiah sekarang juga hanya di provider SLOT1131 terpopuler 2024.">
-    <meta property="og:image" content="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648">
-    <meta property="og:image:secure_url" content="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648">
+    <meta property="og:description" content="Live draw hk merupakan hasil pengocokan judi togel dengan dimediasi menggunakan tabel data HK terlengkap hari ini. Provider kami menyediakan keluaran togel tercepat khusus pasaran togel hongkong pools dari 2D, 3D, 4D dan 5D.">
+    <meta property="og:image" content="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648">
+    <meta property="og:image:secure_url" content="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648">
     <meta property="og:image:width" content="720">
     <meta property="og:image:height" content="720">
-    <meta property="og:price:amount" content="FREE,00">
+    <meta property="og:price:amount" content="10.000,00">
     <meta property="og:price:currency" content="IDR">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!">
-    <meta name="twitter:description" content="Slot demo PG & slot demo pragmatic gratis main sepuasnya gampang x500, mainkan akun demo slot rupiah sekarang juga hanya di provider SLOT1131 terpopuler 2024.">
-    <script src="//slot-1131.org/cdn/shop/t/1/assets/constants.js?v=58251544750838685771703849173" defer="defer"></script>
-    <script src="//slot-1131.org/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511703849181" defer="defer"></script>
-    <script src="//slot-1131.org/cdn/shop/t/1/assets/global.js?v=40820548392383841591703849174" defer="defer"></script><script src="//slot-1131.org/cdn/shop/t/1/assets/animations.js?v=88693664871331136111703849157" defer="defer"></script>
+    <meta name="twitter:title" content="Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D">
+    <meta name="twitter:description" content="Live draw hk merupakan hasil pengocokan judi togel dengan dimediasi menggunakan tabel data HK terlengkap hari ini. Provider kami menyediakan keluaran togel tercepat khusus pasaran togel hongkong pools dari 2D, 3D, 4D dan 5D.">
+    <script type="text/javascript" async="" src="//slot-1131.org/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js"></script><script src="//slot-1131.org/cdn/shop/t/1/assets/constants.js?v=58251544750838685771703849173" defer></script>
+    <script src="//slot-1131.org/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511703849181" defer></script>
+    <script src="//slot-1131.org/cdn/shop/t/1/assets/global.js?v=40820548392383841591703849174" defer></script><script src="//slot-1131.org/cdn/shop/t/1/assets/animations.js?v=88693664871331136111703849157" defer></script>
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
     <meta name="robots" content="index,follow">
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/61846585500/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="http://lper.feb.unand.ac.id/stats/demo2/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://polpp.sangihekab.go.id/wp-content/angka5d/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=3aea3c-3.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"de1d40c09b5cabc09db944b5f4fff7e6","betas":["rich-media-storefront-analytics"],"domain":"slot-1131.org","predictiveSearch":true,"shopId":61846585500,"smart_payment_buttons_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
@@ -61,10 +59,10 @@ Shopify.routes.root = "/";</script>
   });
   previewBarInjector.init();
 });</script>
-<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
-<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
-<script integrity="sha256-o0rXHoHYF8JV/pI5sd/RPjI3ywH41Ezq5yxQ3ds5iuM=" defer="defer" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/bars/preview_bar_injector-a34ad71e81d817c255fe9239b1dfd13e3237cb01f8d44ceae72c50dddb398ae3.js" crossorigin="anonymous"></script>
-<script id="sections-script" data-sections="header" defer="defer" src="//slot-1131.org/cdn/shop/t/1/compiled_assets/scripts.js?3"></script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script integrity="sha256-o0rXHoHYF8JV/pI5sd/RPjI3ywH41Ezq5yxQ3ds5iuM=" defer src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/bars/preview_bar_injector-a34ad71e81d817c255fe9239b1dfd13e3237cb01f8d44ceae72c50dddb398ae3.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer src="//slot-1131.org/cdn/shop/t/1/compiled_assets/scripts.js?3"></script>
 <style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
   visibility: hidden;
 }
@@ -515,12 +513,7 @@ Shopify.routes.root = "/";</script>
     </style>
 
     <link href="//slot-1131.org/cdn/shop/t/1/assets/base.css?v=22615539281115885671703849157" rel="stylesheet" type="text/css" media="all" />
-<link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2FlYTNjLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=09c6dac359f0734db8d506cf026d291e568167381025b2d5a10b87a28058f306" type="font/woff2" crossorigin><link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2FlYTNjLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=09c6dac359f0734db8d506cf026d291e568167381025b2d5a10b87a28058f306" type="font/woff2" crossorigin><link
-        rel="stylesheet"
-        href="//slot-1131.org/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561703849169"
-        media="print"
-        onload="this.media='all'"
-      ><script>
+<link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2FlYTNjLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=09c6dac359f0734db8d506cf026d291e568167381025b2d5a10b87a28058f306" type="font/woff2" crossorigin><link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=M2FlYTNjLTMuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=09c6dac359f0734db8d506cf026d291e568167381025b2d5a10b87a28058f306" type="font/woff2" crossorigin><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561703849169" media="all" onload="this.media=&#39;all&#39;" /><script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
@@ -528,10 +521,10 @@ Shopify.routes.root = "/";</script>
     </script>
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 61846585500,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 61846585500,storefrontBaseUrl: "https://3aea3c-3.myshopify.com",cdnBaseUrl: "https://slot-1131.org/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"42964924367004","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/SLOT-GACOR-HARI-INI-3.jpg?v=1703849648"},"price":{"amount":0.0,"currencyCode":"IDR"},"product":{"id":"7830517973148","title":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","untranslatedTitle":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","url":"\/products\/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024","vendor":"SLOT DEMO AMEL","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"42964924367004","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/SLOT-GACOR-HARI-INI-3.jpg?v=1703849648"},"price":{"amount":0.0,"currencyCode":"IDR"},"product":{"id":"7830517973148","title":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","untranslatedTitle":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","url":"\/products\/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024","vendor":"SLOT DEMO AMEL","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://slot-1131.org/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 61846585500,storefrontBaseUrl: "https://3aea3c-3.myshopify.com",cdnBaseUrl: "https://slot-1131.org/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"42964924367004","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/SLOT-GACOR-HARI-INI-3.jpg?v=1703849648"},"price":{"amount":0.0,"currencyCode":"IDR"},"product":{"id":"7830517973148","title":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","untranslatedTitle":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","url":"\/products\/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024","vendor":"Togel Amel Cantik","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"42964924367004","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/SLOT-GACOR-HARI-INI-3.jpg?v=1703849648"},"price":{"amount":0.0,"currencyCode":"IDR"},"product":{"id":"7830517973148","title":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","untranslatedTitle":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","url":"\/products\/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024","vendor":"Togel Amel Cantik","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://slot-1131.org/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script><script async="" src="https://slot-1131.org/cdn/wpm/b80cd6a5fw8efabb83pbabe92ddm0cb690eem.js"></script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
-var meta = {"product":{"id":7830517973148,"gid":"gid:\/\/shopify\/Product\/7830517973148","vendor":"SLOT DEMO AMEL","type":"","variants":[{"id":42964924367004,"price":0,"name":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7830517973148}};
+var meta = {"product":{"id":7830517973148,"gid":"gid:\/\/shopify\/Product\/7830517973148","vendor":"Togel Amel Cantik","type":"","variants":[{"id":42964924367004,"price":0,"name":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7830517973148}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -686,8 +679,8 @@ for (var attr in meta) {
       var token = match? match[1]: undefined;
       if (!hasLoggedConversion(token)) {
         setCookieIfConversion(token);
-        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":42964924367004,"productId":7830517973148,"productGid":"gid:\/\/shopify\/Product\/7830517973148","name":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","price":"0.00","sku":"","brand":"SLOT DEMO AMEL","variant":null,"category":"","nonInteraction":true});
-      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":42964924367004,"productId":7830517973148,"productGid":"gid:\/\/shopify\/Product\/7830517973148","name":"Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!","price":"0.00","sku":"","brand":"SLOT DEMO AMEL","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/slot-1131.org\/products_preview?preview_key=2ac5594e78cd93792909510e874b655d"});
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":42964924367004,"productId":7830517973148,"productGid":"gid:\/\/shopify\/Product\/7830517973148","name":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","price":"0.00","sku":"","brand":"Togel Amel Cantik","variant":null,"category":"","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":42964924367004,"productId":7830517973148,"productGid":"gid:\/\/shopify\/Product\/7830517973148","name":"Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D","price":"0.00","sku":"","brand":"Togel Amel Cantik","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/slot-1131.org\/products_preview?preview_key=2ac5594e78cd93792909510e874b655d"});
       }
     });
 
@@ -697,7 +690,7 @@ for (var attr in meta) {
         eventsListenerScript.src = "//slot-1131.org/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
-})();</script>
+})();</script><script async="" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"></script>
 <script class="boomerang">
 (function () {
   if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
@@ -842,18 +835,1016 @@ for (var attr in meta) {
       }
     });
   }
-})();</script>
-</head>
+})();</script><link href="https://slot-1131.org/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script" />
+<script id="boomr-scr-as" src="https://slot-1131.org/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" async=""></script><script src="https://slot-1131.org/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js" data-source-attribute="shopify.dynamic_checkout.product.init"></script><style type="text/css">.shopify-cleanslate .IJV5fMPgFLuxqy8mKZL5 {
+  display: none !important;
+  color: inherit !important;
+}
+
+.shopify-cleanslate .IJV5fMPgFLuxqy8mKZL5 .PZIfssykeoTTzYDyIKZR {
+  margin: 0 8px 0 8px !important;
+  color: #9c83f8 !important;
+}
+
+.shopify-cleanslate .size--small .IJV5fMPgFLuxqy8mKZL5 {
+  display: none !important;
+}
+
+.shopify-cleanslate .size--large .IJV5fMPgFLuxqy8mKZL5 {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}.shopify-cleanslate .LEFFDXoKK0QvMVVxsKRS {
+  -webkit-font-smoothing: subpixel-antialiased !important;
+  background: rgba(0,0,0,0.4) !important;
+  bottom: 0 !important;
+  font-size: 16px !important;
+  height: 100% !important;
+  left: 0 !important;
+  line-height: 1.3em !important;
+  overflow-wrap: break-word !important;
+  position: fixed !important;
+  top: 0 !important;
+  -webkit-transition: all 0.5s cubic-bezier(0.2, 0.9, 0.3, 1) !important;
+  transition: all 0.5s cubic-bezier(0.2, 0.9, 0.3, 1) !important;
+  width: 100% !important;
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+  z-index: 999999999999 !important;
+  -webkit-transform: translateZ(999999999999px) !important;
+  transform: translateZ(999999999999px) !important;
+}
+
+.shopify-cleanslate .jWT_kmcCOTNn2OC3R3tJ,
+.shopify-cleanslate .fZH6eKUJE5ST_gHEyWqw,
+.shopify-cleanslate .mjxJJetmwQ9H03XAGjOk {
+  background: rgba(0,0,0,0) !important;
+}
+
+.shopify-cleanslate .fZITIzV8_ue8bUxgABDr,
+.shopify-cleanslate .zdd6IT9vG9_W0ZBk6uSJ {
+  background: rgba(0,0,0,0.4) !important;
+} .ClKjKVFYnuJaiaiOxn5g {
+  overflow: hidden !important;
+  width: 100% !important;
+  position: relative !important;
+}
+
+@media (min-width: 500px) {
+   .ClKjKVFYnuJaiaiOxn5g {
+    position: absolute !important;
+  }
+}
+
+.shopify-cleanslate .w6s1MSakDMgQE4EIcVnI {
+  -webkit-overflow-scrolling: touch !important;
+  background-color: #fff !important;
+  border-top-left-radius: 4px !important;
+  border-top-right-radius: 4px !important;
+  bottom: 0 !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  color: #000017 !important;
+  left: 0 !important;
+  max-height: calc(100% - 20px) !important;
+  outline: none !important;
+  position: absolute !important;
+  -webkit-transition: translateY,0.5s cubic-bezier(0.2, 0.9, 0.3, 1) !important;
+  transition: translateY,0.5s cubic-bezier(0.2, 0.9, 0.3, 1) !important;
+  width: 100% !important;
+  z-index: 9999999 !important;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+  -ms-flex-direction: column !important;
+  flex-direction: column !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .w6s1MSakDMgQE4EIcVnI {
+    border-radius: 4px !important;
+    bottom: auto !important;
+    left: 50% !important;
+    margin-left: -230px !important;
+    max-height: calc(100vh - (20px * 2)) !important;
+    max-width: 460px !important;
+    top: 20px !important;
+  }
+}
+
+.shopify-cleanslate .ukyrOFuXYGjb8Zzci6nA,
+.shopify-cleanslate .xYeiW_gAa_ab9IfqkE0y,
+.shopify-cleanslate .xW3aowfv1cdTRP4re6Ny {
+  -webkit-transform: translateY(100%) !important;
+  transform: translateY(100%) !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .ukyrOFuXYGjb8Zzci6nA,
+  .shopify-cleanslate .xYeiW_gAa_ab9IfqkE0y,
+  .shopify-cleanslate .xW3aowfv1cdTRP4re6Ny {
+    -webkit-transform: translateY(-100%) !important;
+    transform: translateY(-100%) !important;
+    top: 0 !important;
+  }
+}
+
+.shopify-cleanslate .w7w2vUlZgWM6KMUp13ct,
+.shopify-cleanslate .a6Ahdzc9e6tpNq4LpTFW {
+  -webkit-transform: translateY(0%) !important;
+  transform: translateY(0%) !important;
+}.shopify-cleanslate .R9tDu8JrE_i1ctOEo0v_ {
+  position: absolute !important;
+  top: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  overflow: hidden !important;
+  height: 1px !important;
+  width: 1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+}.shopify-cleanslate .ElVMgDjOgshGFMIvg3se {
+  display: inline-block !important;
+  line-height: 0 !important;
+}
+
+.shopify-cleanslate .qZgSr5RiiBCTAMfQYsty {
+  display: inline-block !important;
+  max-width: 100% !important;
+}
+
+.shopify-cleanslate .L_4kfjrgUJIme2NaY9sr {
+  -webkit-animation: uNTp63b4o9m3_VLe13Br linear 1s infinite !important;
+  animation: uNTp63b4o9m3_VLe13Br linear 1s infinite !important;
+}
+
+@-webkit-keyframes uNTp63b4o9m3_VLe13Br {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes uNTp63b4o9m3_VLe13Br {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}.shopify-cleanslate .w9Qwzo4OimiAclcZ7CHC {
+  fill: #000017 !important;
+}
+
+.shopify-cleanslate .I7RnGxvojmnvQveuFz9O {
+  fill: #d9d9d9 !important;
+}
+
+.shopify-cleanslate .wb749_dbiWj1Utdogxz8 {
+  fill: #969696 !important;
+}
+
+.shopify-cleanslate .ew4umT9w0YT2gylj3K1Q {
+  fill: #fff !important;
+}
+
+.shopify-cleanslate .hwDOxnNHVpl3dQR4wIIC {
+  fill: #e7a321 !important;
+}.shopify-cleanslate .LkUKdyYNd2MJG2F_EGwK {
+  height: 16px !important;
+  width: 16px !important;
+}
+
+.shopify-cleanslate .R0ctUoY27_DdpIpOwjI8 {
+  height: 32px !important;
+  width: 32px !important;
+}.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ {
+  -webkit-appearance: none !important;
+  -webkit-font-smoothing: inherit !important;
+  position: relative !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  display: inline-block !important;
+  background: #187bbd !important;
+  border-radius: 4px !important;
+  border: 0 none !important;
+  -webkit-box-shadow: 0 0 0 0 transparent !important;
+  box-shadow: 0 0 0 0 transparent !important;
+  text-align: center !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+  color: #fff !important;
+  -webkit-transition: background 0.2s ease-out, -webkit-box-shadow 0.2s ease-out !important;
+  transition: background 0.2s ease-out, -webkit-box-shadow 0.2s ease-out !important;
+  transition: background 0.2s ease-out, box-shadow 0.2s ease-out !important;
+  transition: background 0.2s ease-out, box-shadow 0.2s ease-out, -webkit-box-shadow 0.2s ease-out !important;
+  vertical-align: middle !important;
+  padding: 16px 24px !important;
+  font-size: 16px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ {
+    font-size: 14px !important;
+  }
+}
+
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ,
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ * {
+  cursor: pointer !important;
+}
+
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ:active,
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ:focus {
+  -webkit-box-shadow: 0 0 0 4px rgba(25,144,198,0.25) !important;
+  box-shadow: 0 0 0 4px rgba(25,144,198,0.25) !important;
+}
+
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ:hover,
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ:active {
+  background: #136f99 !important;
+}
+
+.shopify-cleanslate .sJflmvhNHZe_lcm8n9HJ[disabled] {
+  background: #d9d9d9 !important;
+  cursor: default !important;
+}
+
+.shopify-cleanslate .WwEY2txrjWeRYec5pzGa {
+  background: transparent !important;
+  line-height: 1.5 !important;
+  border: 0 none !important;
+  color: #187bbd !important;
+  padding: 0 !important;
+  font-weight: normal !important;
+}
+
+.shopify-cleanslate .WwEY2txrjWeRYec5pzGa:focus,
+.shopify-cleanslate .WwEY2txrjWeRYec5pzGa:active {
+  -webkit-box-shadow: 0 0 0 4px rgba(25,144,198,0.25) !important;
+  box-shadow: 0 0 0 4px rgba(25,144,198,0.25) !important;
+}
+
+.shopify-cleanslate .WwEY2txrjWeRYec5pzGa:hover {
+  color: #136f99 !important;
+  background: transparent !important;
+}
+
+.shopify-cleanslate .WwEY2txrjWeRYec5pzGa[disabled] {
+  color: #d9d9d9 !important;
+}
+
+.shopify-cleanslate .wMXFo2zMXI0rbcB3jGv_ {
+  visibility: hidden !important;
+}
+
+.shopify-cleanslate .Za4FfXJQvJYVdjM_OgM_ {
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  -webkit-transform: translate(-50%, -50%) !important;
+  transform: translate(-50%, -50%) !important;
+}
+
+.shopify-cleanslate .VQNjEX6_4oI5D2k_uKNk {
+  width: 100% !important;
+}.shopify-cleanslate .CO3vyl0MqNeZ1BIwhnpp {
+  text-align: center !important;
+}
+
+.shopify-cleanslate .kvpW162ms5cKlxSZJChp {
+  text-align: left !important;
+}
+
+.shopify-cleanslate .asFVs5jI4yBrqm7YuJH5 {
+  text-align: right !important;
+}.shopify-cleanslate .gSiVdJ2erv228ljpNdYw {
+  margin: 0 !important;
+  font-weight: 400 !important;
+  line-height: 27px !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  font-size: 20px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .gSiVdJ2erv228ljpNdYw {
+    font-size: 18px !important;
+  }
+}.shopify-cleanslate .Z_FNojxP75l5lOblrczK {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+  border-bottom: solid 1px #e4e4e4 !important;
+  padding: 16px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .Z_FNojxP75l5lOblrczK {
+    padding: 12px 16px !important;
+  }
+}
+
+.shopify-cleanslate .VvQCEnDXDqV21Z5EO7cF {
+  width: 100% !important;
+  text-align: center !important;
+  padding-left: 24px !important;
+}
+
+.shopify-cleanslate .NGoeYJPqbe9RF_NrhNO6 {
+  -webkit-box-flex: 0 !important;
+  -ms-flex: 0 0 24px !important;
+  flex: 0 0 24px !important;
+  color: #969696 !important;
+  text-align: center !important;
+}.shopify-cleanslate .DDTm_SILu6DYBkxLn7JC {
+  display: inline !important;
+}.shopify-cleanslate .f0pPynu0OCjxD1NNHpxB {
+  margin-top: 0 !important;
+}
+
+.shopify-cleanslate .B4Tourz_w2V4KbUnttgV {
+  margin-top: 4px !important;
+}
+
+.shopify-cleanslate .fK3OCBT9T5iAoKC1IJwZ {
+  margin-top: 8px !important;
+}
+
+.shopify-cleanslate .W_5CPVWVB2Il9NGZRVFV {
+  margin-top: 12px !important;
+}
+
+.shopify-cleanslate .Y7b1mvsi7Gme1GnNpJsQ {
+  margin-top: 16px !important;
+}
+
+.shopify-cleanslate .qAqmMcUGR5MhfTOJz3ir {
+  margin-top: 20px !important;
+}
+
+.shopify-cleanslate .eaUmZPizVV0901gboavj {
+  margin-top: 24px !important;
+}.shopify-cleanslate .IKlzRqnsOuF8_l330LBc {
+  margin-bottom: 0 !important;
+}
+
+.shopify-cleanslate .cC852JYKGcf8xEtU7WrS {
+  margin-bottom: 4px !important;
+}
+
+.shopify-cleanslate .RrLQAgVQeCxllSxQUVZU {
+  margin-bottom: 8px !important;
+}
+
+.shopify-cleanslate .ZUeVrAHpPgKeulVpjmAa {
+  margin-bottom: 12px !important;
+}
+
+.shopify-cleanslate .EJooh6J6bEZO47pDXtUu {
+  margin-bottom: 16px !important;
+}
+
+.shopify-cleanslate .fp9aAZ_SVNNJ6QVo5xKg {
+  margin-bottom: 20px !important;
+}
+
+.shopify-cleanslate .Jlq9IbDT6wzW4xu3HkZR {
+  margin-bottom: 24px !important;
+}.shopify-cleanslate .Wdoq8fE7BnbgbuKFv95s {
+  margin-left: 0 !important;
+}
+
+.shopify-cleanslate .DO9Fecp17tR3s8hbkMHZ {
+  margin-left: 4px !important;
+}
+
+.shopify-cleanslate ._ydA33DIbiNhOlWT9aGM {
+  margin-left: 8px !important;
+}
+
+.shopify-cleanslate .FpbaO6rhMjPPjqRVybLA {
+  margin-left: 12px !important;
+}
+
+.shopify-cleanslate .Wbfh2S8SwDuq8QsZtTEP {
+  margin-left: 16px !important;
+}
+
+.shopify-cleanslate .GN9o_miRL3ch1Hr5H7kV {
+  margin-left: 20px !important;
+}
+
+.shopify-cleanslate .pmJoTd2h3J6a94g4OkFf {
+  margin-left: 24px !important;
+}.shopify-cleanslate .ipWHfz3HYAlPT60qIg7Q {
+  margin-right: 0 !important;
+}
+
+.shopify-cleanslate .n_3_o0jYDCxrlkW0xviF {
+  margin-right: 4px !important;
+}
+
+.shopify-cleanslate .O2Q5cYoA6lSYleqffZRK {
+  margin-right: 8px !important;
+}
+
+.shopify-cleanslate .aCSR_6v2lMVpFULydMvA {
+  margin-right: 12px !important;
+}
+
+.shopify-cleanslate ._aQnX8dHF1xCg_poDQw_ {
+  margin-right: 16px !important;
+}
+
+.shopify-cleanslate .mWeaSIaNHoDnz0nc7b7p {
+  margin-right: 20px !important;
+}
+
+.shopify-cleanslate .jDXB2p4ZudypGvlYOkxY {
+  margin-right: 24px !important;
+}.shopify-cleanslate .jY8IraEWusqfCW8Fq3yg {
+  font-weight: 500 !important;
+  color: #000017 !important;
+}
+
+.shopify-cleanslate .GbgDkvQbxy7QHgLF5df9 {
+  font-weight: normal !important;
+  color: #969696 !important;
+  font-size: 14px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .GbgDkvQbxy7QHgLF5df9 {
+    font-size: 12px !important;
+  }
+}
+
+.shopify-cleanslate .T5ZNJSk_L5lrkoquqoze {
+  color: #187bbd !important;
+}
+
+.shopify-cleanslate .Xrk_DudB6JJ3t2Kh2_cU {
+  position: absolute !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  height: 1px !important;
+  width: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+}.shopify-cleanslate .eSD6uLOnWKn4m2wKnPT6 {
+  text-align: center !important;
+  font-weight: 300 !important;
+  padding: 48px !important;
+}
+
+.shopify-cleanslate .QqbanoarakKDDaztcbo0 {
+  height: 30px !important;
+  margin: 24px auto 48px auto !important;
+  width: 102px !important;
+}
+
+.shopify-cleanslate .KvgYIjoexP43hPNITIUj {
+  -webkit-animation: wt0uqm0z2Q_AuYj744o4 cubic-bezier(0.25, 0.1, 0.25, 1) 2.5s infinite !important;
+  animation: wt0uqm0z2Q_AuYj744o4 cubic-bezier(0.25, 0.1, 0.25, 1) 2.5s infinite !important;
+  background: #49afea !important;
+  opacity: 0.9 !important;
+  border-radius: 8px !important;
+  float: left !important;
+  height: 100% !important;
+  margin-right: 10px !important;
+  width: 4px !important;
+}
+
+.shopify-cleanslate .KvgYIjoexP43hPNITIUj:first-child {
+  -webkit-animation: tK0ZipREVjVYQGIhwyqu cubic-bezier(0.25, 0.1, 0.25, 1) 2.5s infinite !important;
+  animation: tK0ZipREVjVYQGIhwyqu cubic-bezier(0.25, 0.1, 0.25, 1) 2.5s infinite !important;
+  opacity: 0 !important;
+}
+
+.shopify-cleanslate .KvgYIjoexP43hPNITIUj:last-child {
+  -webkit-animation: iVfgujw3XyulhmFydTVl ease-in 2.5s infinite !important;
+  animation: iVfgujw3XyulhmFydTVl ease-in 2.5s infinite !important;
+}
+
+@-webkit-keyframes wt0uqm0z2Q_AuYj744o4 {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(14px);
+    transform: translateX(14px);
+  }
+}
+
+@keyframes wt0uqm0z2Q_AuYj744o4 {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    -webkit-transform: translateX(14px);
+    transform: translateX(14px);
+  }
+}
+
+@-webkit-keyframes tK0ZipREVjVYQGIhwyqu {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    opacity: 0;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(14px);
+    transform: translateX(14px);
+  }
+}
+
+@keyframes tK0ZipREVjVYQGIhwyqu {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    opacity: 0;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(14px);
+    transform: translateX(14px);
+  }
+}
+
+@-webkit-keyframes iVfgujw3XyulhmFydTVl {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  75% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    opacity: 0;
+    -webkit-transform: translateX(24px);
+    transform: translateX(24px);
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translateX(24px);
+    transform: translateX(24px);
+  }
+}
+
+@keyframes iVfgujw3XyulhmFydTVl {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  75% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  85% {
+    opacity: 0;
+    -webkit-transform: translateX(24px);
+    transform: translateX(24px);
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translateX(24px);
+    transform: translateX(24px);
+  }
+}.shopify-cleanslate .kunJ_bwJHBdhVTJtSekQ {
+  -webkit-box-pack: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+  padding: 24px !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 24px !important;
+  font-weight: 400 !important;
+  line-height: 22px !important;
+  color: #545454 !important;
+  font-size: 16px !important;
+  -webkit-box-flex: 1 !important;
+  -ms-flex: 1 !important;
+  flex: 1 !important;
+  overflow: auto !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .kunJ_bwJHBdhVTJtSekQ {
+    font-size: 14px !important;
+  }
+}.shopify-cleanslate .N90IcxP2Dlqo7HBEkL0Q {
+  background: transparent !important;
+  border: 0 none !important;
+  text-decoration: underline !important;
+  padding: 0 !important;
+  cursor: pointer !important;
+  line-height: 16px !important;
+}.shopify-cleanslate .ksHaFKZfkYVlKHY1TbUt {
+  padding: 24px !important;
+  font-weight: 400 !important;
+  line-height: 22px !important;
+  color: #545454 !important;
+  font-size: 16px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .ksHaFKZfkYVlKHY1TbUt {
+    font-size: 14px !important;
+  }
+}.shopify-cleanslate .ybSyad5RbtOghAuCHUvv {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  border: 0 !important;
+  padding: 0 !important;
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  width: 100% !important;
+  outline: 0 none !important;
+  max-height: 54px !important;
+}
+
+.shopify-cleanslate .N6dorbBFEcKWcdsY1Dgk {
+  position: relative !important;
+}
+
+.shopify-cleanslate .KHqjJyKjVNT1lCGf2bnQ,
+.shopify-cleanslate .wOEViUrCyNb9maEe3QrQ {
+  max-height: 54px !important;
+}
+
+@media (min-width: 750px) {
+  .shopify-cleanslate .KHqjJyKjVNT1lCGf2bnQ {
+    max-height: 42px !important;
+    border-radius: 4px !important;
+  }
+}
+
+.shopify-cleanslate .ucYbrgi9nVBRx_QDKIwM {
+  max-height: 55px !important;
+  width: 100% !important;
+}
+
+@media (min-width: 750px) {
+  .shopify-cleanslate .ucYbrgi9nVBRx_QDKIwM {
+    width: 160px !important;
+  }
+}.shopify-cleanslate .Gp7WMzF2pc69IRr9yPXD {
+  background: transparent !important;
+}
+
+.shopify-cleanslate .K0e2fg1oT3h6FpjYlL5m {
+  background: #fff !important;
+  border-color: #fff !important;
+  color: #000 !important;
+}
+
+.shopify-cleanslate .K0e2fg1oT3h6FpjYlL5m:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #ebebeb !important;
+  border-color: #ebebeb !important;
+}
+
+.shopify-cleanslate .MMkDzHILWhgVTH11kqqo {
+  background: #000 !important;
+  border-color: #000 !important;
+  color: #fff !important;
+}
+
+.shopify-cleanslate .MMkDzHILWhgVTH11kqqo:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #000 !important;
+  border-color: #000 !important;
+}
+
+.shopify-cleanslate .X7BUDcb2xSdf8lsQafmS {
+  background: #ffc520 !important;
+  border-color: #ffc520 !important;
+  color: #253b80 !important;
+}
+
+.shopify-cleanslate .X7BUDcb2xSdf8lsQafmS:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #f6b600 !important;
+  border-color: #f6b600 !important;
+}
+
+.shopify-cleanslate .beR_IRWWHmzzPFJUoa9p {
+  background: #ffc520 !important;
+  border-color: #ffc520 !important;
+  color: #253b80 !important;
+}
+
+.shopify-cleanslate .beR_IRWWHmzzPFJUoa9p:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #f6b600 !important;
+  border-color: #f6b600 !important;
+}
+
+.shopify-cleanslate .gEHhIg_rFT5m29hVufkg {
+  background: #5a31f4 !important;
+  border-color: #5a31f4 !important;
+  color: #fff !important;
+}
+
+.shopify-cleanslate .gEHhIg_rFT5m29hVufkg:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #3c0def !important;
+  border-color: #3c0def !important;
+}
+
+.shopify-cleanslate .DnvZqPMEvBFbBre5UuP9 {
+  background: #5a31f4 !important;
+  border-color: #5a31f4 !important;
+  color: #fff !important;
+}
+
+.shopify-cleanslate .DnvZqPMEvBFbBre5UuP9:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #3c0def !important;
+  border-color: #3c0def !important;
+}
+
+.shopify-cleanslate .DYb3BerKPu65X0EKR7Ql {
+  background: #fad676 !important;
+  border-color: #fad676 !important;
+  color: #333e48 !important;
+}
+
+.shopify-cleanslate .DYb3BerKPu65X0EKR7Ql:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #f9ca4f !important;
+  border-color: #f9ca4f !important;
+}
+
+.shopify-cleanslate .cYVH7FBl1ZchXEbTxNla {
+  background: #fad676 !important;
+  border-color: #fad676 !important;
+  color: #333e48 !important;
+}
+
+.shopify-cleanslate .cYVH7FBl1ZchXEbTxNla:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #f9ca4f !important;
+  border-color: #f9ca4f !important;
+}
+
+.shopify-cleanslate .hzzxDWW_G8mHNo2gXwAp {
+  background: #fff !important;
+  border-color: #fff !important;
+  color: #000 !important;
+}
+
+.shopify-cleanslate .hzzxDWW_G8mHNo2gXwAp:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #ebebeb !important;
+  border-color: #ebebeb !important;
+}
+
+.shopify-cleanslate .vKjZTx5He86dhWbWaFxE {
+  background: #000 !important;
+  border-color: #000 !important;
+  color: #fff !important;
+}
+
+.shopify-cleanslate .vKjZTx5He86dhWbWaFxE:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #000 !important;
+  border-color: #000 !important;
+}
+
+.shopify-cleanslate .Rrw35sdPt6FBk_x3pbzh {
+  background: #fff !important;
+  border-color: #fff !important;
+  color: #000 !important;
+}
+
+.shopify-cleanslate .Rrw35sdPt6FBk_x3pbzh:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #ebebeb !important;
+  border-color: #ebebeb !important;
+}
+
+.shopify-cleanslate .A0DbISrgWtxvKmVU8VFA {
+  background: #000 !important;
+  border-color: #000 !important;
+  color: #fff !important;
+}
+
+.shopify-cleanslate .A0DbISrgWtxvKmVU8VFA:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: #000 !important;
+  border-color: #000 !important;
+}
+
+.shopify-cleanslate .Ho6mXJXwQgY_wL8w0_9_,
+.shopify-cleanslate .RWJ0IfBjxIhflh4AIrUw {
+  -webkit-transition-duration: 100ms !important;
+  transition-duration: 100ms !important;
+  background: white !important;
+  border-width: 1px !important;
+  border-color: #187bbd !important;
+  color: #187bbd !important;
+}
+
+.shopify-cleanslate .Ho6mXJXwQgY_wL8w0_9_:hover:not(.LVeInvZ5HcNOW1Zsn7NH),
+.shopify-cleanslate .RWJ0IfBjxIhflh4AIrUw:hover:not(.LVeInvZ5HcNOW1Zsn7NH) {
+  background: rgba(24,123,189,0.1) !important;
+}
+
+.shopify-cleanslate .BrUulZY1_CeWn4bGNgCe:hover {
+  opacity: 0.8 !important;
+}
+
+.shopify-cleanslate .cYVH7FBl1ZchXEbTxNla svg,
+.shopify-cleanslate .DYb3BerKPu65X0EKR7Ql svg {
+  position: relative !important;
+  top: 4px !important;
+}
+
+.shopify-cleanslate .beR_IRWWHmzzPFJUoa9p svg,
+.shopify-cleanslate .X7BUDcb2xSdf8lsQafmS svg {
+  position: relative !important;
+  top: 1px !important;
+}
+
+.shopify-cleanslate .LVeInvZ5HcNOW1Zsn7NH {
+  opacity: 0.5 !important;
+}
+
+.shopify-cleanslate .LVeInvZ5HcNOW1Zsn7NH,
+.shopify-cleanslate .LVeInvZ5HcNOW1Zsn7NH * {
+  cursor: default !important;
+  pointer-events: none !important;
+}
+
+.shopify-cleanslate .LVeInvZ5HcNOW1Zsn7NH:active,
+.shopify-cleanslate .LVeInvZ5HcNOW1Zsn7NH:focus {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}.shopify-cleanslate .kqsiVA9Jf8LJAbxw8Bau {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+  -webkit-box-pack: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  -webkit-box-shadow: 0 0 0 0 transparent !important;
+  box-shadow: 0 0 0 0 transparent !important;
+  font-weight: 500 !important;
+  line-height: 16px !important;
+  padding: 0 !important;
+  text-align: center !important;
+  -webkit-transition: all 0.2s ease-out !important;
+  transition: all 0.2s ease-out !important;
+  width: 100% !important;
+  font-size: 16px !important;
+}
+
+@media (min-width: 500px) {
+  .shopify-cleanslate .kqsiVA9Jf8LJAbxw8Bau {
+    font-size: 14px !important;
+  }
+}
+
+.shopify-cleanslate .kqsiVA9Jf8LJAbxw8Bau,
+.shopify-cleanslate .kqsiVA9Jf8LJAbxw8Bau * {
+  cursor: pointer !important;
+}
+
+.shopify-cleanslate .GBRfGcHCIO5Fx7lQoG3r {
+  border-radius: 4px !important;
+  padding: 15px 0 !important;
+  height: 52px !important;
+}
+
+.shopify-cleanslate .jjzYeefyWpPZLH9pIgyw {
+  -webkit-box-flex: 1 !important;
+  -ms-flex: 1 !important;
+  flex: 1 !important;
+  -ms-flex-wrap: wrap !important;
+  flex-wrap: wrap !important;
+  padding: 4px !important;
+  min-height: 44px !important;
+  max-height: 60px !important;
+}
+
+.shopify-cleanslate .IcgSIE7pEVZrlnAeRS6j,
+.shopify-cleanslate .DefhEHZZf4y32pvV7mZj {
+  border-radius: 4px !important;
+  width: 100% !important;
+  height: 54px !important;
+}
+
+@media (min-width: 750px) {
+  .shopify-cleanslate .IcgSIE7pEVZrlnAeRS6j {
+    height: 42px !important;
+  }
+}
+
+.shopify-cleanslate ._zi3yMidTBsFIz271PCH {
+  height: 50px !important;
+  border: 1px solid transparent !important;
+  border-radius: 5px !important;
+}
+
+@media (min-width: 750px) {
+  .shopify-cleanslate ._zi3yMidTBsFIz271PCH {
+    min-width: 160px !important;
+  }
+}
+
+.shopify-cleanslate ._zi3yMidTBsFIz271PCH span {
+  white-space: pre !important;
+}
+
+.shopify-cleanslate .h7OYsWHrW5495r9beh2n {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
+
+.shopify-cleanslate .h7OYsWHrW5495r9beh2n span {
+  white-space: pre !important;
+} .BUz42FHpSPncCPJ4Pr_f {
+  -webkit-animation: wsgbk6XdVclpkaXZKFPJ 300ms cubic-bezier(0.1, 0.79, 1, 1);
+  animation: wsgbk6XdVclpkaXZKFPJ 300ms cubic-bezier(0.1, 0.79, 1, 1);
+}
+
+@-webkit-keyframes wsgbk6XdVclpkaXZKFPJ {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes wsgbk6XdVclpkaXZKFPJ {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}</style></head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       Skip to content
     </a><!-- BEGIN sections: header-group -->
-<div id="shopify-section-sections--16182366175388__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991703849165" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851703849170" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271703849166" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221703849161" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771703849161" media="print" onload="this.media='all'"><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101703849169" media="print" onload="this.media='all'"><noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991703849165" rel="stylesheet" type="text/css" media="all" /></noscript>
+<div id="shopify-section-sections--16182366175388__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991703849165" media="all" onload="this.media=&#39;all&#39;" />
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851703849170" media="all" onload="this.media=&#39;all&#39;" />
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271703849166" media="all" onload="this.media=&#39;all&#39;" />
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221703849161" media="all" onload="this.media=&#39;all&#39;" />
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771703849161" media="all" onload="this.media=&#39;all&#39;" /><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101703849169" media="all" onload="this.media=&#39;all&#39;" /><noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991703849165" rel="stylesheet" type="text/css" media="all" /></noscript>
 <noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851703849170" rel="stylesheet" type="text/css" media="all" /></noscript>
 <noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271703849166" rel="stylesheet" type="text/css" media="all" /></noscript>
 <noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221703849161" rel="stylesheet" type="text/css" media="all" /></noscript>
@@ -925,31 +1916,28 @@ for (var attr in meta) {
       padding-top: 20px;
       padding-bottom: 20px;
     }
-  }</style><script src="//slot-1131.org/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501703849174" defer="defer"></script>
-<script src="//slot-1131.org/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451703849174" defer="defer"></script>
-<script src="//slot-1131.org/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491703849158" defer="defer"></script>
-<script src="//slot-1131.org/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541703849184" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  }</style><script src="//slot-1131.org/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501703849174" defer></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451703849174" defer></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491703849158" defer></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541703849184" defer></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
   <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/></path>
   </symbol>
 
   <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
-    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
-    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
-    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/></circle>
+    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
+    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
   </symbol>
 
   <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
     <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-  </symbol>
+  </path></symbol>
 </svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-background-1 gradient header-wrapper--border-bottom"><header class="header header--middle-left header--mobile-center page-width header--has-menu">
 
 <header-drawer data-breakpoint="tablet">
   <details id="Details-menu-drawer-container" class="menu-drawer-container">
-    <summary
-      class="header__icon header__icon--menu header__icon--summary link focus-inset"
-      aria-label="Menu"
-    >
+    <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu" role="button" aria-expanded="false" aria-controls="menu-drawer">
       <span>
         <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -960,7 +1948,7 @@ for (var attr in meta) {
   viewBox="0 0 18 16"
 >
   <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
-</svg>
+</path></svg>
 
         <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -971,7 +1959,7 @@ for (var attr in meta) {
   viewBox="0 0 18 17"
 >
   <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
+</path></svg>
 
       </span>
     </summary>
@@ -989,7 +1977,7 @@ for (var attr in meta) {
     </div>
   </details>
 </header-drawer>
-<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">SLOT DEMO AMEL</span></a>
+<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">Togel Amel Cantik</span></a>
 
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list"></ul>
@@ -1002,16 +1990,12 @@ for (var attr in meta) {
 
 <details-modal class="header__search">
   <details>
-    <summary
-      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-      aria-haspopup="dialog"
-      aria-label="Search"
-    >
+    <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search" role="button">
       <span>
      
         <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
           <use href="#icon-close">
-        </svg>
+        </use></svg>
       </span>
     </summary>
     <div
@@ -1051,12 +2035,12 @@ for (var attr in meta) {
             >
               <svg class="icon icon-close" aria-hidden="true" focusable="false">
                 <use xlink:href="#icon-reset">
-              </svg>
+              </use></svg>
             </button>
             <button class="search__button field__button" aria-label="Search">
               <svg class="icon icon-search" aria-hidden="true" focusable="false">
                 <use href="#icon-search">
-              </svg>
+              </use></svg>
             </button>
           </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
 
@@ -1082,7 +2066,7 @@ for (var attr in meta) {
         >
           <svg class="icon icon-close" aria-hidden="true" focusable="false">
             <use href="#icon-close">
-          </svg>
+          </use></svg>
         </button>
       </div>
     </div>
@@ -1091,9 +2075,9 @@ for (var attr in meta) {
 
 
   <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
-</svg>
-<span class="visually-hidden">Cart</span></a>
-    </div>
+
+<span class="visually-hidden">Cart</span>
+    </path></div>
   </header>
 </sticky-header>
 
@@ -1116,7 +2100,7 @@ for (var attr in meta) {
   viewBox="0 0 12 9"
   fill="none"
 >
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/></path>
 </svg>
 Item added to your cart
         </h2>
@@ -1127,7 +2111,7 @@ Item added to your cart
         >
           <svg class="icon icon-close" aria-hidden="true" focusable="false">
             <use href="#icon-close">
-          </svg>
+          </use></svg>
         </button>
       </div>
       <div id="cart-notification-product" class="cart-notification-product"></div>
@@ -1158,7 +2142,7 @@ Item added to your cart
   {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "SLOT DEMO AMEL",
+    "name": "Togel Amel Cantik",
     
     "sameAs": [
       "",
@@ -1199,8 +2183,8 @@ Item added to your cart
         padding-top: 36px;
         padding-bottom: 12px;
       }
-    }</style><script src="//slot-1131.org/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201703849180" defer="defer"></script>
-  <script src="//slot-1131.org/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181703849179" defer="defer"></script>
+    }</style><script src="//slot-1131.org/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201703849180" defer></script>
+  <script src="//slot-1131.org/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181703849179" defer></script>
 
   <div class="page-width">
     <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
@@ -1233,7 +2217,7 @@ Item added to your cart
   style="--ratio: 1.0; --preview-ratio: 1.0;"
 >
   <noscript><div class="product__media media">
-        <img src="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1946" alt="" srcset="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=246 246w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=493 493w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=600 600w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=713 713w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=823 823w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=990 990w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1100 1100w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1206 1206w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1346 1346w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1426 1426w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1646 1646w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1946" alt="" srcset="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=246 246w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=493 493w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=600 600w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=713 713w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=823 823w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=990 990w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1100 1100w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1206 1206w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1346 1346w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1426 1426w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1646 1646w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
   <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--16182365847708__main">
@@ -1247,9 +2231,9 @@ Item added to your cart
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/></path>
 </svg>
 </span>
 
@@ -1267,7 +2251,7 @@ Item added to your cart
   </svg>
 </div>
 <div class="product__media media media--transparent">
-      <img src="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1946" alt="" srcset="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=246 246w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=493 493w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=600 600w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=713 713w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=823 823w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=990 990w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1100 1100w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1206 1206w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1346 1346w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1426 1426w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1646 1646w, https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+      <img src="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1946" alt="" srcset="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=246 246w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=493 493w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=600 600w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=713 713w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=823 823w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=990 990w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1100 1100w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1206 1206w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1346 1346w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1426 1426w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1646 1646w, https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
     </div>
     <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="29566523998364">
       <span class="visually-hidden">
@@ -1285,7 +2269,7 @@ Item added to your cart
         >
           <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-</svg>
+</path></svg>
 
         </button>
         <div class="slider-counter caption">
@@ -1302,7 +2286,7 @@ Item added to your cart
         >
           <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-</svg>
+</path></svg>
 
         </button>
       </div></slider-component></media-gallery>
@@ -1315,10 +2299,10 @@ Item added to your cart
         data-url="/products/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024"
         class="product__info-container product__column-sticky"
       ><div class="product__title" >
-                <h1>Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!</h1>
+                <h1>Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D</h1>
                 <a href="/products/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024" class="product__title">
                   <h2 class="h1">
-                    Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!
+                    Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D
                   </h2>
                 </a>
               </div><div class="no-js-hidden" id="price-template--16182365847708__main" role="status" >
@@ -1328,7 +2312,7 @@ Item added to your cart
 >
   <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
         <span class="price-item price-item--regular">
-          Rp FREE,00 IDR
+          Rp 10.000,00 IDR
         </span></div>
     <div class="price__sale">
         <span class="visually-hidden visually-hidden--inline">Regular price</span>
@@ -1340,7 +2324,7 @@ Item added to your cart
           </s>
         </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
       <span class="price-item price-item--sale price-item--last">
-        Rp FREE,00 IDR
+        Rp 10.000,00 IDR
       </span>
     </div>
     <small class="unit-price caption hidden">
@@ -1379,7 +2363,7 @@ Item added to your cart
             
             
             value="42964924367004"
-          >Default Title - Rp FREE,00</option></select>
+          >Default Title - Rp 10.000,00</option></select>
       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
 </svg>
@@ -1401,11 +2385,11 @@ Item added to your cart
           class="icon icon-error"
           viewBox="0 0 13 13"
         >
-          <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/>
-          <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/>
-          <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
+          <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/></circle>
+          <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/></circle>
+          <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/></path>
           <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
-        </svg>
+        </path></svg>
         <span class="product-form__error-message"></span>
       </div><form method="post" action="/cart/add" id="product-form-template--16182365847708__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
           type="hidden"
@@ -1420,7 +2404,7 @@ Item added to your cart
             class="product-form__submit button button--full-width button--secondary"
             
           >
-            <span>Slot Demo Anti Lag</span>
+            <span>Produk Hongkong Pools 4D</span>
 <link href="//slot-1131.org/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481703849165" rel="stylesheet" type="text/css" media="all" />
 <div class="loading__spinner hidden">
   <svg
@@ -1433,7 +2417,7 @@ Item added to your cart
     <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
   </svg>
 </div>
-</button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
+</button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled aria-hidden="true"> </button></div>
 </div><input type="hidden" name="product-id" value="7830517973148" /></form></product-form><link href="//slot-1131.org/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961703849168" rel="stylesheet" type="text/css" media="all" />
 <pickup-availability
       class="product__pickup-availabilities no-js-hidden quick-add-hidden"
@@ -1443,34 +2427,13 @@ Item added to your cart
       data-has-only-default-variant="true"
       data-product-page-color-scheme="gradient color-background-1"
     >
-      <template>
-        <pickup-availability-preview class="pickup-availability-preview">
-          <svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-unavailable"
-  fill="none"
-  viewBox="0 0 20 20"
->
-  <path fill="#DE3618" stroke="#fff" d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z"/>
-</svg>
-
-          <div class="pickup-availability-info">
-            <p class="caption-large">Couldn&#39;t load pickup availability</p>
-            <button class="pickup-availability-button link link--text underlined-link">
-              Refresh
-            </button>
-          </div>
-        </pickup-availability-preview>
-      </template>
+      <template></template>
     </pickup-availability>
 
-    <script src="//slot-1131.org/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331703849178" defer="defer"></script></div>
+    <script src="//slot-1131.org/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331703849178" defer></script></div>
 <div class="product__description rte quick-add-hidden" >
-                  <p><a href="https://main-slot1131.love/una/naga-demo/" title="Daftar SLOT DEMO AMEL"><img src="https://media.tenor.com/52yaUOg1EfgAAAAi/daftar.gif"></a></p>
-<p>Slot demo PG & slot demo pragmatic gratis main sepuasnya gampang x500, mainkan akun demo slot rupiah sekarang juga hanya di provider SLOT1131 terpopuler 2024.</p>
+                  <p><a href="https://main-slot1131.love/san/naga-hk/" title="Daftar Togel Amel Cantik"><img src="https://media.tenor.com/52yaUOg1EfgAAAAi/daftar.gif"></a></p>
+<p>Live draw hk merupakan hasil pengocokan judi togel dengan dimediasi menggunakan tabel data HK terlengkap hari ini. Provider kami menyediakan keluaran togel tercepat khusus pasaran togel hongkong pools dari 2D, 3D, 4D dan 5D.</p>
                 </div><a href="/products/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024" class="link product__view-details animate-arrow">
           View full details
           <svg
@@ -1482,7 +2445,7 @@ Item added to your cart
   xmlns="http://www.w3.org/2000/svg"
 >
   <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
-</svg>
+</path></svg>
 
         </a>
       </product-info>
@@ -1490,57 +2453,12 @@ Item added to your cart
 
   
 
-<product-modal id="ProductModal-template--16182365847708__main" class="product-media-modal media-modal">
-  <div
-    class="product-media-modal__dialog color-background-1 gradient"
-    role="dialog"
-    aria-label="Media gallery"
-    aria-modal="true"
-    tabindex="-1"
-  >
-    <button
-      id="ModalClose-template--16182365847708__main"
-      type="button"
-      class="product-media-modal__toggle"
-      aria-label="Close"
-    >
-      <svg
-  xmlns="http://www.w3.org/2000/svg"
-  aria-hidden="true"
-  focusable="false"
-  class="icon icon-close"
-  fill="none"
-  viewBox="0 0 18 17"
->
-  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-</svg>
 
-    </button>
-
-    <div
-      class="product-media-modal__content color-background-1 gradient"
-      role="document"
-      aria-label="Media gallery"
-      tabindex="0"
-    >
-<img
-    class="global-media-settings global-media-settings--no-shadow"
-    srcset="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&width=550 550w,https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648 720w"
-    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-    src="https://slot1131.xyz/img/slot-demo-shopify-1.jpg?v=1703849648&width=1445"
-    alt="Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!"
-    loading="lazy"
-    width="1100"
-    height="1100"
-    data-media-id="29566523998364"
-  ></div>
-  </div>
-</product-modal>
 
 
   
-<script src="//slot-1131.org/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461703849180" defer="defer"></script>
-    <script src="//slot-1131.org/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091703849177" defer="defer"></script><script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461703849180" defer></script>
+    <script src="//slot-1131.org/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091703849177" defer></script><script>
     document.addEventListener('DOMContentLoaded', function () {
       function isIE() {
         const ua = window.navigator.userAgent;
@@ -1569,16 +2487,16 @@ Item added to your cart
     {
       "@context": "http://schema.org/",
       "@type": "Product",
-      "name": "Slot Demo PG Soft: 10 Akun Demo Slot Gratis Rupiah Pragmatic & PG Soft Auto x500!",
+      "name": "Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D",
       "url": "https:\/\/slot-1131.org\/products\/slot-gacor-hari-ini-server-luar-negeri-terpercaya-mudah-maxwin-2023-2024",
       "image": [
           "https:\/\/slot-1131.org\/cdn\/shop\/files\/SLOT-GACOR-HARI-INI-3.jpg?v=1703849648\u0026width=1920"
         ],
-      "description": "Slot demo PG & slot demo pragmatic gratis main sepuasnya gampang x500, mainkan akun demo slot rupiah sekarang juga hanya di provider SLOT1131 terpopuler 2024.",
+      "description": "Live draw hk merupakan hasil pengocokan judi togel dengan dimediasi menggunakan tabel data HK terlengkap hari ini. Provider kami menyediakan keluaran togel tercepat khusus pasaran togel hongkong pools dari 2D, 3D, 4D dan 5D.",
       
       "brand": {
         "@type": "Brand",
-        "name": "SLOT DEMO AMEL"
+        "name": "Togel Amel Cantik"
       },
       "offers": [{
             "@type" : "Offer","availability" : "http://schema.org/InStock",
@@ -1645,17 +2563,7 @@ Item added to your cart
       padding-top: 36px;
       padding-bottom: 36px;
     }
-  }</style><footer class="footer color-background-1 gradient section-sections--16182366142620__footer-padding"><div class="footer__content-top page-width"><div
-          class="footer-block--newsletter scroll-trigger animate--slide-in"
-          
-            data-cascade
-          
-        ><div
-    class="footer__content-bottom scroll-trigger animate--slide-in"
-    
-      data-cascade
-    
-  >
+  }</style><footer class="footer color-background-1 gradient section-sections--16182366142620__footer-padding"><div class="footer__content-top page-width"><div class="footer-block--newsletter scroll-trigger animate--slide-in scroll-trigger--offscreen" data-cascade=""><div class="footer__content-bottom scroll-trigger animate--slide-in scroll-trigger--offscreen" data-cascade="">
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization isolate"></div>
       <div class="footer__column footer__column--info"><div class="footer__payment">
@@ -1666,11 +2574,11 @@ Item added to your cart
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__copyright caption">
         <small class="copyright__content"
-          >&copy; 2023, <a href="/" title="">SLOT DEMO AMEL</a></small>
-        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by ./Xoxo1131</a></small></div>
+          >&copy; 2023, <a href="/" title="">Togel Amel Cantik</a></small>
+        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by ./AmelCantik</a></small></div>
     </div>
   </div>
-</footer>
+</div></div></footer>
 
 
 </div>
@@ -1720,5 +2628,18 @@ Item added to your cart
         recipientFormExpanded: `Gift card recipient form expanded`,
         recipientFormCollapsed: `Gift card recipient form collapsed`,
       };
-    </script><script src="//slot-1131.org/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141703849179" defer="defer"></script></body>
-</html>
+    </script><script src="//slot-1131.org/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141703849179" defer></script>
+
+<product-modal id="ProductModal-template--16182365847708__main" class="product-media-modal media-modal">
+  <div class="product-media-modal__dialog color-background-1 gradient" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
+    <button id="ModalClose-template--16182365847708__main" type="button" class="product-media-modal__toggle" aria-label="Close">
+      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</path></svg>
+
+    </button>
+
+    <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
+<img class="global-media-settings global-media-settings--no-shadow" srcset="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=550 550w,https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648 720w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://slot1131.xyz/img/TOGEL-1.jpg?v=1703849648&amp;width=1445" alt="Live Draw HK: Keluaran Togel Hongkong Tercepat dan Data HK 4D,5D" loading="lazy" width="1100" height="1100" data-media-id="29566523998364" /></div>
+  </div>
+</product-modal><iframe title="Preview Bar" id="preview-bar-iframe" src="https://slot-1131.org/preview_bar" sandbox="allow-same-origin allow-scripts" style="display: none;"></iframe><div id="WebPixelsManagerSandboxContainer"><iframe src="https://polpp.sangihekab.go.id/wpm@80cd6a5fw8efabb83pbabe92ddm0cb690ee/web-pixel-shopify-custom-pixel@0570/sandbox/modern/wp-content/angka5d/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-80cd6a5fw8efabb83pbabe92ddm0cb690ee" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-80cd6a5fw8efabb83pbabe92ddm0cb690ee" sandbox="allow-scripts allow-forms" tabindex="-1" aria-hidden="true" style="display:none; height:0; width:0; visibility: hidden;"></iframe></div></body></html>
