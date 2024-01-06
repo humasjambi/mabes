@@ -11,14 +11,14 @@
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024</title>
     <meta name="description" content="Slot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.">
-    <meta property="og:site_name" content="GAME DEMO">
+    <meta property="og:site_name" content="Demo Slot">
     <meta property="og:url" content="http://peliket.lamongankab.go.id/products/game-demo/">
     <meta property="og:title" content="Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024">
     <meta property="og:type" content="product">
     <meta property="og:description" content="Slot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131."><meta property="og:image" content="https://slot1131.xyz/img/slot-demo-1131-asoy-1.jpg?v=1702964446">
     <meta property="og:image:secure_url" content="https://slot1131.xyz/img/slot-demo-1131-asoy-1.jpg?v=1702964446">
     <meta property="og:image:width" content="1280">
-    <meta property="og:image:height" content="373"><meta property="og:price:amount" content="150.000.000,00">
+    <meta property="og:image:height" content="373"><meta property="og:price:amount" content="Free/Gratis">
     <meta property="og:price:currency" content="IDR"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024">
     <meta name="twitter:description" content="Slot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.">
@@ -377,10 +377,10 @@ Shopify.routes.root = "/";</script>
     </script>
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 63845040185,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 63845040185,storefrontBaseUrl: "https://slot-1131.org",cdnBaseUrl: "https://slot-1131.org/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"41916747022393","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/photo_2023-12-17_19-33-48_2.jpg?v=1702964446"},"price":{"amount":120000.0,"currencyCode":"IDR"},"product":{"id":"7181626900537","title":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","untranslatedTitle":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","url":"\/products\/sangat-gacor","vendor":"GAME DEMO","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"41916747022393","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/photo_2023-12-17_19-33-48_2.jpg?v=1702964446"},"price":{"amount":120000.0,"currencyCode":"IDR"},"product":{"id":"7181626900537","title":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","untranslatedTitle":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","url":"\/products\/sangat-gacor","vendor":"GAME DEMO","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://slot-1131.org/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 63845040185,storefrontBaseUrl: "https://slot-1131.org",cdnBaseUrl: "https://slot-1131.org/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"41916747022393","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/photo_2023-12-17_19-33-48_2.jpg?v=1702964446"},"price":{"amount":120000.0,"currencyCode":"IDR"},"product":{"id":"7181626900537","title":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","untranslatedTitle":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","url":"\/products\/sangat-gacor","vendor":"Demo Slot","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"41916747022393","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/photo_2023-12-17_19-33-48_2.jpg?v=1702964446"},"price":{"amount":120000.0,"currencyCode":"IDR"},"product":{"id":"7181626900537","title":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","untranslatedTitle":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","url":"\/products\/sangat-gacor","vendor":"Demo Slot","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://slot-1131.org/cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
-var meta = {"product":{"id":7181626900537,"gid":"gid:\/\/shopify\/Product\/7181626900537","vendor":"GAME DEMO","type":"","variants":[{"id":41916747022393,"price":12000000,"name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7181626900537}};
+var meta = {"product":{"id":7181626900537,"gid":"gid:\/\/shopify\/Product\/7181626900537","vendor":"Demo Slot","type":"","variants":[{"id":41916747022393,"price":12000000,"name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7181626900537}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -535,8 +535,8 @@ for (var attr in meta) {
       var token = match? match[1]: undefined;
       if (!hasLoggedConversion(token)) {
         setCookieIfConversion(token);
-        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":41916747022393,"productId":7181626900537,"productGid":"gid:\/\/shopify\/Product\/7181626900537","name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","price":"120000.00","sku":"","brand":"GAME DEMO","variant":null,"category":"","nonInteraction":true});
-      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":41916747022393,"productId":7181626900537,"productGid":"gid:\/\/shopify\/Product\/7181626900537","name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","price":"120000.00","sku":"","brand":"GAME DEMO","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/slot-1131.org\/products\/sangat-gacor"});
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":41916747022393,"productId":7181626900537,"productGid":"gid:\/\/shopify\/Product\/7181626900537","name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","price":"120000.00","sku":"","brand":"Demo Slot","variant":null,"category":"","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":41916747022393,"productId":7181626900537,"productGid":"gid:\/\/shopify\/Product\/7181626900537","name":"Slot Demo PG 🍷 Demo Slot PG Soft & Pragmatic Play x500 Terbaru dan Terbaik 2024","price":"120000.00","sku":"","brand":"Demo Slot","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/slot-1131.org\/products\/sangat-gacor"});
       }
     });
 
@@ -1332,7 +1332,7 @@ Item added to your cart
                 </a>
               </div><div class="product__description rte quick-add-hidden" >
                   <p><a href="https://main-slot1131.love/lam/naga-demo/" target="_blank" rel="noopener noreferrer"><img alt="" src="https://slot1131.xyz/img/Daftar-slot1.gif?v=1702964180" width="547" height="180"></a></p>
-<p>Slot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 <yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.br></p>
+<p><a href="http://peliket.lamongankab.go.id/products/game-demo/">Slot demo</a> adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.</p>
                 </div><div class="no-js-hidden" id="price-template--16290804236345__main" role="status" >
 <div
   class="
@@ -1340,7 +1340,7 @@ Item added to your cart
 >
   <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
         <span class="price-item price-item--regular">
-          Rp 150.000.000,00 IDR
+          Rp Free/Gratis IDR
         </span></div>
     <div class="price__sale">
         <span class="visually-hidden visually-hidden--inline">Regular price</span>
@@ -1352,7 +1352,7 @@ Item added to your cart
           </s>
         </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
       <span class="price-item price-item--sale price-item--last">
-        Rp 150.000.000,00 IDR
+        Rp Free/Gratis IDR
       </span>
     </div>
     <small class="unit-price caption hidden">
@@ -1370,7 +1370,7 @@ Item added to your cart
     </span>
 
     <span class="badge price__badge-sold-out color-inverse">
-      SLOT DEMO1131 DAPAT DUIT! TERBATAS
+      SLOT DEMO GRATIS
     </span></div>
 </div><div class="product__tax caption rte"></div>
               <div ><form method="post" action="http://peliket.lamongankab.go.id/products/game-demo/" id="product-form-installment-template--16290804236345__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="âœ“" /><input type="hidden" name="id" value="41916747022393">
@@ -1393,7 +1393,7 @@ Item added to your cart
               disabled
             
             value="41916747022393"
-          >Default Title - Rp 150.000.000,00 - Sold out</option></select>
+          >Default Title - Rp Free/Gratis - Sold out</option></select>
       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
 </svg>
@@ -1617,11 +1617,11 @@ Item added to your cart
       "image": [
           "https:\/\/slot-1131.org\/cdn\/shop\/files\/photo_2023-12-17_19-33-48_2.jpg?v=1702964446\u0026width=1920"
         ],
-      "description": "\nSlot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.",
+      "description": "Slot demo adalah pelayanan fitur game slot tanpa berbayar dari SLOT1131 yang menghadirkan slot demo pragmatic & slot demo pg soft terlengkap yang sering pecah x500 untuk melatih saat kamu memainkan permainan slot uang asli. Akun demo slot terbaik & terbaru pada tahun 2024 hanya di provider resmi SLOT1131.",
       
       "brand": {
         "@type": "Brand",
-        "name": "GAME DEMO"
+        "name": "Demo Slot"
       },
       "offers": [{
             "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
