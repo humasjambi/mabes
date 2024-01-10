@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.xyz/gro/gacor/">
-<link rel="canonical" href="https://pkk.grobogan.go.id/js/valengacor/">
+<link rel="canonical" href="http://pkk.grobogan.go.id/js/valengacor/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>SLOT1131: Situs Slot Gacor Gampang Menang Hari Ini RTP Terpercaya Maxwin 2024</title>
 <meta name="description" content="SLOT1131 link slot gacor hari ini yang cukup bergengsi dan paling diminati banyak penggemar slot online. Situs slot terpercaya & terbaru yang menyediakan RTP paling tinggi yang mudah untuk kamu menangkan malam ini.">
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="https://pkk.grobogan.go.id/js/valengacor/">
+<meta property="og:url" content="http://pkk.grobogan.go.id/js/valengacor/">
 <meta property="og:title" content="SLOT1131: Situs Slot Gacor Gampang Menang Hari Ini RTP Terpercaya Maxwin 2024">
 <meta property="og:type" content="product">
 <meta property="og:description" content="SLOT1131 link slot gacor hari ini yang cukup bergengsi dan paling diminati banyak penggemar slot online. Situs slot terpercaya & terbaru yang menyediakan RTP paling tinggi yang mudah untuk kamu menangkan malam ini.">
@@ -27,7 +27,7 @@
 <script src="//d2b8aa-3.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771704827384" defer="defer"></script>
 <script src="//d2b8aa-3.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511704827390" defer="defer"></script>
 <script src="//d2b8aa-3.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591704827385" defer="defer"></script><script src="//d2b8aa-3.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111704827371" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57654968451/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://pkk.grobogan.go.id/js/valengacor/.oembed">
+<link rel="alternate" type="application/json+oembed" href="http://pkk.grobogan.go.id/js/valengacor/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=d2b8aa-3.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"58804b271914fd336ab532045f8e18c7","betas":["rich-media-storefront-analytics"],"domain":"d2b8aa-3.myshopify.com","predictiveSearch":true,"shopId":57654968451,"smart_payment_buttons_url":"https:\/\/d2b8aa-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/d2b8aa-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
@@ -1300,7 +1300,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--16753979719811__main"
-          value="https://pkk.grobogan.go.id/js/valengacor/"
+          value="http://pkk.grobogan.go.id/js/valengacor/"
           placeholder="Link"
           onclick="this.select();"
           readonly
