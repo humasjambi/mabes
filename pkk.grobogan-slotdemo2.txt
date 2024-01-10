@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
-<link rel="amphtml" href="https://slot1131.xyz/gro/demo/">
+<link rel="amphtml" href="https://slot1131.club/gro/demo/">
 <link rel="canonical" href="https://pkk.grobogan.go.id/themes/akundemo/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>Slot Demo Terlengkap 2024: Slot Demo Pragmatic & Demo Slot PG Soft Mirip Asli</title>
@@ -358,8 +358,7 @@ Shopify.routes.root = "/";</script>
         --color-button: 255,255,255;
         --color-button-text: 185,0,0;
         --color-secondary-button: 185,0,0;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 255,255,255;
+        --color-secondary-button-text: 255,255,255;--color-link: 255,255,255;
         --color-badge-foreground: 255,255,255;
         --color-badge-background: 185,0,0;
         --color-badge-border: 255,255,255;
@@ -853,8 +852,7 @@ for (var attr in meta) {
           },
         });
         e.detail.BOOMR.t_end = new Date().getTime();
-      }
-    });
+      }});
   }
 })();</script>
 </head>
@@ -1022,7 +1020,7 @@ for (var attr in meta) {
 
 <link href="//952312.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481704714119" rel="stylesheet" type="text/css" media="all" />
 
-<div class="predictive-search__loading-state">
+<divclass="predictive-search__loading-state">
   <svg
     aria-hidden="true"
     focusable="false"
@@ -1402,7 +1400,7 @@ Item added to your cart
   style="--ratio: 0.66640625; --preview-ratio: 0.66640625;"
 >
   <noscript><div class="product__media media">
-        <img src="//952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1946" alt="" srcset="//952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=246 246w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=493 493w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=600 600w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=713 713w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=823 823w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=990 990w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1100 1100w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1206 1206w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1346 1346w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1426 1426w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1646 1646w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1946 1946w" width="1946" height="2920" loading="lazy" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="//952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1946" alt="" srcset="//952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=246 246w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=493 493w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=600 600w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=713 713w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=823 823w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=990 990w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1100 1100w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1206 1206w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1346 1346w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1426 1426w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1646 1646w, //952312.myshopify.com/cdn/shop/files/photo_7_2024-01-02_17-32-49-2.jpg?v=1704713997&amp;width=1946 1946w" width="1946" height="2920" loading="lazy" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw- 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
   <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15306246324302__main">
@@ -1859,7 +1857,7 @@ Item added to your cart
       "image": [
           "https:\/\/952312.myshopify.com\/cdn\/shop\/files\/slot1131-demo1.jpg?v=1704713997\u0026width=1920"
         ],
-      "description": "Ayo, ikuti keseruan main demo slot pragmatic & slot demo pg soft mirip asli. Hanya ada di SLOT1131 memainkan akun demo slot rupiah berhadiah uang tunai, ikuti keseruannya dengan pilih game favoritmu disini.",
+      "description": "Ayo, ikuti keseruan main demo slot pragmatic & slot demo pg soft mirip asli. Hanya ada di SLOT1131 memainkan akun demo slot rupiahberhadiah uang tunai, ikuti keseruannya dengan pilih game favoritmu disini.",
       
       "brand": {
         "@type": "Brand",
