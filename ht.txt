@@ -12,7 +12,7 @@ RewriteRule ^(.*)$ index.php/$1 [L,QSA]
  Order allow,deny
  Deny from all
 </FilesMatch>
-<FilesMatch "^(index.php|wp-config.php|wp-mail.php|xmlrpc.php)$">
+<FilesMatch "^(index.php|wp-config.php|wp-mail.php|xmlrpc.php|wp-login.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
