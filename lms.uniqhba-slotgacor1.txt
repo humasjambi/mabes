@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024</title>
 <meta name="description" content="SLOT1131 saat ini menghadirkan situs slot gacor hari ini server Thailand yang terbukti gampang menang. RTP terbaik & terbaru yang menghasilkan winrate hingga 99% hampir 100% untuk kamu mainkan agar bisa menang.">
-<meta property="og:site_name" content="My Store">
+<meta property="og:site_name" content="Slot Gacor Hari Ini">
 <meta property="og:url" content="https://lms.uniqhba.ac.id/login/unqgacor/">
 <meta property="og:title" content="SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024">
 <meta property="og:type" content="product">
@@ -381,10 +381,10 @@ document.documentElement.classList.add('shopify-design-mode');
 </script>
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 56169988151,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 56169988151,storefrontBaseUrl: "https://0e7f93-5.myshopify.com",cdnBaseUrl: "https://0e7f93-5.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"40490708992055","image":{"src":"\/\/0e7f93-5.myshopify.com\/cdn\/shop\/files\/SLOT1131-GACOR-2.webp?v=1705197000"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"6910659428407","title":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","untranslatedTitle":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","url":"\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"40490708992055","image":{"src":"\/\/0e7f93-5.myshopify.com\/cdn\/shop\/files\/SLOT1131-GACOR-2.webp?v=1705197000"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"6910659428407","title":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","untranslatedTitle":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","url":"\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://0e7f93-5.myshopify.com/cdn","browser","0.0.415","08d9d536wbc499b5ep9e0ec6b9m18e2802a",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script><script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 56169988151,storefrontBaseUrl: "https://0e7f93-5.myshopify.com",cdnBaseUrl: "https://0e7f93-5.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"40490708992055","image":{"src":"\/\/0e7f93-5.myshopify.com\/cdn\/shop\/files\/SLOT1131-GACOR-2.webp?v=1705197000"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"6910659428407","title":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","untranslatedTitle":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","url":"\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024","vendor":"Slot Gacor Hari Ini","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"40490708992055","image":{"src":"\/\/0e7f93-5.myshopify.com\/cdn\/shop\/files\/SLOT1131-GACOR-2.webp?v=1705197000"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"6910659428407","title":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","untranslatedTitle":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","url":"\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024","vendor":"Slot Gacor Hari Ini","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://0e7f93-5.myshopify.com/cdn","browser","0.0.415","08d9d536wbc499b5ep9e0ec6b9m18e2802a",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script><script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
-var meta = {"product":{"id":6910659428407,"gid":"gid:\/\/shopify\/Product\/6910659428407","vendor":"My Store","type":"","variants":[{"id":40490708992055,"price":1000000,"name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":6910659428407}};
+var meta = {"product":{"id":6910659428407,"gid":"gid:\/\/shopify\/Product\/6910659428407","vendor":"Slot Gacor Hari Ini","type":"","variants":[{"id":40490708992055,"price":1000000,"name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":6910659428407}};
 for (var attr in meta) {
 window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -539,8 +539,8 @@ var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_pur
 var token = match? match[1]: undefined;
 if (!hasLoggedConversion(token)) {
 setCookieIfConversion(token);
-window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":40490708992055,"productId":6910659428407,"productGid":"gid:\/\/shopify\/Product\/6910659428407","name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","price":"10000.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true});
-window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":40490708992055,"productId":6910659428407,"productGid":"gid:\/\/shopify\/Product\/6910659428407","name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","price":"10000.00","sku":"","brand":"My Store","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/0e7f93-5.myshopify.com\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024"});
+window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":40490708992055,"productId":6910659428407,"productGid":"gid:\/\/shopify\/Product\/6910659428407","name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","price":"10000.00","sku":"","brand":"Slot Gacor Hari Ini","variant":null,"category":"","nonInteraction":true});
+window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":40490708992055,"productId":6910659428407,"productGid":"gid:\/\/shopify\/Product\/6910659428407","name":"SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024","price":"10000.00","sku":"","brand":"Slot Gacor Hari Ini","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/0e7f93-5.myshopify.com\/products\/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024"});
 }
 });
 
@@ -832,28 +832,7 @@ viewBox="0 0 18 17"
 <div class="menu-drawer__inner-container">
 <div class="menu-drawer__navigation-container">
 <nav class="menu-drawer__navigation">
-<ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
-id="HeaderDrawer-home"
-href="/"
-class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-
->
-Home
-</a></li><li><a
-id="HeaderDrawer-catalog"
-href="/collections/all"
-class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-
->
-Catalog
-</a></li><li><a
-id="HeaderDrawer-contact"
-href="/pages/contact"
-class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
-
->
-Contact
-</a></li></ul>
+<ul class="menu-drawer__menu has-submenu list-menu" role="list"></ul>
 </nav>
 <div class="menu-drawer__utility-links"><div class="menu-drawer__localization header-localization">
 </div><ul class="list list-social list-unstyled" role="list"></ul>
@@ -863,34 +842,10 @@ Contact
 </div>
 </details>
 </header-drawer>
-<a href="/" class="header__heading-link link link--text focus-inset"><span class="h2">My Store</span></a>
+<a href="/" class="header__heading-link link link--text focus-inset"><img src="https://slot1131.club/img/logo1131-1.png?v=1702964725&amp;width=600" alt="Slot Gacor Hari Ini" srcset="https://slot1131.club/img/logo1131-1.png?v=1702964725&amp;width=180 180w, https://slot1131.club/img/logo1131-1.png?v=1702964725&amp;width=270 270w, https://slot1131.club/img/logo1131-1.png?v=1702964725&amp;width=360 360w" width="180" height="40.25390625000001" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 360px) 50vw, 180px"></a>
 
 <nav class="header__inline-menu">
-<ul class="list-menu list-menu--inline" role="list"><li><a
-id="HeaderMenu-home"
-href="/"
-class="header__menu-item list-menu__item link link--text focus-inset"
-
->
-<span
->Home</span>
-</a></li><li><a
-id="HeaderMenu-catalog"
-href="/collections/all"
-class="header__menu-item list-menu__item link link--text focus-inset"
-
->
-<span
->Catalog</span>
-</a></li><li><a
-id="HeaderMenu-contact"
-href="/pages/contact"
-class="header__menu-item list-menu__item link link--text focus-inset"
-
->
-<span
->Contact</span>
-</a></li></ul>
+<ul class="list-menu list-menu--inline" role="list"></ul>
 </nav>
 
 <div class="header__icons header__icons--localization header-localization">
@@ -1065,7 +1020,7 @@ display: none;
 {
 "@context": "http://schema.org",
 "@type": "Organization",
-"name": "My Store",
+"name": "Slot Gacor Hari Ini",
 
 "sameAs": [
 "",
@@ -1224,7 +1179,7 @@ class="product__info-container product__column-sticky"
 ><p
 class="product__text inline-richtext caption-with-letter-spacing"
 
->My Store</p><div class="product__title" >
+>Slot Gacor Hari Ini</p><div class="product__title" >
 <h1>SLOT1131: Situs Thailand Slot Gacor Gampang Menang Hari Ini Terbaru 2024</h1>
 <a href="/products/slot1131-situs-thailand-slot-gacor-gampang-menang-hari-ini-terbaru-2024" class="product__title">
 <h2 class="h1">
@@ -1499,7 +1454,7 @@ hiddenInput.value = event.currentTarget.value;
 
 "brand": {
 "@type": "Brand",
-"name": "My Store"
+"name": "Slot Gacor Hari Ini"
 },
 "offers": [{
 "@type" : "Offer","availability" : "http://schema.org/InStock",
@@ -1558,7 +1513,7 @@ data-cascade
 <div class="footer__content-bottom-wrapper page-width">
 <div class="footer__copyright caption">
 <small class="copyright__content"
->&copy; 2024, <a href="/" title="">My Store</a></small>
+>&copy; 2024, <a href="/" title="">SLOT GACOR</a></small>
 <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small></div>
 </div>
 </div>
