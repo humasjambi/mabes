@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.club/gro/gacor/">
-<link rel="canonical" href="https://pkk.grobogan.go.id/js/valengacor/">
+<link rel="canonical" href="http://pkk.grobogan.go.id/js/valengacor/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>SLOT1131: Slot Gacor Hari Ini RTP Slot88 Gampang Menang Maxwin Paling Laris 2024</title>
 <meta name="description" content="SLOT1131 adalah situs slot gacor terbaik 2024 yang paling ramai diminati. Dikenal dengan aliansi RTP slot provider SLOT88 terpercaya gampang menang. Link slot gacor maxwin kini tersedia untuk kamu coba menangkan jp dengan pengalaman yang mengasyikkan di tahun baru ini.">
 <meta property="og:site_name" content="Situs Slot Gacor">
-<meta property="og:url" content="https://pkk.grobogan.go.id/js/valengacor/">
+<meta property="og:url" content="http://pkk.grobogan.go.id/js/valengacor/">
 <meta property="og:title" content="SLOT1131: Slot Gacor Hari Ini RTP Slot88 Gampang Menang Maxwin Paling Laris 2024">
 <meta property="og:type" content="product">
 <meta property="og:description" content="SLOT1131 adalah situs slot gacor terbaik 2024 yang paling ramai diminati. Dikenal dengan aliansi RTP slot provider SLOT88 terpercaya gampang menang. Link slot gacor maxwin kini tersedia untuk kamu coba menangkan jp dengan pengalaman yang mengasyikkan di tahun baru ini.">
@@ -29,7 +29,7 @@
 <script src="//cd5ea4-4.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705116421" defer></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/56364728382/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://pkk.grobogan.go.id/js/valengacor/.oembed">
+<link rel="alternate" type="application/json+oembed" href="http://pkk.grobogan.go.id/js/valengacor/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=cd5ea4-4.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"84fbc866256cff56463ad68756ce4b1e","betas":["rich-media-storefront-analytics"],"domain":"cd5ea4-4.myshopify.com","predictiveSearch":true,"shopId":56364728382,"smart_payment_buttons_url":"https:\/\/cd5ea4-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cd5ea4-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
@@ -552,7 +552,7 @@ for (var attr in meta) {
   window.BOOMR.snippetStart = new Date().getTime();
   window.BOOMR.snippetExecuted = true;
   window.BOOMR.snippetVersion = 12;
-  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.application ="storefront-renderer";
   window.BOOMR.themeName = "Dawn";
   window.BOOMR.themeVersion = "12.0.0";
   window.BOOMR.shopId = 56364728382;
@@ -935,7 +935,7 @@ for (var attr in meta) {
   viewBox="0 0 40 40"
   fill="none"
 >
-  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/></path>
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 10 7.5 0z" fill="currentColor" fill-rule="evenodd"/></path>
 </svg>
 <span class="visually-hidden">Cart</span></a>
     </div>
@@ -1285,7 +1285,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--14952396226622__main"
-          value="https://pkk.grobogan.go.id/js/valengacor/"
+          value="http://pkk.grobogan.go.id/js/valengacor/"
           placeholder="Link"
           onclick="this.select();"
           readonly
