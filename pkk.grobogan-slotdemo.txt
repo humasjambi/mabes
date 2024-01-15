@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.club/gro/demo/">
-<link rel="canonical" href="https://pkk.grobogan.go.id/themes/akundemo/">
+<link rel="canonical" href="http://pkk.grobogan.go.id/themes/akundemo/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>Slot Demo Terlengkap 2024: Slot Demo Pragmatic & Demo Slot PG Soft Mirip Asli</title>
 <meta name="description" content="Ayo, ikuti keseruan main demo slot pragmatic & slot demo pg soft mirip asli. Hanya ada di SLOT1131 memainkan akun demo slot rupiah berhadiah uang tunai, ikuti keseruannya dengan pilih game favoritmu disini.">
 <meta property="og:site_name" content="Demo Slot">
-<meta property="og:url" content="https://pkk.grobogan.go.id/themes/akundemo/">
+<meta property="og:url" content="http://pkk.grobogan.go.id/themes/akundemo/">
 <meta property="og:title" content="Slot Demo Terlengkap 2024: Slot Demo Pragmatic & Demo Slot PG Soft Mirip Asli">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Ayo, ikuti keseruan main demo slot pragmatic & slot demo pg soft mirip asli. Hanya ada di SLOT1131 memainkan akun demo slot rupiah berhadiah uang tunai, ikuti keseruannya dengan pilih game favoritmu disini.">
@@ -30,7 +30,7 @@
 <script src="//952312.myshopify.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111704714118" defer="defer"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/58304561230/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://pkk.grobogan.go.id/themes/akundemo/.oembed">
+<link rel="alternate" type="application/json+oembed" href="http://pkk.grobogan.go.id/themes/akundemo/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=952312.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"e37525f7f2cbbb7e23e58060a7c21b36","betas":["rich-media-storefront-analytics"],"domain":"952312.myshopify.com","predictiveSearch":true,"shopId":58304561230,"smart_payment_buttons_url":"https:\/\/952312.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/952312.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
@@ -1693,7 +1693,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--15306246324302__main"
-          value="https://pkk.grobogan.go.id/themes/akundemo/"
+          value="http://pkk.grobogan.go.id/themes/akundemo/"
           placeholder="Link"
           onclick="this.select();"
           readonly
