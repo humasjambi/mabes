@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="s2adminkes.uniqhba.ac.id/.well-known/demonologist/">
+    <link rel="canonical" href="https://s2adminkes.uniqhba.ac.id/.well-known/demonologist/">
     <link rel="amphtml" href="https://slot1131.club/uni3/demo/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>Daftarkan Akun Anda Di Link Slot Demo Pragmatic & PG Soft Bisa Di WD</title>
@@ -18,7 +18,7 @@
     
 
 <meta property="og:site_name" content="Slot Demo">
-<meta property="og:url" content="s2adminkes.uniqhba.ac.id/.well-known/demonologist/">
+<meta property="og:url" content="https://s2adminkes.uniqhba.ac.id/.well-known/demonologist/">
 <meta property="og:title" content="Daftarkan Akun Anda Di Link Slot Demo Pragmatic & PG Soft Bisa Di WD">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Satu satunya link slot demo yang memberikan event saldo yang di dapatkan bisa menghasilkan uang beneran atau bisa di wd, daftarkan sekarang juga hanya butuh 1 akun untuk bermain demo slot Pragmatic & PG Soft terbaik 2024."><meta property="og:image" content="http://30c5ca-4.myshopify.com/cdn/shop/files/demo28.jpg?v=1705314016">
@@ -33,7 +33,7 @@
     <script src="//30c5ca-4.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705313699" defer="defer"></script>
     <script src="//30c5ca-4.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705313707" defer="defer"></script>
     <script src="//30c5ca-4.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705313701" defer="defer"></script><script src="//30c5ca-4.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705313684" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/62087757980/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="s2adminkes.uniqhba.ac.id/.well-known/demonologist/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://s2adminkes.uniqhba.ac.id/.well-known/demonologist/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=30c5ca-4.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"46b866294bfccc6cf5f73b0cfaec96a9","betas":["rich-media-storefront-analytics"],"domain":"30c5ca-4.myshopify.com","predictiveSearch":true,"shopId":62087757980,"smart_payment_buttons_url":"https:\/\/30c5ca-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/30c5ca-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
