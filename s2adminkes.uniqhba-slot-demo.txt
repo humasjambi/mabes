@@ -1402,7 +1402,7 @@ Item added to your cart
       "image": [
           "https:\/\/30c5ca-4.myshopify.com\/cdn\/shop\/files\/demo28.jpg?v=1705314016\u0026width=1920"
         ],
-      "description": "\Satu satunya link slot demo yang memberikan event saldo yang di dapatkan bisa menghasilkan uang beneran atau bisa di wd, daftarkan sekarang juga hanya butuh 1 akun untuk bermain demo slot Pragmatic & PG Soft terbaik 2024.",
+        "description": "Satu satunya link slot demo yang memberikan event saldo yang di dapatkan bisa menghasilkan uang beneran atau bisa di wd, daftarkan sekarang juga hanya butuh 1 akun untuk bermain demo slot Pragmatic & PG Soft terbaik 2024.",
       
       "brand": {
         "@type": "Brand",
