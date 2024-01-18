@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="http://epaksi.sda.pu.go.id/vendor/sgtgacor/">
+    <link rel="canonical" href="http://epaksi.sda.pu.go.id/vendor/sgtgacor.html">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <link rel="amphtml" href="https://slot1131.lol/pu/gacor/">
     <title>Situs Slot Gacor Thailand Terpercaya Yang Gampang Maxwin Hari Ini</title>
@@ -18,7 +18,7 @@
     
 
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="http://epaksi.sda.pu.go.id/vendor/sgtgacor/">
+<meta property="og:url" content="http://epaksi.sda.pu.go.id/vendor/sgtgacor.html">
 <meta property="og:title" content="Situs Slot Gacor Thailand Terpercaya Yang Gampang Maxwin Hari Ini">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Mainkan game slot online gacor hari ini yang dapat memberikan anda maxwin karna dilengkapi server Thailand terpercaya dan pelayanan luar biasa"><meta property="og:image" content="http://a5e97f-2.myshopify.com/cdn/shop/files/gacor24.jpg?v=1705572712">
@@ -33,7 +33,7 @@
     <script src="//a5e97f-2.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705572573" defer="defer"></script>
     <script src="//a5e97f-2.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705572579" defer="defer"></script>
     <script src="//a5e97f-2.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705572574" defer="defer"></script><script src="//a5e97f-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705572558" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/67980329207/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="http://epaksi.sda.pu.go.id/vendor/sgtgacor/.oembed">
+<link rel="alternate" type="application/json+oembed" href="http://epaksi.sda.pu.go.id/vendor/sgtgacor.html.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=a5e97f-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"edf416f460039617ac929f5c36d580d9","betas":["rich-media-storefront-analytics"],"domain":"a5e97f-2.myshopify.com","predictiveSearch":true,"shopId":67980329207,"smart_payment_buttons_url":"https:\/\/a5e97f-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/a5e97f-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1667,7 +1667,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--17225765191927__main"
-          value="http://epaksi.sda.pu.go.id/vendor/sgtgacor/"
+          value="http://epaksi.sda.pu.go.id/vendor/sgtgacor.html"
           placeholder="Link"
           onclick="this.select();"
           readonly
