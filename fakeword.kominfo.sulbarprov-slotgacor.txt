@@ -1652,7 +1652,7 @@ Item added to your cart
       "image": [
           "https:\/\/d72dd4-5.myshopify.com\/cdn\/shop\/files\/gacor.jpg?v=1705395638\u0026width=1920"
         ],
-      "description": " \n \  Slot1131 adalah rekomendasi situs link judi slot gacor yang sudah dipercaya dan digemari oleh banyak member sebagai situs slot tergacor. Rasakan kemenangan yang sangat besar hanya bermodalkan modal yang sangat minim.",
+      "description": "Slot1131 adalah rekomendasi situs link judi slot gacor yang sudah dipercaya dan digemari oleh banyak member sebagai situs slot tergacor. Rasakan kemenangan yang sangat besar hanya bermodalkan modal yang sangat minim.",
       
       "brand": {
         "@type": "Brand",
