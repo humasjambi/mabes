@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://disnaker.cirebonkota.go.id/.wp-cli/hakka/">
+    <link rel="canonical" href="https://disnaker.cirebonkota.go.id/hakka/">
     <link rel="amphtml" href="https://slot1131.lol/cir/hk/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>Live Draw HK Terlengkap Se-Indonesia Dengan Tabel Result Keluaran Toto HK Tercepat Sat Set
@@ -19,7 +19,7 @@
     
 
 <meta property="og:site_name" content="Pengeluaran Live Draw HK Tercepat">
-<meta property="og:url" content="https://disnaker.cirebonkota.go.id/.wp-cli/hakka/">
+<meta property="og:url" content="https://disnaker.cirebonkota.go.id/hakka/">
 <meta property="og:title" content="Live Draw HK Terlengkap Se-Indonesia Dengan Tabel Result Keluaran Toto HK Tercepat Sat Set">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Tidak perlu lelah menunggu untuk mendapatkan keluaran live draw hk. Kami selalu memberikan tabel result toto hongkong tercepat se-Indonesia secara lengkap dan cepat sat set sat set!"><meta property="og:image" content="http://88850f-2.myshopify.com/cdn/shop/files/hk25.jpg?v=1705668653">
@@ -34,7 +34,7 @@
     <script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705668410" defer="defer"></script>
     <script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705668418" defer="defer"></script>
     <script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705668412" defer="defer"></script><script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705668394" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/64305496221/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://disnaker.cirebonkota.go.id/.wp-cli/hakka/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://disnaker.cirebonkota.go.id/hakka/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=88850f-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"2e0395e36869489593d5ae1252f5b54b","betas":["rich-media-storefront-analytics"],"domain":"88850f-2.myshopify.com","predictiveSearch":true,"shopId":64305496221,"smart_payment_buttons_url":"https:\/\/88850f-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/88850f-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1588,7 +1588,7 @@ Item added to your cart
     <script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331705668415" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
                   <p><a href="https://main-slot1131.love/bog/naga-hk/" title="Link Live Draw HK Terlengkap Se-Indonesia Dengan Tabel Result Keluaran Toto HK Tercepat Sat Set"><img alt="Daftar Live Draw HK Terlengkap Se-Indonesia Dengan Tabel Result Keluaran Toto HK Tercepat Sat Set" src="https://cdn.shopify.com/s/files/1/0643/0549/6221/files/Daftar1_480x480.gif?v=1705668542"></a></p>
-<p>Tidak perlu lelah menunggu untuk mendapatkan keluaran <a href="https://disnaker.cirebonkota.go.id/.wp-cli/hakka/">live draw hk</a>. Kami selalu memberikan tabel result toto hongkong tercepat se-Indonesia secara lengkap dan cepat sat set sat set!</p>
+<p>Tidak perlu lelah menunggu untuk mendapatkan keluaran <a href="https://disnaker.cirebonkota.go.id/hakka/">live draw hk</a>. Kami selalu memberikan tabel result toto hongkong tercepat se-Indonesia secara lengkap dan cepat sat set sat set!</p>
                 </div>
               
 <script src="//88850f-2.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191705668427" defer="defer"></script>
@@ -1638,7 +1638,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--16682756800669__main"
-          value="https://disnaker.cirebonkota.go.id/.wp-cli/hakka/"
+          value="https://disnaker.cirebonkota.go.id/hakka/"
           placeholder="Link"
           onclick="this.select();"
           readonly
