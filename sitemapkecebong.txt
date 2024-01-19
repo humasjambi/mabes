@@ -8,8 +8,8 @@
 
 
 <url>
-  <loc>https://disnaker.cirebonkota.go.id/hakka/</loc>
-  <lastmod>2024-01-19T13:14:30+00:00</lastmod>
+  <loc>https://disnaker.cirebonkota.go.id/demokrasi/</loc>
+  <lastmod>2024-01-19T14:29:24+00:00</lastmod>
 </url>
 
 
