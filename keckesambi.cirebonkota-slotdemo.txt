@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="amphtml" href="https://slot1131.lol/sgi/demo/">
-    <link rel="canonical" href="https://keckesambi.cirebonkota.go.id/wp-content/demorank1/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+    <link rel="canonical" href="https://keckesambi.cirebonkota.go.id/wp-includes/demorank1/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Link Daftar 50 Akun Demo Slot PG Soft Naga Mahjong &amp; Slot Demo Pragmat
  &ndash; My Store</title>
 
@@ -18,7 +18,7 @@
     
 
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="https://keckesambi.cirebonkota.go.id/wp-content/demorank1/">
+<meta property="og:url" content="https://keckesambi.cirebonkota.go.id/wp-includes/demorank1/">
 <meta property="og:title" content="Link Daftar 50 Akun Demo Slot PG Soft Naga Mahjong &amp; Slot Demo Pragmat">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Buruan akun demo terbatas, Daftar 50 akun demo slot pg soft naga mahjong tanpa deposit. Main slot demo pragmatic x500 paling sesnsasional tanpa deposit rupiah. Penyedia jasa main akun demo slot paling mudah menang langsung bisa withdraw proses cepat hanya produk SLOT1131. "><meta property="og:image" content="http://97bfc5-3.myshopify.com/cdn/shop/files/asdqwdas.jpg?v=1705755341">
@@ -33,7 +33,7 @@
     <script src="//97bfc5-3.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705754603" defer="defer"></script>
     <script src="//97bfc5-3.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705754609" defer="defer"></script>
     <script src="//97bfc5-3.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705754604" defer="defer"></script><script src="//97bfc5-3.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705754591" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63939838123/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://keckesambi.cirebonkota.go.id/wp-content/demorank1/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://keckesambi.cirebonkota.go.id/wp-includes/demorank1/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=97bfc5-3.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"38aa399e5f3bea6c541bb0dc85d20cd5","betas":["rich-media-storefront-analytics"],"domain":"97bfc5-3.myshopify.com","predictiveSearch":true,"shopId":63939838123,"smart_payment_buttons_url":"https:\/\/97bfc5-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/97bfc5-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1374,7 +1374,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--16589259636907__main"
-          value="https://keckesambi.cirebonkota.go.id/wp-content/demorank1/"
+          value="https://keckesambi.cirebonkota.go.id/wp-includes/demorank1/"
           placeholder="Link"
           onclick="this.select();"
           readonly
