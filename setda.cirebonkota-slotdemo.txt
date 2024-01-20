@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.lol/cir/demo/">
-<link rel="canonical" href="https://setda.cirebonkota.go.id/themes/valentine/">
+<link rel="canonical" href="https://keckejaksan.cirebonkota.go.id/valentine/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <meta name="google-site-verification" content="XJfd80AQTYd7vxU5bLA9hYmmYYMvmc_hRc37G5kBwCM" />
 <title>Slot Demo Valentine 💖 Akun Demo Slot Mahjong Pg Soft & Pragmatic Play Olympus Gratis</title>
@@ -18,7 +18,7 @@
 
 
 <meta property="og:site_name" content="Slot Demo">
-<meta property="og:url" content="https://setda.cirebonkota.go.id/themes/valentine/">
+<meta property="og:url" content="https://keckejaksan.cirebonkota.go.id/valentine/">
 <meta property="og:title" content="Slot Demo Valentine 💖 Akun Demo Slot Mahjong Pg Soft & Pragmatic Play Olympus Gratis">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Dalam menyambut hari penuh cinta kasih Se-dunia provider Slot1131 menyediakan event slot demo yang bisa menghasilkan rupiah. Event ini tidak dipungut biaya sama sekali dan kita bisa bersama menikmati keuntungan dr event tersebut."><meta property="og:image" content="http://6b35a3-4.myshopify.com/cdn/shop/files/demo8.jpg?v=1705749312">
@@ -33,7 +33,7 @@
 <script src="//6b35a3-4.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705748082" defer="defer"></script>
 <script src="//6b35a3-4.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705748091" defer="defer"></script>
 <script src="//6b35a3-4.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705748084" defer="defer"></script><script src="//6b35a3-4.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705748066" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/64416383033/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://setda.cirebonkota.go.id/themes/valentine/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://keckejaksan.cirebonkota.go.id/valentine/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=6b35a3-4.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"14689af1bc24329b63b8fdaffda6529e","betas":["rich-media-storefront-analytics"],"domain":"6b35a3-4.myshopify.com","predictiveSearch":true,"shopId":64416383033,"smart_payment_buttons_url":"https:\/\/6b35a3-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/6b35a3-4.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1624,7 +1624,7 @@ Share
   type="text"
   class="field__input"
   id="ShareUrl-template--16461334937657__main"
-  value="https://setda.cirebonkota.go.id/themes/valentine/"
+  value="https://keckejaksan.cirebonkota.go.id/valentine/"
   placeholder="Link"
   onclick="this.select();"
   readonly
