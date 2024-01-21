@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://sister.uniqhba.ac.id/brother/">
+    <link rel="canonical" href="https://kopma.uniqhba.ac.id/brother/">
     <link rel="amphtml" href="https://slot1131.lol/uni3/hk/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>
@@ -19,7 +19,7 @@
     
 
 <meta property="og:site_name" content="Live Draw HK">
-<meta property="og:url" content="https://sister.uniqhba.ac.id/brother/">
+<meta property="og:url" content="https://kopma.uniqhba.ac.id/brother/">
 <meta property="og:title" content="DAPATKAN ANGKA KELUARAN TOGEL HONGKONG TERCEPAT DI DUNIA DAN AKHIRAT DENGAN TABEL LIVE DRAW HK TERLENGKAP">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Kumpulan angka keluaran hk tercepat dengan sistem fitur live draw toto hongkong yang lengkap, resmi dan terpercaya bagi para pecinta data hk."><meta property="og:image" content="http://83b2b2-3.myshopify.com/cdn/shop/files/hk27.jpg?v=1705841858">
@@ -34,7 +34,7 @@
     <script src="//83b2b2-3.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705841723" defer="defer"></script>
     <script src="//83b2b2-3.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705841729" defer="defer"></script>
     <script src="//83b2b2-3.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705841725" defer="defer"></script><script src="//83b2b2-3.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705841711" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/67967582421/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://sister.uniqhba.ac.id/brother/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://kopma.uniqhba.ac.id/brother/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=83b2b2-3.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"5e6bc65c6db6d308d71de88a22c2122b","betas":["rich-media-storefront-analytics"],"domain":"83b2b2-3.myshopify.com","predictiveSearch":true,"shopId":67967582421,"smart_payment_buttons_url":"https:\/\/83b2b2-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/83b2b2-3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1638,7 +1638,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--17232477356245__main"
-          value="https://sister.uniqhba.ac.id/brother/"
+          value="https://kopma.uniqhba.ac.id/brother/"
           placeholder="Link"
           onclick="this.select();"
           readonly
