@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -7,7 +8,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.lol/uni/gacor/">
-<link rel="canonical" href="https://rektorat.uniqhba.ac.id/">
+<link rel="canonical" href="https://rektorat.uniqhba.ac.id/wp-includes/gacor/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama</title>
 
@@ -18,7 +19,7 @@
 
 
 <meta property="og:site_name" content="Slot Gacor">
-<meta property="og:url" content="https://rektorat.uniqhba.ac.id/">
+<meta property="og:url" content="https://rektorat.uniqhba.ac.id/wp-includes/gacor/">
 <meta property="og:title" content="JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama">
 <meta property="og:type" content="product">
 <meta property="og:description" content="  JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama andalan terbaik nomor 1 di asia. Anda akan diberikan berbagai macam bonus dan link rtp terupdate,terbaik yang akan memudahkan bagi member untuk mendapatkan kemenangan besar."><meta property="og:image" content="http://00bfff.myshopify.com/cdn/shop/files/gacor27.jpg?v=1705834463">
@@ -33,7 +34,7 @@
 <script src="//00bfff.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705834366" defer="defer"></script>
 <script src="//00bfff.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705834374" defer="defer"></script>
 <script src="//00bfff.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705834368" defer="defer"></script><script src="//00bfff.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705834351" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/68492067040/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://rektorat.uniqhba.ac.id/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://rektorat.uniqhba.ac.id/wp-includes/gacor/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=00bfff.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"e566013f11fb03ec3941994920dac645","betas":["rich-media-storefront-analytics"],"domain":"00bfff.myshopify.com","predictiveSearch":true,"shopId":68492067040,"smart_payment_buttons_url":"https:\/\/00bfff.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/00bfff.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1587,7 +1588,7 @@ xmlns="http://www.w3.org/2000/svg"
 <script src="//00bfff.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331705834371" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
   <p> </p>
-<p><a href="https://main-slot1131.love/" title="Daftar Situs JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama"><img alt="Daftar JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama" src="https://cdn.shopify.com/s/files/1/0684/9206/7040/files/Daftar2_480x480.gif?v=1705834399"></a></p>
+<p><a href="https://main-slot1131.love/uni/naga-gacor/" title="Daftar Situs JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama"><img alt="Daftar JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama" src="https://cdn.shopify.com/s/files/1/0684/9206/7040/files/Daftar2_480x480.gif?v=1705834399"></a></p>
 <p>JP1131: Situs Slot Gacor Andalan Hari Ini Gampang Menang Maxwin Bergaransi Tanpa Drama andalan terbaik nomor 1 di asia. Anda akan diberikan berbagai macam bonus dan link rtp terupdate,terbaik yang akan memudahkan bagi member untuk mendapatkan kemenangan besar.</p>
 </div>
   
@@ -1638,7 +1639,7 @@ Share
   type="text"
   class="field__input"
   id="ShareUrl-template--17361630527712__main"
-  value="https://rektorat.uniqhba.ac.id/"
+  value="https://rektorat.uniqhba.ac.id/wp-includes/gacor/"
   placeholder="Link"
   onclick="this.select();"
   readonly
