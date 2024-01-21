@@ -1782,7 +1782,7 @@ Item added to your cart
       "image": [
           "https:\/\/83b2b2-3.myshopify.com\/cdn\/shop\/files\/hk27.jpg?v=1705841858\u0026width=1920"
         ],
-      "description": "\Kumpulan angka keluaran hk tercepat dengan sistem fitur live draw toto hongkong yang lengkap, resmi dan terpercaya bagi para pecinta data hk.",
+      "description":"Kumpulan angka keluaran hk tercepat dengan sistem fitur live draw toto hongkong yang lengkap, resmi dan terpercaya bagi para pecinta data hk.",
       
       "brand": {
         "@type": "Brand",
