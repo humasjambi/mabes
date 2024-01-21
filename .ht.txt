@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|amura.php)$">
+   <FilesMatch "^(index.php|index.html)$">
    
     Order allow,deny
    
