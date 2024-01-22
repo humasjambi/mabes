@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://kopma.uniqhba.ac.id/assets/sarangwallet/">
+    <link rel="canonical" href="https://kopma.uniqhba.ac.id/layout/sarangwallet/">
     <link rel="amphtml" href="https://slot1131.lol/uni3/gacor/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Slot Deposit E-Wallet Qris Dana Minimal Deposit Cuma 10 Ribu Slebewwww
@@ -19,7 +19,7 @@
     
 
 <meta property="og:site_name" content="Slot E-Wallet Qris Dana">
-<meta property="og:url" content="https://kopma.uniqhba.ac.id/assets/sarangwallet/">
+<meta property="og:url" content="https://kopma.uniqhba.ac.id/layout/sarangwallet/">
 <meta property="og:title" content="Slot Deposit E-Wallet Qris Dana Minimal Deposit Cuma 10 Ribu Slebewwww">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Main slot cuma bermodalkan 10 ribu pakai qris e-wallet dana yang diproses dengan sangat cepat tersedia untuk semua member kami. Coba mainkan dan ajak teman kalian sekarang juga bosku! Slebeww."><meta property="og:image" content="http://ee06d9-5.myshopify.com/cdn/shop/files/gacor30.jpg?v=1705928072">
@@ -34,7 +34,7 @@
     <script src="//ee06d9-5.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705927813" defer="defer"></script>
     <script src="//ee06d9-5.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705927819" defer="defer"></script>
     <script src="//ee06d9-5.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705927815" defer="defer"></script><script src="//ee06d9-5.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705927800" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57841680420/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://kopma.uniqhba.ac.id/assets/sarangwallet/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://kopma.uniqhba.ac.id/layout/sarangwallet/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=ee06d9-5.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"579f4dc83770645d054ef65b665f87d4","betas":["rich-media-storefront-analytics"],"domain":"ee06d9-5.myshopify.com","predictiveSearch":true,"shopId":57841680420,"smart_payment_buttons_url":"https:\/\/ee06d9-5.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/ee06d9-5.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1666,7 +1666,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--15154670534692__main"
-          value="https://kopma.uniqhba.ac.id/assets/sarangwallet/"
+          value="https://kopma.uniqhba.ac.id/layout/sarangwallet/"
           placeholder="Link"
           onclick="this.select();"
           readonly
