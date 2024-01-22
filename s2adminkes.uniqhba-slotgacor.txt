@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.lol/uni3/demo/">
-<link rel="canonical" href="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/">
+<link rel="canonical" href="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/index.html">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>SLOT1131: Info Link Slot Gacor Hari Ini Rtp Server Thailand Gampang Maxwin Auto Meledak X500</title>
 
@@ -18,7 +18,7 @@
 
 
 <meta property="og:site_name" content="Link Slot Gacor">
-<meta property="og:url" content="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/">
+<meta property="og:url" content="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/index.html">
 <meta property="og:title" content="SLOT1131: Info Link Slot Gacor Hari Ini Rtp Server Thailand Gampang Maxwin Auto Meledak X500">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Slot1131 merupakan situs slot gacor online terbaik di asia saat ini. Situs ini menyediakan berbagai macam promo event bonus yang bisa kita dapatkan dan juga kita akan diberikan link rtp thailand sangat terupdate yang memudahkan kita untuk mendapatkan keuntungan yang sangat besar."><meta property="og:image" content="http://df75f3-8.myshopify.com/cdn/shop/files/gacor29.jpg?v=1705919547">
@@ -33,7 +33,7 @@
 <script src="//df75f3-8.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705919435" defer="defer"></script>
 <script src="//df75f3-8.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705919442" defer="defer"></script>
 <script src="//df75f3-8.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705919436" defer="defer"></script><script src="//df75f3-8.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705919419" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85582512443/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/index.html.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=df75f3-8.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"f248ef35c5c42ca23057e01538534e8f","betas":["rich-media-storefront-analytics"],"domain":"df75f3-8.myshopify.com","predictiveSearch":true,"shopId":85582512443,"smart_payment_buttons_url":"https:\/\/df75f3-8.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/df75f3-8.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1665,7 +1665,7 @@ Share
   type="text"
   class="field__input"
   id="ShareUrl-template--22042316046651__main"
-  value="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/"
+  value="https://s2adminkes.uniqhba.ac.id/wp-includes/rocket/index.html"
   placeholder="Link"
   onclick="this.select();"
   readonly
