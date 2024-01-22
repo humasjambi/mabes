@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -6,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://kopma.uniqhba.ac.id/.well-known/rugidong/">
+    <link rel="canonical" href="https://kopma.uniqhba.ac.id/gambar/rugidong/">
     <link rel="amphtml" href="https://slot1131.lol/uni3/gacor/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Tidak Perlu Ragu Lagi, Situs Slot Gacor Gampang Menang Maxwin Hari Ini Anti Rugi Dong! Claim Kemenangan Dan Jadilah Juara 1 di SLOT1131
@@ -19,7 +18,7 @@
     
 
 <meta property="og:site_name" content="Situs Slot Gacor">
-<meta property="og:url" content="https://kopma.uniqhba.ac.id/.well-known/rugidong/">
+<meta property="og:url" content="https://kopma.uniqhba.ac.id/gambar/rugidong/">
 <meta property="og:title" content="Tidak Perlu Ragu Lagi, Situs Slot Gacor Gampang Menang Maxwin Hari Ini Anti Rugi Dong! Claim Kemenangan Dan Jadilah Juara 1 di SLOT1131">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Situs slot gacor anti rugi dong bisa kamu akses di SLOT1131 yang memiliki fitur gampang menang maxwin, coba hari ini dan jadilah juara 1 dalam permainan slot!"><meta property="og:image" content="http://91f83wbmht316eqg-85429354789.shopifypreview.com/cdn/shop/files/gacor31.jpg?v=1705930736">
@@ -35,7 +34,7 @@
     <script src="//91f83wbmht316eqg-85429354789.shopifypreview.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705930698" defer="defer"></script>
     <script src="//91f83wbmht316eqg-85429354789.shopifypreview.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705930693" defer="defer"></script><script src="//91f83wbmht316eqg-85429354789.shopifypreview.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705930679" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="robots" content="noindex,nofollow">
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85429354789/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://kopma.uniqhba.ac.id/.well-known/rugidong/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://kopma.uniqhba.ac.id/gambar/rugidong/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=e8a55c-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"522cb6d857048330f1fc966090c63be9","betas":["rich-media-storefront-analytics"],"domain":"91f83wbmht316eqg-85429354789.shopifypreview.com","predictiveSearch":true,"shopId":85429354789,"smart_payment_buttons_url":"https:\/\/91f83wbmht316eqg-85429354789.shopifypreview.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/91f83wbmht316eqg-85429354789.shopifypreview.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1600,7 +1599,7 @@ Item added to your cart
 
     <script src="//91f83wbmht316eqg-85429354789.shopifypreview.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331705930696" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
-                  <p>Situs <a href="https://kopma.uniqhba.ac.id/.well-known/rugidong/">slot gacor</a> anti rugi dong bisa kamu akses di SLOT1131 yang memiliki fitur gampang menang maxwin, coba hari ini dan jadilah juara 1 dalam permainan slot!</p>
+                  <p>Situs <a href="https://kopma.uniqhba.ac.id/gambar/rugidong/">slot gacor</a> anti rugi dong bisa kamu akses di SLOT1131 yang memiliki fitur gampang menang maxwin, coba hari ini dan jadilah juara 1 dalam permainan slot!</p>
 <p><a href="https://main-slot1131.love/uni3/naga-gacor/" title="Daftar Akun Situs Slot Gacor"><img alt="Daftar Akun Situs Slot Gacor" src="https://cdn.shopify.com/s/files/1/0854/2935/4789/files/Tombol-Daftar_480x480.png?v=1705930756"></a></p>
                 </div>
               
@@ -1651,7 +1650,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--21873220944165__main"
-          value="https://kopma.uniqhba.ac.id/.well-known/rugidong/"
+          value="https://kopma.uniqhba.ac.id/gambar/rugidong/"
           placeholder="Link"
           onclick="this.select();"
           readonly
