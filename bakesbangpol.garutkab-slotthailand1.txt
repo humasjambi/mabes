@@ -6,13 +6,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <link rel="amphtml" href="https://slot1131.lol/gar/thailand/">
-<link rel="canonical" href="https://bakesbangpol.garutkab.go.id/borcelleslot/">
+<link rel="canonical" href="https://bakesbangpol.garutkab.go.id/borcelle/">
 <link rel="icon" type="image/png" href="//028b59-2.myshopify.com/cdn/shop/files/photo_2024-01-23_04-28-50_f0c00ed4-0a71-4218-9016-c1a4ffd5050a.jpg?crop=center&height=32&v=1705958964&width=32">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>BORCELLESLOT 🏆 Slot Thailand Server Luar Negeri Terbaru 2024 Promo Jackpot Besar</title>
 <meta name="description" content="Borcelleslot merupakan tukang rekomendasi tentang game slot online. Menghadirkan server luar negeri terpercaya & terbaru di Indonesia pada tahun 2024. Menangkan hadiah jackpot dari admin Borcelleslot khususnya pecinta Slot Thailand malam ini.">
 <meta property="og:site_name" content="Slot Thailand">
-<meta property="og:url" content="https://bakesbangpol.garutkab.go.id/borcelleslot/">
+<meta property="og:url" content="https://bakesbangpol.garutkab.go.id/borcelle/">
 <meta property="og:title" content="BORCELLESLOT 🏆 Slot Thailand Server Luar Negeri Terbaru 2024 Promo Jackpot Besar">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Borcelleslot merupakan tukang rekomendasi tentang game slot online. Menghadirkan server luar negeri terpercaya & terbaru di Indonesia pada tahun 2024. Menangkan hadiah jackpot dari admin Borcelleslot khususnya pecinta Slot Thailand malam ini.">
@@ -31,7 +31,7 @@
 <script src="//028b59-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705958548" defer="defer"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85851767060/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://bakesbangpol.garutkab.go.id/borcelleslot/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://bakesbangpol.garutkab.go.id/borcelle/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=028b59-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"2f9f7520ff18bbe0221038f9eedea469","betas":["rich-media-storefront-analytics"],"domain":"028b59-2.myshopify.com","predictiveSearch":true,"shopId":85851767060,"smart_payment_buttons_url":"https:\/\/028b59-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/028b59-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1297,7 +1297,7 @@ value="47561068544276"
 <div class="product__description rte quick-add-hidden" >
 <p> </p>
 <p><a href="https://main-slot1131.love/gar/naga-thailand/" title="BORCELLESLOT 🏆 Slot Thailand Server Luar Negeri Terbaru 2024 Promo Jackpot Besar"><img alt="BORCELLESLOT 🏆 Slot Thailand Server Luar Negeri Terbaru 2024 Promo Jackpot Besar" src="https://cdn.shopify.com/s/files/1/0858/5176/7060/files/d94a50_378ca489517d4cc9841f2c31f95f6bf7_mv2.gif?v=1705958681" width="391" height="113" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
-<p style="color: black;"><a href="https://bakesbangpol.garutkab.go.id/borcelleslot/" style="color: black;">Borcelleslot</a> merupakan tukang rekomendasi tentang game slot online. Menghadirkan server luar negeri terpercaya & terbaru di Indonesia pada tahun 2024. Menangkan hadiah jackpot dari admin Borcelleslot khususnya pecinta Slot Thailand malam ini.</p>
+<p style="color: black;"><a href="https://bakesbangpol.garutkab.go.id/borcelle/" style="color: black;">Borcelleslot</a> merupakan tukang rekomendasi tentang game slot online. Menghadirkan server luar negeri terpercaya & terbaru di Indonesia pada tahun 2024. Menangkan hadiah jackpot dari admin Borcelleslot khususnya pecinta Slot Thailand malam ini.</p>
 </div>
 
 <script src="//028b59-2.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191705958581" defer="defer"></script>
@@ -1347,7 +1347,7 @@ Share
 type="text"
 class="field__input"
 id="ShareUrl-template--21979855978772__main"
-value="https://bakesbangpol.garutkab.go.id/borcelleslot/"
+value="https://bakesbangpol.garutkab.go.id/borcelle/"
 placeholder="Link"
 onclick="this.select();"
 readonly
