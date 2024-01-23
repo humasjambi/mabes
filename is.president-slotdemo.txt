@@ -6,13 +6,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
-<link rel="canonical" href="https://is.president.ac.id/schlas/">
+<link rel="canonical" href="https://is.president.ac.id/wp-content/wp-page/">
 <link rel="amphtml" href="https://slot1131.lol/pre/demo/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>Link Slot Demo Terbaru Pragmatic & PG Soft Gratis dan Lengkap (Bisa Menghasilkan Uang Tambahan)</title>
 <meta name="description" content="Mainkan pilihan game favoritemu yang sudah kami sediakan secara lengkap dan gratis, tak hanya itu. Link demo slot Pragmatic & PG Soft ini dapat menghasilkan uang tambahan bagi member yang beruntung!">
 <meta property="og:site_name" content="Demo Slot Terlengkap">
-<meta property="og:url" content="https://is.president.ac.id/schlas/">
+<meta property="og:url" content="https://is.president.ac.id/wp-content/wp-page/">
 <meta property="og:title" content="Link Slot Demo Terbaru Pragmatic & PG Soft Gratis dan Lengkap (Bisa Menghasilkan Uang Tambahan)">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Mainkan pilihan game favoritemu yang sudah kami sediakan secara lengkap dan gratis, tak hanya itu. Link demo slot Pragmatic & PG Soft ini dapat menghasilkan uang tambahan bagi member yang beruntung!"><meta property="og:image" content="http://56d358-2.myshopify.com/cdn/shop/files/demo41.jpg?v=1706007399">
@@ -27,7 +27,7 @@
 <script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771706006981" defer="defer"></script>
 <script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511706006989" defer="defer"></script>
 <script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591706006983" defer="defer"></script><script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111706006964" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85759000857/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://is.president.ac.id/schlas/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://is.president.ac.id/wp-content/wp-page/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=56d358-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"da20774686563c4db7c4c99685ad3124","betas":["rich-media-storefront-analytics"],"domain":"56d358-2.myshopify.com","predictiveSearch":true,"shopId":85759000857,"smart_payment_buttons_url":"https:\/\/56d358-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/56d358-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1608,7 +1608,7 @@ Refresh
 <script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331706006987" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
 <p><a href="https://main-slot1131.love/pre/naga-demo/" title="Situs Demo Slot"><img alt="Situs Demo Slot" src="https://cdn.shopify.com/s/files/1/0857/5900/0857/files/Tombol-Daftar_480x480.png?v=1706007351"></a></p>
-<p>Mainkan pilihan game favoritemu yang sudah kami sediakan secara lengkap dan gratis, tak hanya itu. <a href="https://is.president.ac.id/schlas/">link demo slot</a> Pragmatic & PG Soft ini dapat menghasilkan uang tambahan bagi member yang beruntung!</p>
+<p>Mainkan pilihan game favoritemu yang sudah kami sediakan secara lengkap dan gratis, tak hanya itu. <a href="https://is.president.ac.id/wp-content/wp-page/">link demo slot</a> Pragmatic & PG Soft ini dapat menghasilkan uang tambahan bagi member yang beruntung!</p>
 </div>
 
 <script src="//56d358-2.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191706006998" defer="defer"></script>
@@ -1658,7 +1658,7 @@ Share
 type="text"
 class="field__input"
 id="ShareUrl-template--21999708700953__main"
-value="https://is.president.ac.id/schlas/"
+value="https://is.president.ac.id/wp-content/wp-page/"
 placeholder="Link"
 onclick="this.select();"
 readonly
