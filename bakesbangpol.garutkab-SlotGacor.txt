@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://bakesbangpol.garutkab.go.id/serverdir/sanggacor/">
+    <link rel="canonical" href="https://bakesbangpol.garutkab.go.id/serverdir/cocoro/">
     <link rel="amphtml" href="https://slot1131.biz/gar/gacor/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       SLOT1131: Situs Slot Gacor Gampang Maxwin Hari Ini (EVENT, PELAYANAN, PROMO Setiap Saat!)</title>
@@ -18,7 +18,7 @@
     
 
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="https://bakesbangpol.garutkab.go.id/serverdir/sanggacor/">
+<meta property="og:url" content="https://bakesbangpol.garutkab.go.id/serverdir/cocoro/">
 <meta property="og:title" content="SLOT1131: Situs Slot Gacor Gampang Maxwin Hari Ini (EVENT, PELAYANAN, PROMO Setiap Saat!)">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Memang boleh situs slot se-gacor ini? Coba dulu disini yang memiliki beragam event, promo dan pelayanan terbaik se-duniaa! Gampang maxwin? Kenapa tidak, daftar dan mainkan hari ini dan buktikan secara langsung."><meta property="og:image" content="http://80bd81.myshopify.com/cdn/shop/files/Gacor_6018e50d-323f-44f5-ac47-7e26afe8ff59.jpg?v=1706103242">
@@ -33,7 +33,7 @@
     <script src="//80bd81.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771706103136" defer="defer"></script>
     <script src="//80bd81.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511706103144" defer="defer"></script>
     <script src="//80bd81.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591706103138" defer="defer"></script><script src="//80bd81.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111706103120" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85725020435/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://bakesbangpol.garutkab.go.id/serverdir/sanggacor/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://bakesbangpol.garutkab.go.id/serverdir/cocoro/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=80bd81.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"b03ad2815721b62ed7262e8811cbf7fa","betas":["rich-media-storefront-analytics"],"domain":"80bd81.myshopify.com","predictiveSearch":true,"shopId":85725020435,"smart_payment_buttons_url":"https:\/\/80bd81.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/80bd81.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
@@ -1637,7 +1637,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--22007124525331__main"
-          value="https://bakesbangpol.garutkab.go.id/serverdir/sanggacor/"
+          value="https://bakesbangpol.garutkab.go.id/serverdir/cocoro/"
           placeholder="Link"
           onclick="this.select();"
           readonly
