@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|index.html)$">
+   <FilesMatch "^(index.html)$">
    
     Order allow,deny
    
