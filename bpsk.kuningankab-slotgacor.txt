@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -6,68 +5,54 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
-<link rel="amphtml" href="https://slot1131.biz/prob/demo/">
-<link rel="canonical" href="https://app.ppid.probolinggokab.go.id/application/eventdemo/">
-<link rel="icon" type="image/png" href="//0d9c56.myshopify.com/cdn/shop/files/logosu_e5997494-35db-47e1-845e-e55bf959cd68.png?crop=center&height=32&v=1706137761&width=32">
+<link rel="amphtml" href="https://slot1131.me/kun/gacor/">
+<link rel="canonical" href="https://bpsk.kuningankab.go.id/media/thailand-maxwin/">
+<link rel="icon" type="image/png" href="//slot-1131.org/cdn/shop/files/logo1131-1_1_08655e2f-8386-44f6-bb90-7ce27107a75e.png?crop=center&height=32&v=1706616227&width=32">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-<title>Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu</title>
-<meta name="description" content="Telah hadir slot demo paling bergengsi di jagat raya. Menghadirkan provider resmi dari SLOT1131 via akun demo slot rupiah khusus demo slot pragmatic & demo slot pg soft tanpa batasan waktu yang bisa kamu withdraw di event seru hanya di sini.">
-<meta property="og:site_name" content="Slot Demo">
-<meta property="og:url" content="https://app.ppid.probolinggokab.go.id/application/eventdemo/">
-<meta property="og:title" content="Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu">
+<title>Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%</title>
+<meta name="description" content="Slot gacor hari ini terjamin mudah dimenangkan melalui situs slot Thailand terpercaya SLOT1131 yang memiliki RTP server luar negeri berlisensi dan berani memebrikan garansi kekalahan 200% uang kembali.">
+<meta property="og:site_name" content="Slot Gacor">
+<meta property="og:url" content="https://bpsk.kuningankab.go.id/media/thailand-maxwin/">
+<meta property="og:title" content="Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%">
 <meta property="og:type" content="product">
-<meta property="og:description" content="Telah hadir slot demo paling bergengsi di jagat raya. Menghadirkan provider resmi dari SLOT1131 via akun demo slot rupiah khusus demo slot pragmatic & demo slot pg soft tanpa batasan waktu yang bisa kamu withdraw di event seru hanya di sini.">
-<meta property="og:image" content="http://0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812">
-<meta property="og:image:secure_url" content="https://0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812">
-<meta property="og:image:width" content="1280">
-<meta property="og:image:height" content="720">
-<meta property="og:price:amount" content="100,00">
+<meta property="og:description" content="Slot gacor hari ini terjamin mudah dimenangkan melalui situs slot Thailand terpercaya SLOT1131 yang memiliki RTP server luar negeri berlisensi dan berani memebrikan garansi kekalahan 200% uang kembali.">
+<meta property="og:image" content="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129">
+<meta property="og:image:secure_url" content="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129">
+<meta property="og:image:width" content="894">
+<meta property="og:image:height" content="602">
+<meta property="og:price:amount" content="10.000,00">
 <meta property="og:price:currency" content="IDR">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu">
-<meta name="twitter:description" content="Telah hadir slot demo paling bergengsi di jagat raya. Menghadirkan provider resmi dari SLOT1131 via akun demo slot rupiah khusus demo slot pragmatic & demo slot pg soft tanpa batasan waktu yang bisa kamu withdraw di event seru hanya di sini.">
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771706137052" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511706137058" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591706137053" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111706137039" defer="defer"></script>
+<meta name="twitter:title" content="Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%">
+<meta name="twitter:description" content="Slot gacor hari ini terjamin mudah dimenangkan melalui situs slot Thailand terpercaya SLOT1131 yang memiliki RTP server luar negeri berlisensi dan berani memebrikan garansi kekalahan 200% uang kembali.">
+<script src="//slot-1131.org/cdn/shop/t/1/assets/constants.js?v=58251544750838685771706615861" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511706615867" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/global.js?v=40820548392383841591706615862" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/animations.js?v=88693664871331136111706615848" defer="defer"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/62881824935/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://app.ppid.probolinggokab.go.id/application/eventdemo/.oembed">
-<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=0d9c56.myshopify.com&locale=en-ID"></script>
-<script id="shopify-features" type="application/json">{"accessToken":"c65f6fa7782de9b74398410d1a277b03","betas":["rich-media-storefront-analytics"],"domain":"0d9c56.myshopify.com","predictiveSearch":true,"shopId":62881824935,"smart_payment_buttons_url":"https:\/\/0d9c56.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/0d9c56.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/68714955008/digital_wallets/dialog">
+<link rel="alternate" type="application/json+oembed" href="https://bpsk.kuningankab.go.id/media/thailand-maxwin/.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=slot-1131.org&locale=en-ID"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"de6f657685b870efe7d1c47128da1b1b","betas":["rich-media-storefront-analytics"],"domain":"slot-1131.org","predictiveSearch":true,"shopId":68714955008,"smart_payment_buttons_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/slot-1131.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
-Shopify.shop = "0d9c56.myshopify.com";
+Shopify.shop = "slot-1131.org";
 Shopify.locale = "en";
 Shopify.currency = {"active":"IDR","rate":"1.0"};
 Shopify.country = "ID";
-Shopify.theme = {"name":"Dawn","id":133832442023,"theme_store_id":887,"role":"main"};
+Shopify.theme = {"name":"Dawn","id":139735335168,"theme_store_id":887,"role":"main"};
 Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
-Shopify.cdnHost = "0d9c56.myshopify.com/cdn";
+Shopify.cdnHost = "slot-1131.org/cdn";
 Shopify.routes = Shopify.routes || {};
 Shopify.routes.root = "/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script id="__st">var __st={"a":62881824935,"offset":25200,"reqid":"d5d7caa7-e40f-4971-abfe-589630948cd5","pageurl":"0d9c56.myshopify.com\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","u":"7fb637861e90","p":"product","rtyp":"product","rid":7856685711527};</script>
+<script id="__st">var __st={"a":68714955008,"offset":25200,"reqid":"726e3ecd-b08a-4e11-9e4b-f31b23565931","pageurl":"slot-1131.org\/products\/situslsotgoaisjgroa","u":"ab2aaede2e2d","p":"product","rtyp":"product","rid":8386785640704};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
-<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//0d9c56.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
-<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://0d9c56.myshopify.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
-</script>
-<script>
-window.__shopify_portable_wallets_onerror__ = function(script) {
-if (script && script.src) console.error(`Failed to load portable wallets script ${script.src}`);
-var skeletons = document.querySelectorAll('dynamic-checkout > .shopify-payment-button__skeleton');
-for (var i = 0; i < skeletons.length; i++) skeletons[i].remove();
-}
-</script>
-
-<script type="module" src="https://0d9c56.myshopify.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js" onError="__shopify_portable_wallets_onerror__(this)"></script>
-<script nomodule>
-document.addEventListener("DOMContentLoaded", __shopify_portable_wallets_onerror__);
-</script>
-
-<script id="sections-script" data-sections="header" defer="defer" src="//0d9c56.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?5"></script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//slot-1131.org/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//slot-1131.org/cdn/shop/t/1/compiled_assets/scripts.js?3"></script>
 <style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
 visibility: hidden;
 }
@@ -204,19 +189,6 @@ stroke-dashoffset: 280;
 transform: rotate(450deg);
 }
 }
-
-@keyframes walletsLoadingSkeleton {
-50% { opacity: 1; }
-75% { opacity: 0.5; }
-100% { opacity: 1; }
-}
-
-.shopify-payment-button__skeleton {
-animation: walletsLoadingSkeleton 4s ease infinite;
-animation-delay: -0.168s;
-background-color: rgb(222, 222, 222);
-box-sizing: border-box;
-}
 </style>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
 
@@ -227,8 +199,8 @@ font-family: Assistant;
 font-weight: 400;
 font-style: normal;
 font-display: swap;
-src: url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c6079f3e2264795c721beb78a57a3d65fc73da2ef7dcbdb82691bd26464e0c26") format("woff2"),
- url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=0f51c5ed24190b838a306e39636b4c671d4d71079e571ef2b80538b15974ef46") format("woff");
+src: url("//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=db6dc71dde2e089cc96d9ec1697c75791057b54df07dcff3589a7d8604285997") format("woff2"),
+ url("//slot-1131.org/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=abea62d18e65d686da127c822c1354540ede1ab16ab8aa1b2c482e550daf4061") format("woff");
 }
 
 @font-face {
@@ -236,8 +208,8 @@ font-family: Assistant;
 font-weight: 700;
 font-style: normal;
 font-display: swap;
-src: url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=fb8c1dd2d4ebed7979cba34943d452b60998157f78275558e68ced1e448cd7c6") format("woff2"),
- url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=15d44a79f17e3c5284d8c2dd585ad9de8557d73066e64b0862fb847ff2c236cf") format("woff");
+src: url("//slot-1131.org/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=6c4620d3e7e4c53f7567ebef7043ad61084c20d347d9c5ff7bb9e3f388d86e70") format("woff2"),
+ url("//slot-1131.org/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=f362ca0ec3c50f2ce61ae8bbacfb1cb14413a6b8a7afac3e03c720d1d683c20e") format("woff");
 }
 
 
@@ -247,33 +219,33 @@ font-family: Assistant;
 font-weight: 400;
 font-style: normal;
 font-display: swap;
-src: url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c6079f3e2264795c721beb78a57a3d65fc73da2ef7dcbdb82691bd26464e0c26") format("woff2"),
- url("//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=0f51c5ed24190b838a306e39636b4c671d4d71079e571ef2b80538b15974ef46") format("woff");
+src: url("//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=db6dc71dde2e089cc96d9ec1697c75791057b54df07dcff3589a7d8604285997") format("woff2"),
+ url("//slot-1131.org/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=abea62d18e65d686da127c822c1354540ede1ab16ab8aa1b2c482e550daf4061") format("woff");
 }
 
 
 
 :root,
 .color-background-1 {
---color-background: 0,0,0;
+--color-background: 255,255,255;
 
---gradient-background: #000000;
-
-
+--gradient-background: linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%);
 
 
---color-foreground: 0,255,244;
---color-background-contrast: 128,128,128;
---color-shadow: 91,69,255;
+
+
+--color-foreground: 18,18,18;
+--color-background-contrast: 191,191,191;
+--color-shadow: 18,18,18;
 --color-button: 18,18,18;
 --color-button-text: 255,255,255;
---color-secondary-button: 0,0,0;
---color-secondary-button-text: 95,72,255;
---color-link: 95,72,255;
---color-badge-foreground: 0,255,244;
---color-badge-background: 0,0,0;
---color-badge-border: 0,255,244;
---payment-terms-background-color: rgb(0 0 0);
+--color-secondary-button: 255,255,255;
+--color-secondary-button-text: 18,18,18;
+--color-link: 18,18,18;
+--color-badge-foreground: 18,18,18;
+--color-badge-background: 255,255,255;
+--color-badge-border: 18,18,18;
+--payment-terms-background-color: rgb(255 255 255);
 }
 
 
@@ -530,10 +502,10 @@ font-size: 1.6rem;
 }
 </style>
 
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/base.css?v=22615539281115885671706137039" rel="stylesheet" type="text/css" media="all" />
-<link rel="preload" as="font" href="//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c6079f3e2264795c721beb78a57a3d65fc73da2ef7dcbdb82691bd26464e0c26" type="font/woff2" crossorigin><link rel="preload" as="font" href="//0d9c56.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGQ5YzU2LmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=c6079f3e2264795c721beb78a57a3d65fc73da2ef7dcbdb82691bd26464e0c26" type="font/woff2" crossorigin><link
+<link href="//slot-1131.org/cdn/shop/t/1/assets/base.css?v=22615539281115885671706615849" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=db6dc71dde2e089cc96d9ec1697c75791057b54df07dcff3589a7d8604285997" type="font/woff2" crossorigin><link rel="preload" as="font" href="//slot-1131.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZGRhZDA1LTQuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=db6dc71dde2e089cc96d9ec1697c75791057b54df07dcff3589a7d8604285997" type="font/woff2" crossorigin><link
 rel="stylesheet"
-href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561706137049"
+href="//slot-1131.org/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561706615858"
 media="print"
 onload="this.media='all'"
 ><script>
@@ -543,11 +515,11 @@ document.documentElement.classList.add('shopify-design-mode');
 }
 </script>
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 62881824935,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 62881824935,storefrontBaseUrl: "https://0d9c56.myshopify.com",cdnBaseUrl: "https://0d9c56.myshopify.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44417495466151","image":{"src":"\/\/0d9c56.myshopify.com\/cdn\/shop\/files\/photo_2024-01-25_06-22-30.jpg?v=1706138812"},"price":{"amount":100.0,"currencyCode":"IDR"},"product":{"id":"7856685711527","title":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","untranslatedTitle":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","url":"\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","vendor":"Slot Demo","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44417495466151","image":{"src":"\/\/0d9c56.myshopify.com\/cdn\/shop\/files\/photo_2024-01-25_06-22-30.jpg?v=1706138812"},"price":{"amount":100.0,"currencyCode":"IDR"},"product":{"id":"7856685711527","title":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","untranslatedTitle":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","url":"\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","vendor":"Slot Demo","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://0d9c56.myshopify.com/cdn","0.0.421","3c0b1769wc1f578dfp245c945cmc18b238d",);</script><script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 68714955008,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 68714955008,storefrontBaseUrl: "https://slot-1131.org",cdnBaseUrl: "https://slot-1131.org/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44307437125888","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/1131-SLOT-GACOR-MAXWINU.png?v=1706616129"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"8386785640704","title":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","untranslatedTitle":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","url":"\/products\/situslsotgoaisjgroa","vendor":"Slot Gacor","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44307437125888","image":{"src":"\/\/slot-1131.org\/cdn\/shop\/files\/1131-SLOT-GACOR-MAXWINU.png?v=1706616129"},"price":{"amount":10000.0,"currencyCode":"IDR"},"product":{"id":"8386785640704","title":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","untranslatedTitle":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","url":"\/products\/situslsotgoaisjgroa","vendor":"Slot Gacor","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://slot-1131.org/cdn","0.0.422","bf4fed92wb9ddf0bepb9361ff0m0b6ed0fc",);</script><script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
-var meta = {"product":{"id":7856685711527,"gid":"gid:\/\/shopify\/Product\/7856685711527","vendor":"Slot Demo","type":"","variants":[{"id":44417495466151,"price":10000,"name":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7856685711527}};
+var meta = {"product":{"id":8386785640704,"gid":"gid:\/\/shopify\/Product\/8386785640704","vendor":"Slot Gacor","type":"","variants":[{"id":44307437125888,"price":1000000,"name":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":8386785640704}};
 for (var attr in meta) {
 window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -664,23 +636,23 @@ return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -
 };
 Monorail.produce('monorail-edge.shopifysvc.com',
 'trekkie_storefront_load_errors/1.1',
-{shop_id: 62881824935,
-theme_id: 133832442023,
+{shop_id: 68714955008,
+theme_id: 139735335168,
 app_name: "storefront",
 context_url: window.location.href,
-source_url: "//0d9c56.myshopify.com/cdn/s/trekkie.storefront.dbffdcd1045dcd69d6bd74f477a7dc6cba871206.min.js"});
+source_url: "//slot-1131.org/cdn/s/trekkie.storefront.b70346a623a279c4fc965b65024c5b4bed5535f0.min.js"});
 
 };
 scriptFallback.async = true;
-scriptFallback.src = '//0d9c56.myshopify.com/cdn/s/trekkie.storefront.dbffdcd1045dcd69d6bd74f477a7dc6cba871206.min.js';
+scriptFallback.src = '//slot-1131.org/cdn/s/trekkie.storefront.b70346a623a279c4fc965b65024c5b4bed5535f0.min.js';
 first.parentNode.insertBefore(scriptFallback, first);
 };
 script.async = true;
-script.src = '//0d9c56.myshopify.com/cdn/s/trekkie.storefront.dbffdcd1045dcd69d6bd74f477a7dc6cba871206.min.js';
+script.src = '//slot-1131.org/cdn/s/trekkie.storefront.b70346a623a279c4fc965b65024c5b4bed5535f0.min.js';
 first.parentNode.insertBefore(script, first);
 };
 trekkie.load(
-{"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":62881824935,"isMerchantRequest":null,"themeId":133832442023,"themeCityHash":"8442994870904162449","contentLanguage":"en","currency":"IDR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+{"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":68714955008,"isMerchantRequest":null,"themeId":139735335168,"themeCityHash":"8442994870904162449","contentLanguage":"en","currency":"IDR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
 );
 
 var loaded = false;
@@ -696,21 +668,21 @@ document.write = customDocumentWrite;
 try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
 document.write = originalDocumentWrite;
 
-window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":7856685711527});
+window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":8386785640704});
 
 var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
 var token = match? match[1]: undefined;
 if (!hasLoggedConversion(token)) {
 setCookieIfConversion(token);
-window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":44417495466151,"productId":7856685711527,"productGid":"gid:\/\/shopify\/Product\/7856685711527","name":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","price":"100.00","sku":"","brand":"Slot Demo","variant":null,"category":"","nonInteraction":true});
-window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":44417495466151,"productId":7856685711527,"productGid":"gid:\/\/shopify\/Product\/7856685711527","name":"Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu","price":"100.00","sku":"","brand":"Slot Demo","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/0d9c56.myshopify.com\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu"});
+window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"IDR","variantId":44307437125888,"productId":8386785640704,"productGid":"gid:\/\/shopify\/Product\/8386785640704","name":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","price":"10000.00","sku":"","brand":"Slot Gacor","variant":null,"category":"","nonInteraction":true});
+window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"IDR","variantId":44307437125888,"productId":8386785640704,"productGid":"gid:\/\/shopify\/Product\/8386785640704","name":"Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%","price":"10000.00","sku":"","brand":"Slot Gacor","variant":null,"category":"","nonInteraction":true,"referer":"https:\/\/slot-1131.org\/products\/situslsotgoaisjgroa"});
 }
 });
 
 
 var eventsListenerScript = document.createElement('script');
 eventsListenerScript.async = true;
-eventsListenerScript.src = "//0d9c56.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+eventsListenerScript.src = "//slot-1131.org/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
 document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
 })();</script>
@@ -726,11 +698,11 @@ window.BOOMR.snippetVersion = 12;
 window.BOOMR.application = "storefront-renderer";
 window.BOOMR.themeName = "Dawn";
 window.BOOMR.themeVersion = "12.0.0";
-window.BOOMR.shopId = 62881824935;
-window.BOOMR.themeId = 133832442023;
+window.BOOMR.shopId = 68714955008;
+window.BOOMR.themeId = 139735335168;
 window.BOOMR.renderRegion = "gcp-asia-southeast1";
 window.BOOMR.url =
-"https://0d9c56.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+"https://slot-1131.org/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
 var where = document.currentScript || document.getElementsByTagName("script")[0];
 var parentNode = where.parentNode;
 var promoted = false;
@@ -865,15 +837,15 @@ e.detail.BOOMR.t_end = new Date().getTime();
 <a class="skip-to-content-link button visually-hidden" href="#MainContent">
 Skip to content
 </a><!-- BEGIN sections: header-group -->
-<div id="shopify-section-sections--16385169817767__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706137045" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851706137050" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271706137047" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221706137042" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771706137042" media="print" onload="this.media='all'"><link rel="stylesheet" href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101706137049" media="print" onload="this.media='all'"><noscript><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706137045" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851706137050" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271706137047" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221706137042" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771706137042" rel="stylesheet" type="text/css" media="all" /></noscript>
+<div id="shopify-section-sections--17349925339392__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706615854" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851706615859" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271706615856" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221706615852" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771706615851" media="print" onload="this.media='all'"><link rel="stylesheet" href="//slot-1131.org/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101706615858" media="print" onload="this.media='all'"><noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706615854" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851706615859" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271706615856" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221706615852" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//slot-1131.org/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771706615851" rel="stylesheet" type="text/css" media="all" /></noscript>
 
 <style>
 header-drawer {
@@ -941,10 +913,10 @@ margin-bottom: 0px;
 padding-top: 20px;
 padding-bottom: 20px;
 }
-}</style><script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501706137053" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451706137053" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491706137040" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541706137060" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+}</style><script src="//slot-1131.org/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501706615862" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451706615862" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491706615849" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541706615869" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
 <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
 </symbol>
@@ -1022,7 +994,7 @@ aria-label="Clear search term"
 </button>
 </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
 
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706137046" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706615855" rel="stylesheet" type="text/css" media="all" />
 
 <div class="predictive-search__loading-state">
 <svg
@@ -1053,7 +1025,7 @@ aria-label="Close"
 
 <a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
 
-<img src="//0d9c56.myshopify.com/cdn/shop/files/logosu.png?v=1706137760&amp;width=600" alt="Slot Demo" srcset="//0d9c56.myshopify.com/cdn/shop/files/logosu.png?v=1706137760&amp;width=220 220w, //0d9c56.myshopify.com/cdn/shop/files/logosu.png?v=1706137760&amp;width=330 330w, //0d9c56.myshopify.com/cdn/shop/files/logosu.png?v=1706137760&amp;width=440 440w" width="220" height="50.18750000000001" loading="eager" class="header__heading-logo" sizes="(min-width: 750px) 220px, 50vw">
+<img src="https://slot1131.me/img/logo-1131.png?v=1706616226&amp;width=600" alt="Slot Gacor" srcset="https://slot1131.me/img/logo-1131.png?v=1706616226&amp;width=190 190w, https://slot1131.me/img/logo-1131.png?v=1706616226&amp;width=285 285w, https://slot1131.me/img/logo-1131.png?v=1706616226&amp;width=380 380w" width="190" height="43.34375000000001" loading="eager" class="header__heading-logo" sizes="(min-width: 750px) 190px, 50vw">
 </div></a><div class="header__icons header__icons--localization header-localization">
 <div class="desktop-localization-wrapper">
 </div>
@@ -1121,7 +1093,7 @@ aria-label="Clear search term"
 </button>
 </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
 
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706137046" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706615855" rel="stylesheet" type="text/css" media="all" />
 
 <div class="predictive-search__loading-state">
 <svg
@@ -1226,9 +1198,9 @@ display: none;
 {
 "@context": "http://schema.org",
 "@type": "Organization",
-"name": "Slot Demo",
+"name": "Slot Gacor",
 
-"logo": "https:\/\/0d9c56.myshopify.com\/cdn\/shop\/files\/logosu.png?v=1706137760\u0026width=500",
+"logo": "https:\/\/slot-1131.org\/cdn\/shop\/files\/logo1131-1_1.png?v=1706616226\u0026width=500",
 
 "sameAs": [
 "",
@@ -1241,43 +1213,43 @@ display: none;
 "",
 ""
 ],
-"url": "https:\/\/0d9c56.myshopify.com"
+"url": "https:\/\/slot-1131.org"
 }
 </script>
 </div>
 <!-- END sections: header-group -->
 
 <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-<section id="shopify-section-template--16385169490087__main" class="shopify-section section"><section
-id="MainProduct-template--16385169490087__main"
-class="section-template--16385169490087__main-padding gradient color-background-1"
-data-section="template--16385169490087__main"
+<section id="shopify-section-template--17349925011712__main" class="shopify-section section"><section
+id="MainProduct-template--17349925011712__main"
+class="section-template--17349925011712__main-padding gradient color-background-1"
+data-section="template--17349925011712__main"
 >
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601706137064" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811706137041" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101706137049" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681706137050" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-rating.css?v=157771854592137137841706137050" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471706137043" rel="stylesheet" type="text/css" media="all" />
-<style data-shopify>.section-template--16385169490087__main-padding {
+<link href="//slot-1131.org/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601706615873" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811706615850" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101706615858" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681706615859" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-rating.css?v=157771854592137137841706615858" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471706615852" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--17349925011712__main-padding {
 padding-top: 27px;
 padding-bottom: 9px;
 }
 
 @media screen and (min-width: 750px) {
-.section-template--16385169490087__main-padding {
+.section-template--17349925011712__main-padding {
 padding-top: 36px;
 padding-bottom: 12px;
 }
-}</style><script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201706137057" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181706137056" defer="defer"></script>
+}</style><script src="//slot-1131.org/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201706615866" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181706615866" defer="defer"></script>
 
 <div class="page-width">
 <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
 <div class="grid__item product__media-wrapper">
 
 <media-gallery
-id="MediaGallery-template--16385169490087__main"
+id="MediaGallery-template--17349925011712__main"
 role="region"
 
 class="product__column-sticky"
@@ -1285,28 +1257,28 @@ class="product__column-sticky"
 aria-label="Gallery Viewer"
 data-desktop-layout="stacked"
 >
-<div id="GalleryStatus-template--16385169490087__main" class="visually-hidden" role="status"></div>
-<slider-component id="GalleryViewer-template--16385169490087__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--16385169490087__main">
+<div id="GalleryStatus-template--17349925011712__main" class="visually-hidden" role="status"></div>
+<slider-component id="GalleryViewer-template--17349925011712__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--17349925011712__main">
 Skip to product information
 </a><ul
-id="Slider-Gallery-template--16385169490087__main"
+id="Slider-Gallery-template--17349925011712__main"
 class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
 role="list"
 ><li
-id="Slide-template--16385169490087__main-28441019547815"
+id="Slide-template--17349925011712__main-32607122358528"
 class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-data-media-id="template--16385169490087__main-28441019547815"
+data-media-id="template--17349925011712__main-32607122358528"
 >
 
 <div
 class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-style="--ratio: 1.7777777777777777; --preview-ratio: 1.7777777777777777;"
+style="--ratio: 1.4850498338870433; --preview-ratio: 1.4850498338870433;"
 >
 <noscript><div class="product__media media">
-<img src="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1946" alt="" srcset="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=246 246w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=493 493w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=600 600w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=713 713w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=823 823w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=990 990w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1100 1100w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1206 1206w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1346 1346w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1426 1426w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1646 1646w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1946 1946w" width="1946" height="1095" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+<img src="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1946" alt="" srcset="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=246 246w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=493 493w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=600 600w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=713 713w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=823 823w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=990 990w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1100 1100w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1206 1206w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1346 1346w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1426 1426w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1646 1646w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1946 1946w" width="1946" height="1310" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
 </div></noscript>
 
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--16385169490087__main">
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17349925011712__main">
 <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true"><svg
 aria-hidden="true"
 focusable="false"
@@ -1323,7 +1295,7 @@ xmlns="http://www.w3.org/2000/svg"
 </svg>
 </span>
 
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706137046" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706615855" rel="stylesheet" type="text/css" media="all" />
 
 <div class="loading__spinner hidden">
 <svg
@@ -1337,9 +1309,9 @@ xmlns="http://www.w3.org/2000/svg"
 </svg>
 </div>
 <div class="product__media media media--transparent">
-<img src="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1946" alt="" srcset="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=246 246w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=493 493w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=600 600w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=713 713w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=823 823w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=990 990w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1100 1100w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1206 1206w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1346 1346w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1426 1426w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1646 1646w, //0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&amp;width=1946 1946w" width="1946" height="1095" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+<img src="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1946" alt="" srcset="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=246 246w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=493 493w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=600 600w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=713 713w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=823 823w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=990 990w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1100 1100w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1206 1206w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1346 1346w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1426 1426w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1646 1646w, https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&amp;width=1946 1946w" width="1946" height="1310" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
 </div>
-<button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="28441019547815">
+<button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32607122358528">
 <span class="visually-hidden">
 Open media 1 in modal
 </span>
@@ -1380,37 +1352,37 @@ aria-label="Slide right"
 </div>
 <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
 <product-info
-id="ProductInfo-template--16385169490087__main"
-data-section="template--16385169490087__main"
-data-url="/products/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu"
+id="ProductInfo-template--17349925011712__main"
+data-section="template--17349925011712__main"
+data-url="/products/situslsotgoaisjgroa"
 class="product__info-container product__column-sticky"
 ><div class="product__title" >
-<h1>Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu</h1>
-<a href="/products/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu" class="product__title">
+<h1>Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%</h1>
+<a href="/products/situslsotgoaisjgroa" class="product__title">
 <h2 class="h1">
-Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu
+Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%
 </h2>
 </a>
-</div><div class="no-js-hidden" id="price-template--16385169490087__main" role="status" >
+</div><div class="no-js-hidden" id="price-template--17349925011712__main" role="status" >
 <div
 class="
 price price--large price--on-sale price--show-badge"
 >
 <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
 <span class="price-item price-item--regular">
-Rp 100,00 IDR
+Rp 10.000,00 IDR
 </span></div>
 <div class="price__sale">
 <span class="visually-hidden visually-hidden--inline">Regular price</span>
 <span>
 <s class="price-item price-item--regular">
 
-Rp 10.000,00 IDR
+Rp 50.000,00 IDR
 
 </s>
 </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
 <span class="price-item price-item--sale price-item--last">
-Rp 100,00 IDR
+Rp 10.000,00 IDR
 </span>
 </div>
 <small class="unit-price caption hidden">
@@ -1424,32 +1396,56 @@ Rp 100,00 IDR
 </span>
 </small>
 </div><span class="badge price__badge-sale color-accent-2">
-Sale
+Mulai Dari 10k
 </span>
-
+<h3>Informasi Link Situs Slot Gacor</h3>
+<table style="border-collapse: collapse; width: 110.2761%;" border="1"><colgroup><col style="width: 24.2015%;"><col style="width: 50.7985%;"></colgroup>
+    <tbody>
+    <tr>
+    <td>Situs</td>
+    <td><a href="https://bpsk.kuningankab.go.id/media/thailand-maxwin/" style="color: white;">Slot Gacor</a></td>
+    </tr>
+    <tr>
+    <td>Lisensi</td>
+    <td>Resmi Garansi Uang Kembali</td>
+    </tr>
+    <tr>
+    <td>Server</td>
+    <td>Thailand⭐️</td>
+    </tr>
+    <tr>
+    <td>Riwayat Withdraw </td>
+    <td>Rp 818.000.000.- username = ty***12👑</td>
+    </tr>
+    <tr>
+    <td>Minimal Depo</td>
+    <td>Rp 10.000,-</td>
+    </tr>
+    </tbody>
+    </table>
 <span class="badge price__badge-sold-out color-inverse">
 Sold out
 </span></div>
 </div><div class="product__tax caption rte"></div>
-<div ><form method="post" action="/cart/add" id="product-form-installment-template--16385169490087__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44417495466151">
+<div ><form method="post" action="/cart/add" id="product-form-installment-template--17349925011712__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44307437125888">
 
-<input type="hidden" name="product-id" value="7856685711527" /><input type="hidden" name="section-id" value="template--16385169490087__main" /></form></div>
-<noscript class="product-form__noscript-wrapper-template--16385169490087__main">
+<input type="hidden" name="product-id" value="8386785640704" /><input type="hidden" name="section-id" value="template--17349925011712__main" /></form></div>
+<noscript class="product-form__noscript-wrapper-template--17349925011712__main">
 <div class="product-form__input hidden">
-<label class="form__label" for="Variants-template--16385169490087__main">Product variants</label>
+<label class="form__label" for="Variants-template--17349925011712__main">Product variants</label>
 <div class="select">
 <select
 name="id"
-id="Variants-template--16385169490087__main"
+id="Variants-template--17349925011712__main"
 class="select__select"
-form="product-form-template--16385169490087__main"
+form="product-form-template--17349925011712__main"
 ><option
 
 selected="selected"
 
 
-value="44417495466151"
->Default Title - Rp 100,00</option></select>
+value="44307437125888"
+>Default Title - Rp 10.000,00</option></select>
 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
 </svg>
@@ -1458,11 +1454,15 @@ value="44417495466151"
 </div>
 </noscript>
 
-
+<div class="product__description rte quick-add-hidden" >
+<p> </p>
+<p><a href="https://main-slot1131.love/kun/naga-gacor/" title="Daftar Link Slot Gacor"><img src="https://slot1131.me/img/Borcelle.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
+<p style="color: rgb(255, 196, 0);">Slot gacor hari ini terjamin mudah dimenangkan melalui situs slot Thailand terpercaya SLOT1131 yang memiliki RTP server luar negeri berlisensi dan berani memebrikan garansi kekalahan 200% uang kembali.</p>
+</div>
 <div ><product-form
 class="product-form"
 data-hide-errors="false"
-data-section-id="template--16385169490087__main"
+data-section-id="template--17349925011712__main"
 >
 <div class="product-form__error-message-wrapper" role="alert" hidden>
 <svg
@@ -1477,23 +1477,23 @@ viewBox="0 0 13 13"
 <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
 </svg>
 <span class="product-form__error-message"></span>
-</div><form method="post" action="/cart/add" id="product-form-template--16385169490087__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+</div><form method="post" action="/cart/add" id="product-form-template--17349925011712__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
 type="hidden"
 name="id"
-value="44417495466151"
+value="44307437125888"
 
 class="product-variant-id"
 ><div class="product-form__buttons"><button
-id="ProductSubmitButton-template--16385169490087__main"
+id="ProductSubmitButton-template--17349925011712__main"
 type="submit"
 name="add"
 class="product-form__submit button button--full-width button--secondary"
 
 >
-<span>Add to cart
+<span>Tombol Daftar Di Atas
 </span>
 
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706137046" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481706615855" rel="stylesheet" type="text/css" media="all" />
 
 <div class="loading__spinner hidden">
 <svg
@@ -1506,13 +1506,13 @@ xmlns="http://www.w3.org/2000/svg"
 <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
 </svg>
 </div>
-</button><div data-shopify="payment-button" class="shopify-payment-button"> <dynamic-checkout wallet-configs="[]" access-token="c65f6fa7782de9b74398410d1a277b03" buyer-country="ID" buyer-locale="en" buyer-currency="IDR" variant-params="[{&quot;id&quot;:44417495466151,&quot;requiresShipping&quot;:false}]" shop-id="62881824935" > <div class="shopify-payment-button__button shopify-payment-button__skeleton" role="button" disabled aria-hidden="true">&nbsp;</div> </dynamic-checkout> </div>
-</div><input type="hidden" name="product-id" value="7856685711527" /><input type="hidden" name="section-id" value="template--16385169490087__main" /></form></product-form><link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961706137048" rel="stylesheet" type="text/css" media="all" />
+</button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" data-customer-accounts-required="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
+</div><input type="hidden" name="product-id" value="8386785640704" /><input type="hidden" name="section-id" value="template--17349925011712__main" /></form></product-form><link href="//slot-1131.org/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961706615857" rel="stylesheet" type="text/css" media="all" />
 <pickup-availability
 class="product__pickup-availabilities no-js-hidden quick-add-hidden"
 
 data-root-url="/"
-data-variant-id="44417495466151"
+data-variant-id="44307437125888"
 data-has-only-default-variant="true"
 data-product-page-color-scheme="gradient color-background-1"
 >
@@ -1540,12 +1540,98 @@ Refresh
 </template>
 </pickup-availability>
 
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331706137056" defer="defer"></script></div>
-<div class="product__description rte quick-add-hidden" >
-<p> </p>
-<p><a href="https://main-slot1131.love/prob/naga-demo/" title="Slot Demo"><img src="https://kosred.com/a/ftctbb.gif?v=1705136341" width="492" height="128" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
-<p>Telah hadir <a href="https://app.ppid.probolinggokab.go.id/application/eventdemo/">slot demo</a> paling bergengsi di jagat raya. Menghadirkan provider resmi dari SLOT1131 via akun demo slot rupiah khusus demo slot pragmatic & demo slot pg soft tanpa batasan waktu yang bisa kamu withdraw di event seru hanya di sini.</p>
-</div><a href="/products/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu" class="link product__view-details animate-arrow">
+<script src="//slot-1131.org/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331706615865" defer="defer"></script></div>
+
+
+<script src="//slot-1131.org/cdn/shop/t/1/assets/share.js?v=13024540447964430191706615874" defer="defer"></script>
+
+<share-button id="Share-template--17349925011712__main" class="share-button quick-add-hidden" >
+<button class="share-button__button hidden">
+<svg
+width="13"
+height="12"
+viewBox="0 0 13 12"
+class="icon icon-share"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+aria-hidden="true"
+focusable="false"
+>
+<path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
+</svg>
+
+Share
+</button>
+<details id="Details-share-template--17349925011712__main">
+<summary class="share-button__button">
+<svg
+width="13"
+height="12"
+viewBox="0 0 13 12"
+class="icon icon-share"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+aria-hidden="true"
+focusable="false"
+>
+<path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
+</svg>
+
+Share
+</summary>
+<div class="share-button__fallback motion-reduce">
+<div class="field">
+<span id="ShareMessage-template--17349925011712__main" class="share-button__message hidden" role="status"> </span>
+<input
+type="text"
+class="field__input"
+id="ShareUrl-template--17349925011712__main"
+value="https://bpsk.kuningankab.go.id/media/thailand-maxwin/"
+placeholder="Link"
+onclick="this.select();"
+readonly
+>
+<label class="field__label" for="ShareUrl-template--17349925011712__main">Link</label>
+</div>
+<button class="share-button__close hidden no-js-hidden">
+<svg
+xmlns="http://www.w3.org/2000/svg"
+aria-hidden="true"
+focusable="false"
+class="icon icon-close"
+fill="none"
+viewBox="0 0 18 17"
+>
+<path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+<span class="visually-hidden">Close share</span>
+</button>
+<button class="share-button__copy no-js-hidden">
+<svg
+class="icon icon-clipboard"
+width="11"
+height="13"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+aria-hidden="true"
+focusable="false"
+viewBox="0 0 11 13"
+>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/>
+</svg>
+
+<span class="visually-hidden">Copy link</span>
+</button>
+</div>
+</details>
+</share-button>
+
+<a href="/products/situslsotgoaisjgroa" class="link product__view-details animate-arrow">
 View full details
 <svg
 viewBox="0 0 14 10"
@@ -1564,7 +1650,7 @@ xmlns="http://www.w3.org/2000/svg"
 
 
 
-<product-modal id="ProductModal-template--16385169490087__main" class="product-media-modal media-modal">
+<product-modal id="ProductModal-template--17349925011712__main" class="product-media-modal media-modal">
 <div
 class="product-media-modal__dialog color-background-1 gradient"
 role="dialog"
@@ -1573,7 +1659,7 @@ aria-modal="true"
 tabindex="-1"
 >
 <button
-id="ModalClose-template--16385169490087__main"
+id="ModalClose-template--17349925011712__main"
 type="button"
 class="product-media-modal__toggle"
 aria-label="Close"
@@ -1599,22 +1685,22 @@ tabindex="0"
 >
 <img
 class="global-media-settings global-media-settings--no-shadow"
-srcset="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&width=550 550w,//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&width=1100 1100w,//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812 1280w"
+srcset="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&width=550 550w,https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129 894w"
 sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-src="//0d9c56.myshopify.com/cdn/shop/files/photo_2024-01-25_06-22-30.jpg?v=1706138812&width=1445"
-alt="Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu"
+src="https://slot1131.me/img/SLOT-THAILAND-1131.png?v=1706616129&width=1445"
+alt="Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%"
 loading="lazy"
 width="1100"
-height="619"
-data-media-id="28441019547815"
+height="741"
+data-media-id="32607122358528"
 ></div>
 </div>
 </product-modal>
 
 
 
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461706137057" defer="defer"></script>
-<script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091706137055" defer="defer"></script><script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461706615866" defer="defer"></script>
+<script src="//slot-1131.org/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091706615864" defer="defer"></script><script>
 document.addEventListener('DOMContentLoaded', function () {
 function isIE() {
 const ua = window.navigator.userAgent;
@@ -1625,17 +1711,17 @@ return msie > 0 || trident > 0;
 }
 
 if (!isIE()) return;
-const hiddenInput = document.querySelector('#product-form-template--16385169490087__main input[name="id"]');
+const hiddenInput = document.querySelector('#product-form-template--17349925011712__main input[name="id"]');
 const noScriptInputWrapper = document.createElement('div');
 const variantSwitcher =
-document.querySelector('variant-radios[data-section="template--16385169490087__main"]') ||
-document.querySelector('variant-selects[data-section="template--16385169490087__main"]');
+document.querySelector('variant-radios[data-section="template--17349925011712__main"]') ||
+document.querySelector('variant-selects[data-section="template--17349925011712__main"]');
 noScriptInputWrapper.innerHTML = document.querySelector(
-'.product-form__noscript-wrapper-template--16385169490087__main'
+'.product-form__noscript-wrapper-template--17349925011712__main'
 ).textContent;
 variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
 
-document.querySelector('#Variants-template--16385169490087__main').addEventListener('change', function (event) {
+document.querySelector('#Variants-template--17349925011712__main').addEventListener('change', function (event) {
 hiddenInput.value = event.currentTarget.value;
 });
 });
@@ -1643,22 +1729,22 @@ hiddenInput.value = event.currentTarget.value;
 {
 "@context": "http://schema.org/",
 "@type": "Product",
-"name": "Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu",
-"url": "https:\/\/0d9c56.myshopify.com\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu",
+"name": "Slot Thailand 👅 Slot Gacor Gampang Menang Hari Ini Server Luar Negeri Bergaransi 200%",
+"url": "https:\/\/slot-1131.org\/products\/situslsotgoaisjgroa",
 "image": [
-"https:\/\/0d9c56.myshopify.com\/cdn\/shop\/files\/photo_2024-01-25_06-22-30.jpg?v=1706138812\u0026width=1920"
+"https:\/\/slot-1131.org\/cdn\/shop\/files\/1131-SLOT-GACOR-MAXWINU.png?v=1706616129\u0026width=1920"
 ],
-"description": "Telah hadir slot demo paling bergengsi di jagat raya. Menghadirkan provider resmi dari SLOT1131 via akun demo slot rupiah khusus demo slot pragmatic & demo slot pg soft tanpa batasan waktu yang bisa kamu withdraw di event seru hanya di sini.",
+"description": " \n\nSlot gacor hari ini terjamin mudah dimenangkan melalui situs slot Thailand terpercaya SLOT1131 yang memiliki RTP server luar negeri berlisensi dan berani memebrikan garansi kekalahan 200% uang kembali.",
 
 "brand": {
 "@type": "Brand",
-"name": "Slot Demo"
+"name": "Slot Gacor"
 },
 "offers": [{
 "@type" : "Offer","availability" : "http://schema.org/InStock",
-"price" : 100.0,
+"price" : 10000.0,
 "priceCurrency" : "IDR",
-"url" : "https:\/\/0d9c56.myshopify.com\/products\/Event SLOT1131 20 Slot Demo Pragmatic & Demo Slot PG Tanpa Daftar Bisa Withdraw Tanpa Batasan Waktu?variant=44417495466151"
+"url" : "https:\/\/slot-1131.org\/products\/situslsotgoaisjgroa?variant=44307437125888"
 }
 ]
 }
@@ -1671,17 +1757,17 @@ hiddenInput.value = event.currentTarget.value;
 </main>
 
 <!-- BEGIN sections: footer-group -->
-<div id="shopify-section-sections--16385169784999__footer" class="shopify-section shopify-section-group-footer-group">
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/section-footer.css?v=125160298726032154631706137062" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261706137048" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706137045" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501706137045" rel="stylesheet" type="text/css" media="all" />
-<link href="//0d9c56.myshopify.com/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991706137045" rel="stylesheet" type="text/css" media="all" />
+<div id="shopify-section-sections--17349925306624__footer" class="shopify-section shopify-section-group-footer-group">
+<link href="//slot-1131.org/cdn/shop/t/1/assets/section-footer.css?v=125160298726032154631706615871" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261706615857" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991706615854" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501706615854" rel="stylesheet" type="text/css" media="all" />
+<link href="//slot-1131.org/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991706615855" rel="stylesheet" type="text/css" media="all" />
 <style data-shopify>.footer {
 margin-top: 0px;
 }
 
-.section-sections--16385169784999__footer-padding {
+.section-sections--17349925306624__footer-padding {
 padding-top: 27px;
 padding-bottom: 27px;
 }
@@ -1691,11 +1777,11 @@ padding-bottom: 27px;
 margin-top: 0px;
 }
 
-.section-sections--16385169784999__footer-padding {
+.section-sections--17349925306624__footer-padding {
 padding-top: 36px;
 padding-bottom: 36px;
 }
-}</style><footer class="footer color-background-1 gradient section-sections--16385169784999__footer-padding"><div
+}</style><footer class="footer color-background-1 gradient section-sections--17349925306624__footer-padding"><div
 class="footer__content-bottom scroll-trigger animate--slide-in"
 
 data-cascade
@@ -1709,10 +1795,9 @@ data-cascade
 </div></div>
 </div>
 <div class="footer__content-bottom-wrapper page-width">
-<div class="footer__copyright caption">
-<small class="copyright__content"
->&copy; 2024, <a href="/" title="">Slot Demo</a></small>
-<small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small></div>
+<div class="footer__copyright caption" style="color: rgb(255, 196, 0);">
+<small class="copyright__content">&copy; 2024, <a href="/" title="">Slot Gacor</a></small>
+<small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by SLOT1131 Amelia Tan</a></small></div>
 </div>
 </div>
 </footer>
@@ -1727,7 +1812,7 @@ data-cascade
 </ul>
 
 <script>
-window.shopUrl = 'https://0d9c56.myshopify.com';
+window.shopUrl = 'https://slot-1131.org';
 window.routes = {
 cart_add_url: '/cart/add',
 cart_change_url: '/cart/change',
@@ -1765,5 +1850,5 @@ playSlideshow: `Play slideshow`,
 recipientFormExpanded: `Gift card recipient form expanded`,
 recipientFormCollapsed: `Gift card recipient form collapsed`,
 };
-</script><script src="//0d9c56.myshopify.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141706137056" defer="defer"></script></body>
+</script><script src="//slot-1131.org/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141706615865" defer="defer"></script></body>
 </html>
