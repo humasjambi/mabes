@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html amp lang="id">
+
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>SLOT1131: Slot Gacor Hari Ini 2024</title>
+        <link rel="amphtml" href="https://slot1131.pro/gamegacor/">
+        <link rel="canonical" href="https://fkip.uniqhba.ac.id/"/>
+        <meta name="description" content="Menangkan kesempatan main slot gacor hari ini di provider SLOT1131 pilihan agen judi slot online terpercaya belakangan ini."/>
+        <meta name="keywords" content="slot gacor, situs slot gacor, slot gacor hari ini, slot gacor maxwin"/>
+        <meta name="robots" content="index, follow, noarchive"/>
+        <meta name="page-locale" content="id,en">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta content="true" name="HandheldFriendly">
+        <meta content="width" name="MobileOptimized">
+        <meta name="supported-amp-formats" content="websites">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="SLOT1131: Slot Gacor Hari Ini 2024">
+        <meta name="twitter:description" content="Menangkan kesempatan main slot gacor hari ini di provider SLOT1131 pilihan agen judi slot online terpercaya belakangan ini.">
+        <meta name="twitter:image:src" content="https://slot1131.pro/img/logo1131-1.png">
+        <meta name="og:title" content="SLOT1131: Slot Gacor Hari Ini 2024">
+        <meta name="og:description" content="Menangkan kesempatan main slot gacor hari ini di provider SLOT1131 pilihan agen judi slot online terpercaya belakangan ini.">
+        <meta name="og:image" content="https://slot1131.pro/img/logo1131-1.png">
+        <meta property="og:image:width" content="400">
+        <meta property="og:image:height" content="400">
+        <meta name="og:url" content="https://fkip.uniqhba.ac.id/">
+        <meta name="og:site_name" content="Slot Gacor">
+        <meta name="og:locale" content="ID_id">
+        <meta name="og:type" content="website">
+        <meta name="categories" content="Slot Gacor"/>
+        <meta name="language" content="ID">
+        <meta name="rating" content="general">
+        <meta name="copyright" content="Slot Gacor">
+        <meta name="author" content="Slot Gacor">
+        <meta name="distribution" content="global">
+        <meta name="publisher" content="Slot Gacor">
+        <meta name="geo.placename" content="Jakarta">
+        <meta name="geo.country" content="ID">
+        <meta name="geo.region" content="ID"/>
+        <meta name="tgn.nation" content="Indonesia">
+        <link rel="preload" as="image" href="https://slot1131.pro/img/logo1131-1.png"/>
+        <link rel="shortcut icon" href="https://slot1131.pro/img/logo1131-1.png" type="image/x-icon">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src='https://cdn.ampproject.org/v0.js'></script>
+<style amp-custom>
+* {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0
+            }
+            * {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #000000;
+    font-family: 'Courier New', monospace;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding-bottom: 20px;
+}
+.container_foto {
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.foto_img {
+    max-width: 100px;
+    border-radius: 100%;
+}
+
+
+.nombre{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 2rem;
+    font-family: 'Courier New', monospace;
+    color: #00d4b8;
+}
+.nombre h1 {
+    color: #00d4b8;
+    font-size: 20px;
+    text-align: center;
+    animation: glitch 2s infinite;
+}
+.container_enlaces {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    gap: 20px;
+}
+
+.enlaces {
+    background-color: #141a177d;
+    backdrop-filter: blur(4px);
+    min-width: 60%;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.7s;
+    font-size: 1rem;
+    border: 1px #00d4b8 solid;
+    animation: glitch 1.5s infinite;
+}
+
+.enlaces:hover{
+    background-color: #00d4b8;
+    color:#222831;
+    transition-duration: 0.7s;
+}
+
+.footer{
+    padding-top: 20px;
+    color: #fca605;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.6rem;
+
+}
+@keyframes glitch {
+      0% {
+        transform: translate(2px, 2px);
+        text-shadow: -1px -1px #00d4b8;
+      }
+      25% {
+        transform: translate(-2px, -2px);
+        text-shadow: 2px -1px #ff6a6a;
+      }
+      50% {
+        transform: translate(2px, -2px);
+        text-shadow: 1px 1px #00d4b8;
+      }
+      75% {
+        transform: translate(-2px, 2px);
+        text-shadow: -2px 1px #ff6a6a;
+      }
+      100% {
+        transform: translate(2px, 2px);
+        text-shadow: -1px -1px #00d4b8;
+      }
+    }
+    p {
+    color: white;
+    text-align: center;
+}
+</style>
+  
+  
+</head>
+<body>
+<header class="container">
+        <div class="container_foto">
+            <amp-img style="border-radius: 10px;" src="https://slot1131.pro/img/SLOT1131.gif" width="300" height="80" layout="intrinsic" alt="Slot Gacor"></amp-img>
+        </div>
+        <div class="nombre">
+            <h1>SLOT GACOR HARI INI</h1>           
+        </div>
+        <p>Link Situs Slot Gacor Terbaik di Tahun 2024</p>
+        <div class="nombre">
+            <amp-img height="250" width="350" alt="SLOT GACOR" src="https://slot1131.pro/img/CHAUNIMA-1131-SLOT-GACOR.png"></amp-img>
+        </div>
+        
+
+    </header>
+        
+    
+    <section class="container">
+        <div class="container_enlaces">
+            <a href="https://slot1131.pro/nagajp1131/" class="enlaces">DAFTAR & LOGIN SLOT GACOR</a>
+        </div>
+    </section>
+    <p>Menangkan kesempatan main slot gacor hari ini di provider SLOT1131 pilihan agen judi slot online terpercaya belakangan ini.</p>
+    <footer class="container">
+        <div class="footer">SLOT1131 © 2024. All right reserved.</div>
+    </footer>
+</body>
+</html>
