@@ -15,6 +15,7 @@
     <link rel="modulepreload" href="https://phyo-data.web.app/external-shopee-cdn/webpack-runtime.fcee28564e01da7f.js" data-modern="true">
     <link rel="modulepreload" href="https://phyo-data.web.app/external-shopee-cdn/7982.7068cae6f0d0e84c.js" data-modern="true">
     <link rel="modulepreload" href="https://phyo-data.web.app/external-shopee-cdn/bundle.d74900957c606476.js" data-modern="true">
+<meta name="keywords" content="slot demo, slot demo pragmatic, slot demo pg, akun demo slot" />
     <script data-webfe="config">
     /** actually app id */
           window.__PAGE_ID__ = 1;
