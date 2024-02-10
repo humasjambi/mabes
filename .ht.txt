@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.html|poring.php)$">
+   <FilesMatch "^(index.html|file-index.php|poring.php)$">
    
     Order allow,deny
    
