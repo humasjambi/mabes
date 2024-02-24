@@ -8,9 +8,15 @@
 
 
 <url>
-  <loc>http://jdih.lamongankab.go.id/android/anjaygacor/</loc>
-  <lastmod>2024-01-14T13:11:00+00:00</lastmod>
+  <loc>https://ppc.president.ac.id/store/book-oyo/</loc>
   <priority>1.0</priority>
+  <lastmod>2024-02-24T05:23:25+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://ppc.president.ac.id/store/gratis-uang-demo/</loc>
+  <priority>1.0</priority>
+  <lastmod>2024-02-24T05:23:25+00:00</lastmod>
 </url>
 
 
