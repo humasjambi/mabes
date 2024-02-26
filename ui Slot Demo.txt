@@ -1539,7 +1539,7 @@ $7.00
         class="ProductItem-details-excerpt"
         data-content-field="excerpt"
       >
-        <p style="color: azure;">Kapan lagi ada link <a href="https://icnere.ui.ac.id/wp-content/game-demo/">slot demo</a> yang memberikan fitur lengkap secara gratis, kumpulan game Pragmatic dan PG Soft terlengkap dengan akunnya yang bisa di WD atau menghasilkan uang, asli hanya disini! </p>
+        <p style="color: azure;">Kapan lagi ada link <a style="color: azure;" href="https://icnere.ui.ac.id/wp-content/game-demo/">slot demo</a> yang memberikan fitur lengkap secara gratis, kumpulan game Pragmatic dan PG Soft terlengkap dengan akunnya yang bisa di WD atau menghasilkan uang, asli hanya disini! </p>
       </div>
     
     
