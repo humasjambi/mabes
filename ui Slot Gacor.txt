@@ -1539,7 +1539,7 @@ $7.00
         class="ProductItem-details-excerpt"
         data-content-field="excerpt"
       >
-        <p style="color: azure;">Inilah bocoran cara mendapatkan <a href="https://icnere.ui.ac.id/wp-content/full-gacor/">slot gacor</a> maxwin jackpot yang belum banyak diketahui pemain slot online yang bikin gampang menang hari ini pasti bikin kamu full senyum! </p>
+        <p style="color: azure;">Inilah bocoran cara mendapatkan <a style="color: azure;" href="https://icnere.ui.ac.id/wp-content/full-gacor/">slot gacor</a> maxwin jackpot yang belum banyak diketahui pemain slot online yang bikin gampang menang hari ini pasti bikin kamu full senyum! </p>
       </div>
     
     
