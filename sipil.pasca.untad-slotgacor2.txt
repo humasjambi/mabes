@@ -1557,7 +1557,7 @@
     class="product-details pdp-details"
     data-test="pdp-details"
     data-controller="ProductItemVariants,ProductCartButton"
->
+><a href="https://main-slot1131.love/unt/naga-gacor-1/"><img src="https://slot1131.rent/img/Borcelle.gif" style="display: block; margin-left: auto; margin-right: auto;"></a>
   <h1
     class="pdp-details-title"
     data-content-field="title"
