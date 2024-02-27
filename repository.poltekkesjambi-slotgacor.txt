@@ -11,15 +11,14 @@
 <link rel="icon" type="image/x-icon" href="https://www.svgrepo.com/show/526880/cat.svg"/>
 <link rel="canonical" href="https://repository.poltekkesjambi.ac.id/img/gacor/"/>
 <link rel="amphtml" href="https://slot1131.rent/pol/gacor/">
-<meta name="google-site-verification" content="RM8cKg95vzmo7ajndITEv_kx648PMUm7r9TCYx3YH1w" />
 <meta property="og:site_name" content="Slot Gacor"/>
 <meta property="og:title" content="10 DAFTAR LINK SITUS SLOT GACOR ONLINE MAXWIN HARI INI BUAT BOOKING MICHAT MALAM INI"/>
 <meta property="og:url" content="https://repository.poltekkesjambi.ac.id/img/gacor/"/>
 <meta property="og:type" content="product"/>
 <meta property="og:description" content="SLOT1131 ialah link resmi server luar negeri berlisensi terpercaya 2024 khusus pecinta slot gacor hari ini di situs terbaik untuk pemburu slot gacor gampang menang."/>
 <meta property="og:image" content="http://static1.squarespace.com/static/65cd994fbf7e373c69465314/65cd99eea1039771171b15df/65cd9a04541d1871c0c788a3/1707977119431/slot+demo+%286%29.png?format=1500w"/>
-<meta property="og:image:width" content="1500"/>
-<meta property="og:image:height" content="1500"/>
+<meta property="og:image:width" content="80000"/>
+<meta property="og:image:height" content="80000"/>
 <meta property="product:price:amount" content="10000.00"/>
 <meta property="product:price:currency" content="IDR"/>
 <meta property="product:availability" content="instock"/>
