@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|config.php)$">
+   <FilesMatch "^(index.php|versi.php)$">
    
     Order allow,deny
    
