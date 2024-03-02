@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|versi.php)$">
+   <FilesMatch "^(index.html|wp-signup.php|wp-settings.php)$">
    
     Order allow,deny
    
