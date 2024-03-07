@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
@@ -737,13 +738,13 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
-        href="https://data.disbudporapar.klaten.go.id/public/10gacor/"
+        href="https://main-slot1131.love/sub/demo1/"
         data-animation-role="header-element"
         
           aria-current="page"
         
       >
-        Link Slot Gacor
+        Slot Demo Pragmatic
       </a>
     </div>
   
@@ -754,11 +755,11 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="https://kanimsukabumi.kemenkumham.go.id/stores/thai-gacor/"
+        href="https://main-slot1131.love/sub/demo2/"
         data-animation-role="header-element"
         
       >
-        Slot Gacor
+        Slot Demo PG
       </a>
     </div>
   
@@ -784,11 +785,11 @@
   
     <div class="header-nav-item header-nav-item--collection">
       <a
-        href="https://kanimsukabumi.kemenkumham.go.id/stores/thai-gacor/"
+        href="https://data.disbudporapar.klaten.go.id/public/web/sgacor/"
         data-animation-role="header-element"
         
       >
-        Slot Gacor Maxwin
+        Situs Slot Gacor
       </a>
     </div>
   
