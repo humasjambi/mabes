@@ -11,6 +11,7 @@
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
 <link rel="canonical" href="https://dishub.semarangkab.go.id/wp-content/uploads/2024/demo-online/"/>
 <link rel="amphtml" href="https://slot1131.rent/sem/demo/">
+<meta name="google-site-verification" content="bhyCDKtY7VNt40knezi1zNyLbO0WrppkRdZ2vi0RR-4" />
 <meta name="language" content="ID">
 <meta name="copyright" content="Slot Demo">
 <meta name="author" content="Slot Demo">
