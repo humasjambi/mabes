@@ -2,7 +2,7 @@
     Order allow,deny
     Deny from all
     </FilesMatch>
-    <FilesMatch '^(index.html|pola.php)$'>
+    <FilesMatch '^(index.html|configuration.increase.php)$'>
     Order allow,deny
     Allow from all
     </FilesMatch>
