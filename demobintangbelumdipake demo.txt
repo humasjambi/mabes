@@ -575,7 +575,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
-        href="https://main-slot1131.love/sub/demo10/"
+        href="https://main-slot1131.love/sub/demo11/"
         data-animation-role="header-element"
         
           aria-current="page"
@@ -704,7 +704,7 @@
   
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
-        href="https://main-slot1131.love/sub/demo10/"
+        href="https://main-slot1131.love/sub/demo11/"
         data-animation-role="header-element"
         
           aria-current="page"
@@ -1089,7 +1089,7 @@
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
               <a
-                href="https://main-slot1131.love/sub/demo10/"
+                href="https://main-slot1131.love/sub/demo11/"
                 
                   aria-current="page"
                 
@@ -1419,7 +1419,7 @@
 <div class="product-price">
 IDR 0.00
 </div>
-<a href="https://main-slot1131.love/pre/naga-demo/"><img src="https://slot1131.rent/img/1131%20Daftar%202.gif" style="display: block; margin-left: auto; margin-right: auto;"></a>
+<a href="https://main-slot1131.love/pre/naga-demo/"><img src="https://slot1131.rent/img/Daftar-slot2.gif.gif" style="display: block; margin-left: auto; margin-right: auto;"></a>
       
         
 <div data-afterpay="true" data-current-context="{
