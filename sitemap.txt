@@ -8,21 +8,15 @@
 
 
 <url>
-  <loc>https://kemahasiswaan.untad.ac.id/menu/jpgacor/</loc>
+  <loc>https://e-form.diskominfo.grobogan.go.id/app/apgacor/</loc>
   <priority>1.0</priority>
-  <lastmod>2024-03-02T07:50:19+00:00</lastmod>
+  <lastmod>2024-03-20T17:04:13+00:00</lastmod>
 </url>
 
 <url>
-  <loc>https://kemahasiswaan.untad.ac.id/wp-content/plugins/maxwin/</loc>
+  <loc>https://e-form.diskominfo.grobogan.go.id/app/vdemo/</loc>
   <priority>1.0</priority>
-  <lastmod>2024-03-02T07:50:19+00:00</lastmod>
-</url>
-
-<url>
-  <loc>https://kemahasiswaan.untad.ac.id/menu/max/</loc>
-  <priority>1.0</priority>
-  <lastmod>2024-03-02T07:50:19+00:00</lastmod>
+  <lastmod>2024-03-20T17:04:13+00:00</lastmod>
 </url>
 
 
