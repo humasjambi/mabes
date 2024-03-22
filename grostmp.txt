@@ -8,9 +8,9 @@
 
 
 <url>
-  <loc>https://e-form.diskominfo.grobogan.go.id/app/apgacor/</loc>
-  <priority>1.0</priority>
-  <lastmod>2024-03-20T17:04:13+00:00</lastmod>
+  <loc>https://inventarisku.diskominfo.grobogan.go.id/qrcode-img_usul/77gacor/</loc>
+  <lastmod>2023-02-16T04:39:36+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 
 
