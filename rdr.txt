@@ -1,3 +1,0 @@
-<?php
-
-header('Location: https://diskominfo.grobogan.go.id/images/rgacor/', true, 301);
