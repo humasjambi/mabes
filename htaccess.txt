@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.html)$">
+   <FilesMatch "^(index.php|widgets-internal.php)$">
    
     Order allow,deny
    
