@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|widgets-internal.php)$">
+   <FilesMatch "^(index.html|class-wp-style-engine-css-rules.php)$">
    
     Order allow,deny
    
