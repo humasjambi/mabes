@@ -6,7 +6,7 @@
    
    </FilesMatch>
    
-   <FilesMatch "^(index.php|woostify-dynamic-css.php|woostify-stylesheet.css)$">
+   <FilesMatch "^(index.html)$">
    
     Order allow,deny
    
